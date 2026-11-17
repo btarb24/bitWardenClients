@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "VWClient"
   },
   "appLogoLabel": {
-    "message": "Bitwarden-logo"
+    "message": "VWClient-logo"
   },
   "extName": {
-    "message": "Bitwarden Salasanahallinta",
+    "message": "VWClient",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Bitwarden-salasananhallinta Beta",
+    "message": "VWClient Beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "Kotona, töissä tai reissussa, Bitwarden suojaa salasanasi, pääsyavaimesi ja arkaluonteiset tietosi helposti.",
+    "message": "VWClient",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -27,7 +27,7 @@
     "message": "Luo tili"
   },
   "newToBitwarden": {
-    "message": "Oletko uusi Bitwarden-käyttäjä?"
+    "message": "Oletko uusi VWClient-käyttäjä?"
   },
   "logInWithPasskey": {
     "message": "Kirjaudu pääsyavaimella"
@@ -324,22 +324,22 @@
     "message": "Avataanko verkkosovellus?"
   },
   "continueToWebAppDesc": {
-    "message": "Tutustu Bitwarden-tilisi muihin ominaisuuksiin verkkosovelluksessa."
+    "message": "Tutustu VWClient-tilisi muihin ominaisuuksiin verkkosovelluksessa."
   },
   "continueToHelpCenter": {
     "message": "Avataanko tukikeskus?"
   },
   "continueToHelpCenterDesc": {
-    "message": "Lue Tukikeskuksesta lisää Bitwardenin käytöstä."
+    "message": "Lue Tukikeskuksesta lisää VWClientin käytöstä."
   },
   "continueToBrowserExtensionStore": {
     "message": "Avataanko selaimen laajennuskauppa?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Auta muita selvittämään sopiiko Bitwarden heille. Arvioi se selaimesi laajennuskaupassa nyt."
+    "message": "Auta muita selvittämään sopiiko VWClient heille. Arvioi se selaimesi laajennuskaupassa nyt."
   },
   "changeMasterPasswordOnWebConfirmation": {
-    "message": "Voit vaihtaa pääsalasanasi Bitwardenin verkkosovelluksessa."
+    "message": "Voit vaihtaa pääsalasanasi VWClientin verkkosovelluksessa."
   },
   "fingerprintPhrase": {
     "message": "Tunnistelause",
@@ -356,31 +356,31 @@
     "message": "Kirjaudu ulos"
   },
   "aboutBitwarden": {
-    "message": "Tietoja Bitwardenista"
+    "message": "Tietoja VWClientista"
   },
   "about": {
     "message": "Tietoja"
   },
   "moreFromBitwarden": {
-    "message": "Lisää Bitwardenilta"
+    "message": "Lisää VWClientilta"
   },
   "continueToBitwardenDotCom": {
     "message": "Avataanko bitwarden.com?"
   },
   "bitwardenForBusiness": {
-    "message": "Bitwarden for Business"
+    "message": "VWClient for Business"
   },
   "bitwardenAuthenticator": {
-    "message": "Bitwarden Authenticator"
+    "message": "VWClient Authenticator"
   },
   "continueToAuthenticatorPageDesc": {
-    "message": "Bitwarden Authenticatorin avulla voit säilyttää todennusavaimet ja luoda TOTP-koodeja kaksivaiheista kirjautumista varten. Lue lisää bitwarden.com-sivustolta."
+    "message": "VWClient Authenticatorin avulla voit säilyttää todennusavaimet ja luoda TOTP-koodeja kaksivaiheista kirjautumista varten. Lue lisää bitwarden.com-sivustolta."
   },
   "bitwardenSecretsManager": {
-    "message": "Bitwarden Salaisuushallinta"
+    "message": "VWClient Salaisuushallinta"
   },
   "continueToSecretsManagerPageDesc": {
-    "message": "Säilytä, hallitse ja jaa kehittäjäsalaisuuksia turvallisesti Bitwardenin Salaisuushallinnalla. Lue lisää bitwarden.com-sivustolta."
+    "message": "Säilytä, hallitse ja jaa kehittäjäsalaisuuksia turvallisesti VWClientin Salaisuushallinnalla. Lue lisää bitwarden.com-sivustolta."
   },
   "passwordlessDotDev": {
     "message": "Passwordless.dev"
@@ -389,10 +389,10 @@
     "message": "Luo perinteisistä salasanoista vapaita sujuvia ja turvallisia kirjautumisratkaisuja Passwordless.dev-palvelussa. Tutustu palveluun bitwarden.com-sivustolla."
   },
   "freeBitwardenFamilies": {
-    "message": "Ilmainen Bitwarden Families"
+    "message": "Ilmainen VWClient Families"
   },
   "freeBitwardenFamiliesPageDesc": {
-    "message": "Olet oikeutettu ilmaiseen Bitwarden Families -tilaukseen. Lunasta tarjous verkkosovelluksessa tänään."
+    "message": "Olet oikeutettu ilmaiseen VWClient Families -tilaukseen. Lunasta tarjous verkkosovelluksessa tänään."
   },
   "version": {
     "message": "Versio"
@@ -458,13 +458,13 @@
     "message": "Tuki ja palaute"
   },
   "helpCenter": {
-    "message": "Bitwardenin Tukikeskus"
+    "message": "VWClientin Tukikeskus"
   },
   "communityForums": {
-    "message": "Tutustu Bitwardenin keskustelualueeseen"
+    "message": "Tutustu VWClientin keskustelualueeseen"
   },
   "contactSupport": {
-    "message": "Ota yhteyttä Bitwardenin asiakaspalveluun"
+    "message": "Ota yhteyttä VWClientin asiakaspalveluun"
   },
   "sync": {
     "message": "Synkronointi"
@@ -486,7 +486,7 @@
     "message": "Luo kirjautumistiedoillesi automaattisesti vahvoja, ainutlaatuisia salasanoja."
   },
   "bitWebVaultApp": {
-    "message": "Bitwarden Verkkosovellus"
+    "message": "VWClient Verkkosovellus"
   },
   "select": {
     "message": "Valitse"
@@ -864,7 +864,7 @@
     "message": "Lataa ja jaa diagnostiikkaraportti"
   },
   "bitwardenSupport": {
-    "message": "Bitwardenin asiakaspalvelulle",
+    "message": "VWClientin asiakaspalvelulle",
     "description": "Link text following the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -1081,10 +1081,10 @@
     "message": "Tee kaksivaiheisesta kirjautumisesta saumatonta"
   },
   "totpHelper": {
-    "message": "Bitwarden voi säilyttää ja täyttää kaksivaiheisen kirjautumisen koodit. Kopioi ja liitä todennusavain tähän kenttään."
+    "message": "VWClient voi säilyttää ja täyttää kaksivaiheisen kirjautumisen koodit. Kopioi ja liitä todennusavain tähän kenttään."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden voi säilyttää ja täyttää kaksivaiheisen kirjautumisen koodit. Kamerakuvakkeella voit kaapata todennusavaimen avoimen sivun QR-koodista automaattisesti, tai voit kopioida ja liittää sen tähän kenttään manuaalisesti."
+    "message": "VWClient voi säilyttää ja täyttää kaksivaiheisen kirjautumisen koodit. Kamerakuvakkeella voit kaapata todennusavaimen avoimen sivun QR-koodista automaattisesti, tai voit kopioida ja liittää sen tähän kenttään manuaalisesti."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Lue lisää todentajista"
@@ -1174,7 +1174,7 @@
     "message": "Kaksivaiheinen kirjautuminen parantaa tilisi suojausta vaatimalla kirjautumisen vahvistuksen salasanan lisäksi suojausavaimen, ‑sovelluksen, tekstiviestin, puhelun tai sähköpostin avulla. Voit ottaa kaksivaiheisen kirjautumisen käyttöön bitwarden.com‑verkkoholvissa. Haluatko avata sen nyt?"
   },
   "twoStepLoginConfirmationContent": {
-    "message": "Paranna tilisi suojausta määrittämällä kaksivaiheinen kirjautuminen Bitwardenin verkkosovelluksessa."
+    "message": "Paranna tilisi suojausta määrittämällä kaksivaiheinen kirjautuminen VWClientin verkkosovelluksessa."
   },
   "twoStepLoginConfirmationTitle": {
     "message": "Avataanko verkkosovellus?"
@@ -1333,7 +1333,7 @@
     "message": "Siirry asetuksiin"
   },
   "notificationAddDesc": {
-    "message": "Haluatko, että Bitwarden muistaa salasanan puolestasi?"
+    "message": "Haluatko, että VWClient muistaa salasanan puolestasi?"
   },
   "notificationAddSave": {
     "message": "Tallenna"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "tallennettu Bitwardeniin.",
+    "message": "tallennettu VWClientiin.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "päivitetty Bitwardeniin.",
+    "message": "päivitetty VWClientiin.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "Tarjoa uusien pääsyavainten tallennusta sekä kirjautumista holvissasi olevilla pääsyavaimilla. Koskee kaikkia kirjautuneita tilejä."
   },
   "notificationChangeDesc": {
-    "message": "Haluatko päivittää salasanan Bitwardeniin?"
+    "message": "Haluatko päivittää salasanan VWClientiin?"
   },
   "notificationChangeSave": {
     "message": "Päivitä"
   },
   "notificationUnlockDesc": {
-    "message": "Viimeistele automaattitäyttö avaamalla Bitwarden-holvisi lukitus."
+    "message": "Viimeistele automaattitäyttö avaamalla VWClient-holvisi lukitus."
   },
   "notificationUnlock": {
     "message": "Avaa"
@@ -1786,10 +1786,10 @@
     "message": "Tätä salasanaa käytetään tämän tiedoston viennissä ja tuonnissa"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Salaa vienti ja rajoita tuonti vain nykyiselle Bitwarden-tilille tilisi käyttäjätunnukseen ja pääsalasanaan pohjautuvalla salausavaimella."
+    "message": "Salaa vienti ja rajoita tuonti vain nykyiselle VWClient-tilille tilisi käyttäjätunnukseen ja pääsalasanaan pohjautuvalla salausavaimella."
   },
   "passwordProtectedOptionDescription": {
-    "message": "Salaa vientitiedosto salasanalla, joka mahdollistaa sen tuonnin mille tahansa Bitwarden-tilille."
+    "message": "Salaa vientitiedosto salasanalla, joka mahdollistaa sen tuonnin mille tahansa VWClient-tilille."
   },
   "exportTypeHeading": {
     "message": "Viennin tyyppi"
@@ -1818,7 +1818,7 @@
     "message": "Tämä vienti salaa tietosi käyttäjätilisi salausavaimella. Jos joskus uudistat tilisi salausavaimen, on tiedot vietävä uudelleen, koska et voi enää purkaa nyt luodun vientitiedoston salausta."
   },
   "encExportAccountWarningDesc": {
-    "message": "Tilin salausavaimet ovat ainutlaatuisia jokaiselle Bitwarden-käyttäjätilille, joten et voi tuoda salattua vientitiedostoa toiselle tilille."
+    "message": "Tilin salausavaimet ovat ainutlaatuisia jokaiselle VWClient-käyttäjätilille, joten et voi tuoda salattua vientitiedostoa toiselle tilille."
   },
   "exportMasterPassword": {
     "message": "Syötä pääsalasana viedäksesi holvisi tiedot."
@@ -1842,7 +1842,7 @@
     "message": "Lisää jaettu kansio"
   },
   "bitwardenForBusinessPageDesc": {
-    "message": "Bitwarden for Business mahdollistaa holvisi sisällön jakamisen organisaation avulla. Lue lisää osoitteesta bitwarden.com."
+    "message": "VWClient for Business mahdollistaa holvisi sisällön jakamisen organisaation avulla. Lue lisää osoitteesta bitwarden.com."
   },
   "moveToOrganization": {
     "message": "Siirrä organisaatiolle"
@@ -2044,7 +2044,7 @@
     "message": "Osta Premium"
   },
   "premiumPurchaseAlertV2": {
-    "message": "Voit ostaa Premiumin tiliasetuksistasi Bitwardenin verkkosovelluksen kautta."
+    "message": "Voit ostaa Premiumin tiliasetuksistasi VWClientin verkkosovelluksen kautta."
   },
   "premiumFeatures": {
     "message": "Päivitä Premiumiin niin saat:"
@@ -2150,7 +2150,7 @@
     "message": "Todennussovellus"
   },
   "authenticatorAppDescV2": {
-    "message": "Syötä Bitwarden Authenticatorin kaltaisen todennusovelluksen luoma koodi.",
+    "message": "Syötä VWClient Authenticatorin kaltaisen todennusovelluksen luoma koodi.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -2183,7 +2183,7 @@
     "message": "Itse ylläpidetty palvelinympäristö"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Määritä itse ylläpitämäsi Bitwarden-asennuksen perusosoite. Esimerkki: https://bitwarden.yritys.fi."
+    "message": "Määritä itse ylläpitämäsi VWClient-asennuksen perusosoite. Esimerkki: https://bitwarden.yritys.fi."
   },
   "selfHostedCustomEnvHeader": {
     "message": "Edistynyttä määritystä varten voit syöttää jokaisen palvelun perusosoitteen erikseen."
@@ -2236,7 +2236,7 @@
     "message": "Löydä helposti automaattisen täytön ehdotukset"
   },
   "autofillSpotlightDesc": {
-    "message": "Poista käytöstä selaimesi oletuksena asetetut automaattisen täytön asetukset, joten ne eivät aiheuta ongelmia Bitwardenin kanssa."
+    "message": "Poista käytöstä selaimesi oletuksena asetetut automaattisen täytön asetukset, joten ne eivät aiheuta ongelmia VWClientin kanssa."
   },
   "turnOffBrowserAutofill": {
     "message": "Poista automaattitäyttö käytöstä selaimessa $BROWSER$",
@@ -2293,7 +2293,7 @@
     "message": "Näytä automaattitäytön ehdotukset lomakekentissä"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Miten Bitwarden suojaa tietojasi tietojenkalastelulta?"
+    "message": "Miten VWClient suojaa tietojasi tietojenkalastelulta?"
   },
   "currentWebsite": {
     "message": "Nykyinen verkkosivusto"
@@ -3202,7 +3202,7 @@
     "message": "Heikko pääsalasana"
   },
   "weakMasterPasswordDesc": {
-    "message": "Valitsemasi pääsalasana on heikko. Sinun tulisi käyttää vahvaa pääsalasanaa (tai salalausetta) suojataksesi Bitwarden-tilisi kunnolla. Haluatko varmasti käyttää tätä pääsalasanaa?"
+    "message": "Valitsemasi pääsalasana on heikko. Sinun tulisi käyttää vahvaa pääsalasanaa (tai salalausetta) suojataksesi VWClient-tilisi kunnolla. Haluatko varmasti käyttää tätä pääsalasanaa?"
   },
   "rotateAccountEncKey": {
     "message": "Kierrätä myös tilini salausavain"
@@ -3214,7 +3214,7 @@
     "message": "Haluatko varmasti kierrättää tilisi salausavaimen?"
   },
   "updateEncryptionKeyWarning": {
-    "message": "Kun olet päivittänyt salausavaimesi, sinun on kirjauduttava ulos ja takaisin sisään kaikissa Bitwarden-sovelluksissa, joita käytät parhaillaan (kuten mobiilisovellus tai selainlaajennukset). Jos et kirjaudu ulos ja takaisin sisään (jolloin uusi salausavaimesi ladataan), tietosi voivat vioittua. Yritämme kirjata sinut ulos automaattisesti, mutta se voi viivästyä."
+    "message": "Kun olet päivittänyt salausavaimesi, sinun on kirjauduttava ulos ja takaisin sisään kaikissa VWClient-sovelluksissa, joita käytät parhaillaan (kuten mobiilisovellus tai selainlaajennukset). Jos et kirjaudu ulos ja takaisin sisään (jolloin uusi salausavaimesi ladataan), tietosi voivat vioittua. Yritämme kirjata sinut ulos automaattisesti, mutta se voi viivästyä."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "Kaikki tallentamasi tilityyppikohtaiset viennit mitätöityvät."
@@ -3242,10 +3242,10 @@
     "message": "Aseta PIN"
   },
   "setYourPinCode": {
-    "message": "Aseta PIN-koodi Bitwardenin avaukselle. PIN-asetukset tyhjentyvät, jos kirjaudut laajennuksesta kokonaan ulos."
+    "message": "Aseta PIN-koodi VWClientin avaukselle. PIN-asetukset tyhjentyvät, jos kirjaudut laajennuksesta kokonaan ulos."
   },
   "setPinCode": {
-    "message": "Voit käyttää PIN-koodia avataksesi Bitwardenin. PIN-koodisi nollataan, mikäli kirjaudut täysin ulos sovelluksesta."
+    "message": "Voit käyttää PIN-koodia avataksesi VWClientin. PIN-koodisi nollataan, mikäli kirjaudut täysin ulos sovelluksesta."
   },
   "pinRequired": {
     "message": "PIN-koodi vaaditaan."
@@ -3266,7 +3266,7 @@
     "message": "Odottaa vahvistusta työpöydältä"
   },
   "awaitDesktopDesc": {
-    "message": "Vahvista biometrian käyttö Bitwardenin työpöytäsovelluksesta käyttääksesi sitä selaimessa."
+    "message": "Vahvista biometrian käyttö VWClientin työpöytäsovelluksesta käyttääksesi sitä selaimessa."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Lukitse pääsalasanalla kun selain käynnistetään uudelleen"
@@ -3381,7 +3381,7 @@
     "message": "Lomakkeen URI-osoite poikkeaa kirjautumistietoon tallennetusta osoitteesta. Salli sen automaattinen täyttö siitä huolimatta valitsemalla OK tai estä se valitsemalla Peruuta."
   },
   "autofillIframeWarningTip": {
-    "message": "Välttyäksesi varoitukselta jatkossa, tallenna URI $HOSTNAME$ sivustolle tallennettuun Bitwarden-kirjautumistietoosi.",
+    "message": "Välttyäksesi varoitukselta jatkossa, tallenna URI $HOSTNAME$ sivustolle tallennettuun VWClient-kirjautumistietoosi.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Tämä sivu häiritsee Bitwardenin toimintaa. Bitwardenin sisäinen valikko on poistettu väliaikaisesti käytöstä turvatoimenpiteenä."
+    "message": "Tämä sivu häiritsee VWClientin toimintaa. VWClientin sisäinen valikko on poistettu väliaikaisesti käytöstä turvatoimenpiteenä."
   },
   "setMasterPassword": {
     "message": "Aseta pääsalasana"
@@ -3447,7 +3447,7 @@
     "message": "Uusi pääsalasanasi ei täytä käytännön määrittämiä vaatimuksia."
   },
   "receiveMarketingEmails": {
-    "message": "Vastaanota Bitwardenin päivityksiä sähköpostiisi."
+    "message": "Vastaanota VWClientin päivityksiä sähköpostiisi."
   },
   "unsubscribe": {
     "message": "Lopeta tilaus"
@@ -3492,13 +3492,13 @@
     "message": "Selainintegraatio ei ole käytössä"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Selainintegraatiota ei ole määritetty Bitwardenin työpöytäsovelluksesta. Määritä se työpöytäsovelluksen asetuksista."
+    "message": "Selainintegraatiota ei ole määritetty VWClientin työpöytäsovelluksesta. Määritä se työpöytäsovelluksen asetuksista."
   },
   "startDesktopTitle": {
-    "message": "Käynnistä Bitwardenin työpöytäsovellus"
+    "message": "Käynnistä VWClientin työpöytäsovellus"
   },
   "startDesktopDesc": {
-    "message": "Bitwardenin työpöytäsovellus on käynnistettävä ennen kuin biometristä avausta voidaan käyttää."
+    "message": "VWClientin työpöytäsovellus on käynnistettävä ennen kuin biometristä avausta voidaan käyttää."
   },
   "errorEnableBiometricTitle": {
     "message": "Biometriaa ei voitu määrittää"
@@ -3552,13 +3552,13 @@
     "message": "Biometria epäonnistui"
   },
   "biometricsFailedDesc": {
-    "message": "Biometristä todennusta ei voida suorittaa. Harkitse pääsalasanan käyttämistä tai uloskirjautumista. Jos tämä jatkuu, ole yhteydessä Bitwardenin asiakaspalveluun."
+    "message": "Biometristä todennusta ei voida suorittaa. Harkitse pääsalasanan käyttämistä tai uloskirjautumista. Jos tämä jatkuu, ole yhteydessä VWClientin asiakaspalveluun."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Käyttöoikeutta ei myönnetty"
   },
   "nativeMessagingPermissionErrorDesc": {
-    "message": "Ilman käyttöoikeutta viestiä Bitwarden-työpöytäsovelluksen kanssa emme voi tarjota biometriikkaa selainlaajennuksessa. Yritä uudelleen."
+    "message": "Ilman käyttöoikeutta viestiä VWClient-työpöytäsovelluksen kanssa emme voi tarjota biometriikkaa selainlaajennuksessa. Yritä uudelleen."
   },
   "nativeMessagingPermissionSidebarTitle": {
     "message": "Käyttöoikeuspyynnön virhe"
@@ -3595,7 +3595,7 @@
     "message": "Ohitettavat verkkotunnukset"
   },
   "excludedDomainsDesc": {
-    "message": "Bitwarden ei pyydä kirjautumistietojen tallennusta näille verkkotunnuksille. Päivitä sivu ottaaksesi muutokset käyttöön."
+    "message": "VWClient ei pyydä kirjautumistietojen tallennusta näille verkkotunnuksille. Päivitä sivu ottaaksesi muutokset käyttöön."
   },
   "blockedDomainsDesc": {
     "message": "Näille sivustoille ei tarjota automaattista täyttöä eikä muita siihen liittyviä ominaisuuksia. Sinun on päivitettävä sivu, jotta muutokset tulevat voimaan."
@@ -3727,24 +3727,24 @@
     "message": "Kuvitus vaarantuneiden kirjautumistietojen luettelosta."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Kuva Bitwarden-holvisivun asettelusta."
+    "message": "Kuva VWClient-holvisivun asettelusta."
   },
   "generatePasswordSlideDesc": {
-    "message": "Luo vahva ja ainutlaatuinen salasana nopeasti Bitwardenin automaattitäytön valikosta vaarantuneella sivustolla.",
+    "message": "Luo vahva ja ainutlaatuinen salasana nopeasti VWClientin automaattitäytön valikosta vaarantuneella sivustolla.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Kuvitus Bitwardenin automaattitäytön valikosta, luodulla salasanalla."
+    "message": "Kuvitus VWClientin automaattitäytön valikosta, luodulla salasanalla."
   },
   "updateInBitwarden": {
-    "message": "Päivitä Bitwardenissa"
+    "message": "Päivitä VWClientissa"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Bitwarden pyytää sinua sitten päivittämään salasanan salasanahallinnassa.",
+    "message": "VWClient pyytää sinua sitten päivittämään salasanan salasanahallinnassa.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Kuvitus ilmoituksesta, jossa Bitwarden tarjoaa kirjautumistiedon päivitystä."
+    "message": "Kuvitus ilmoituksesta, jossa VWClient tarjoaa kirjautumistiedon päivitystä."
   },
   "turnOnAutofill": {
     "message": "Ota automaattitäyttö käyttöön"
@@ -4259,10 +4259,10 @@
     "message": "Virhe haettaessa automaattitäytön tietoja"
   },
   "couldNotDecryptVaultItem": {
-    "message": "Bitwarden ei voinut purkaa alla luetellun holvikohteen salausta. Ota yhteyttä Bitwardenin asiakastukeen ja toimita alla oleva kohteen tunnus, jotta voidaan selvittää, voidaanko se palauttaa."
+    "message": "VWClient ei voinut purkaa alla luetellun holvikohteen salausta. Ota yhteyttä VWClientin asiakastukeen ja toimita alla oleva kohteen tunnus, jotta voidaan selvittää, voidaanko se palauttaa."
   },
   "couldNotDecryptVaultItems": {
-    "message": "Bitwarden ei voinut purkaa alla lueteltujen holvikohteiden salausta. Ota yhteyttä Bitwardenin asiakastukeen ja toimita alla olevat kohteiden tunnukset, jotta voidaan selvittää, voidaanko ne palauttaa."
+    "message": "VWClient ei voinut purkaa alla lueteltujen holvikohteiden salausta. Ota yhteyttä VWClientin asiakastukeen ja toimita alla olevat kohteiden tunnukset, jotta voidaan selvittää, voidaanko ne palauttaa."
   },
   "itemId": {
     "message": "Kohteen tunnus",
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Bitwardenin luoma.",
+    "message": "VWClientin luoma.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Verkkosivusto: $WEBSITE$. Bitwardenin luoma.",
+    "message": "Verkkosivusto: $WEBSITE$. VWClientin luoma.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Laitteellesi on lähetetty ilmoitus."
   },
   "notificationSentDevicePart1": {
-    "message": "Avaa Bitwarden laitteellasi tai"
+    "message": "Avaa VWClient laitteellasi tai"
   },
   "notificationSentDeviceAnchor": {
     "message": "verkkosovelluksena"
@@ -5098,15 +5098,15 @@
     "message": "Siirry sisältöön"
   },
   "bitwardenOverlayButton": {
-    "message": "Bitwardenin automaattitäytön painike",
+    "message": "VWClientin automaattitäytön painike",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Kytke Bitwardenin automaattitäytön valikko",
+    "message": "Kytke VWClientin automaattitäytön valikko",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Bitwardenin automaattitäytön valikko",
+    "message": "VWClientin automaattitäytön valikko",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Bitwardenin automaattitäytön valikko on käytettävissä. Avaa se painamalla alas-nuolinäppäintä.",
+    "message": "VWClientin automaattitäytön valikko on käytettävissä. Avaa se painamalla alas-nuolinäppäintä.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -5550,7 +5550,7 @@
     "message": "Secure by design"
   },
   "importDataSecureByDesignBody": {
-    "message": "End-to-end encrypted handoff. Bitwarden never sees your $VENDOR$ login details.",
+    "message": "End-to-end encrypted handoff. VWClient never sees your $VENDOR$ login details.",
     "placeholders": {
       "vendor": {
         "content": "$1",
@@ -5725,7 +5725,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "tiedosto tähän Bitwardeniin.",
+    "message": "tiedosto tähän VWClientiin.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -6392,7 +6392,7 @@
     "message": "Aktiivinen tili"
   },
   "bitwardenAccount": {
-    "message": "Bitwarden-tili"
+    "message": "VWClient-tili"
   },
   "availableAccounts": {
     "message": "Käytettävissä olevat tilit"
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI:n Säännöllinen lauseke -asetus on se tapa, jolla Bitwarden tekee automaattisen täytön.",
+    "message": "URI:n Säännöllinen lauseke -asetus on se tapa, jolla VWClient tekee automaattisen täytön.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Määritetäänkö Bitwarden oletusarvoiseksi salasanahallinnaksi?",
+    "message": "Määritetäänkö VWClient oletusarvoiseksi salasanahallinnaksi?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Tämän asetuksen ohituksesta voi seurata ongelmia Bitwardenin ja selaimen automaattitäytön välillä.",
+    "message": "Tämän asetuksen ohituksesta voi seurata ongelmia VWClientin ja selaimen automaattitäytön välillä.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Määritä Bitwarden oletusarvoiseksi salasanahallinnaksi",
+    "message": "Määritä VWClient oletusarvoiseksi salasanahallinnaksi",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Sinua pyydetään myöntämään $BROWSER$-selaimelle käyttöoikeus, jotta Bitwardenista tulee oletussalasananhallintasi.",
+    "message": "Sinua pyydetään myöntämään $BROWSER$-selaimelle käyttöoikeus, jotta VWClientista tulee oletussalasananhallintasi.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Bitwardenia ei voida määrittää oletusarvoiseksi salasanahallinnaksi",
+    "message": "VWClientia ei voida määrittää oletusarvoiseksi salasanahallinnaksi",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Jotta Bitwarden voidaan määrittää oletusarvoiseksi salasanahallinnaksi, on sille myönettävä oikeus käsitellä yksityisiä tietoja selaimessa.",
+    "message": "Jotta VWClient voidaan määrittää oletusarvoiseksi salasanahallinnaksi, on sille myönettävä oikeus käsitellä yksityisiä tietoja selaimessa.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Aseta Bitwarden selaimesi oletussalasananhallinnaksi"
+    "message": "Aseta VWClient selaimesi oletussalasananhallinnaksi"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Aseta Bitwarden oletussalasananhallinnaksesi",
+    "message": "Aseta VWClient oletussalasananhallinnaksesi",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "selaimen kehotteesta antaaksesi Bitwardenille luvan muuttaa asetuksiasi."
+    "message": "selaimen kehotteesta antaaksesi VWClientille luvan muuttaa asetuksiasi."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Poistamme selaimesi sisäänrakennetun salasananhallinnan käytöstä, jotta voit nauttia turvallisesta kirjautumiskokemuksesta."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Bitwarden asetettu selaimesi oletussalasananhallinnaksi"
+    "message": "VWClient asetettu selaimesi oletussalasananhallinnaksi"
   },
   "allow": {
     "message": "Salli",
@@ -6952,16 +6952,16 @@
     "message": "Lataa liite"
   },
   "downloadBitwarden": {
-    "message": "Lataa Bitwarden"
+    "message": "Lataa VWClient"
   },
   "downloadBitwardenOnAllDevices": {
-    "message": "Lataa Bitwarden kaikille laitteille"
+    "message": "Lataa VWClient kaikille laitteille"
   },
   "getTheMobileApp": {
     "message": "Hanki mobiilisovellus"
   },
   "getTheMobileAppDesc": {
-    "message": "Pääse käsiksi salasanoihisi, jos et pääse tietokoneen ääreen Bitwarden-mobiilisovelluksella."
+    "message": "Pääse käsiksi salasanoihisi, jos et pääse tietokoneen ääreen VWClient-mobiilisovelluksella."
   },
   "getTheDesktopApp": {
     "message": "Hanki työpöytäsovellus"
@@ -7514,10 +7514,10 @@
     "message": "Biometrinen avaus ei ole käytettävissä, koska järjestelmätiedostoja ei ole määritetty."
   },
   "biometricsStatusHelptextDesktopDisconnected": {
-    "message": "Biometrinen avaus ei ole käytettävissä, koska Bitwardenin työpöytäsovellus on suljettu."
+    "message": "Biometrinen avaus ei ole käytettävissä, koska VWClientin työpöytäsovellus on suljettu."
   },
   "biometricsStatusHelptextNotEnabledInDesktop": {
-    "message": "Biometrinen avaus ei ole käytettävissä, koska sitä ei ole otettu käyttöön osoitteelle $EMAIL$ Bitwardenin työpöytäsovelluksessa.",
+    "message": "Biometrinen avaus ei ole käytettävissä, koska sitä ei ole otettu käyttöön osoitteelle $EMAIL$ VWClientin työpöytäsovelluksessa.",
     "placeholders": {
       "email": {
         "content": "$1",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Tallenna Bitwardeniin",
+    "message": "Tallenna VWClientiin",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Tervetuloa Bitwardeniin"
+    "message": "Tervetuloa VWClientiin"
   },
   "securityPrioritized": {
     "message": "Tietoturva etusijalla"
   },
   "securityPrioritizedBody": {
-    "message": "Tallenna kirjautumistiedot, kortit ja henkilöllisyydet suojattuun holviisi. Bitwarden suojaa tärkeät tietosi nollatietoisella päästä päähän -salauksella."
+    "message": "Tallenna kirjautumistiedot, kortit ja henkilöllisyydet suojattuun holviisi. VWClient suojaa tärkeät tietosi nollatietoisella päästä päähän -salauksella."
   },
   "quickLogin": {
     "message": "Nopea ja helppo kirjautuminen"
@@ -7817,7 +7817,7 @@
     "message": "Sinun tietosi, missä ja milloin tarvitset niitä"
   },
   "secureDevicesBody": {
-    "message": "Tallenna rajattomasti salasanoja, rajattomalla määrällä laitteita, Bitwardenin mobiili-, selain- ja työpöytäsovelluksilla."
+    "message": "Tallenna rajattomasti salasanoja, rajattomalla määrällä laitteita, VWClientin mobiili-, selain- ja työpöytäsovelluksilla."
   },
   "nudgeBadgeAria": {
     "message": "1 ilmoitus"
@@ -7826,7 +7826,7 @@
     "message": "Tuo olemassa olevat salasanat"
   },
   "emptyVaultNudgeBody": {
-    "message": "Käytä tuojaa siirtääksesi kirjautumisia nopeasti Bitwardeniin lisäämättä niitä manuaalisesti."
+    "message": "Käytä tuojaa siirtääksesi kirjautumisia nopeasti VWClientiin lisäämättä niitä manuaalisesti."
   },
   "emptyVaultNudgeButton": {
     "message": "Tuo nyt"
@@ -7945,7 +7945,7 @@
     "message": "Tietoja tästä asetuksesta"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden käyttää tallennettuja kirjautumis-URI-osoitteita tunnistamaan, mitä kuvaketta tai salasanan vaihto-URL-osoitetta tulisi käyttää kokemuksesi parantamiseksi. Tietoja ei kerätä tai tallenneta, kun käytät tätä palvelua."
+    "message": "VWClient käyttää tallennettuja kirjautumis-URI-osoitteita tunnistamaan, mitä kuvaketta tai salasanan vaihto-URL-osoitetta tulisi käyttää kokemuksesi parantamiseksi. Tietoja ei kerätä tai tallenneta, kun käytät tätä palvelua."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Lisää 3 pikakopiointipainiketta kohteiden viereen kopioidaksesi käyttäjänimesi, salasanasi tai vahvistuskoodisi leikepöydälle."
@@ -7954,7 +7954,7 @@
     "message": "Sinulla ei ole oikeuksia tähän sivuun. Yritä kirjautua sisään toisella tilillä."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly ei ole tuettu selaimessasi tai se ei ole käytössä. WebAssembly vaaditaan, jotta voi käyttää Bitwardenia.",
+    "message": "WebAssembly ei ole tuettu selaimessasi tai se ei ole käytössä. WebAssembly vaaditaan, jotta voi käyttää VWClientia.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8042,7 +8042,7 @@
     "message": "Virhe: ei voi purkaa salausta"
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "Organisaatiosi ei enää käytä pääsalasanoja Bitwardeniin kirjautumiseen. Jatkaaksesi vahvista organisaatio ja verkkotunnus."
+    "message": "Organisaatiosi ei enää käytä pääsalasanoja VWClientiin kirjautumiseen. Jatkaaksesi vahvista organisaatio ja verkkotunnus."
   },
   "continueWithLogIn": {
     "message": "Jatka kirjautumisella"
@@ -8128,7 +8128,7 @@
     "message": "Aseta avausmenetelmä muuttaaksesi aikakatkaisutoimintoa"
   },
   "sessionTimeoutSuppressedByConnectedDevice": {
-    "message": "Bitwarden-työpöytäsovellus hallinnoi tätä. Avaa työpöytäsovellus muokataksesi."
+    "message": "VWClient-työpöytäsovellus hallinnoi tätä. Avaa työpöytäsovellus muokataksesi."
   },
   "percentageCompleted": {
     "message": "$PERCENT$ % valmis",
@@ -8230,7 +8230,7 @@
     "message": "user@bitwarden.com, user@acme.com"
   },
   "downloadBitwardenApps": {
-    "message": "Lataa Bitwarden-sovellukset"
+    "message": "Lataa VWClient-sovellukset"
   },
   "emailProtected": {
     "message": "Sähköposti suojattu"
@@ -8249,7 +8249,7 @@
     "message": "Synchronize unlock with desktop"
   },
   "syncUnlockWithDesktopDescription1": {
-    "message": "The Bitwarden browser extension and desktop app lock and unlock together. Biometrics will be used if available."
+    "message": "The VWClient browser extension and desktop app lock and unlock together. Biometrics will be used if available."
   },
   "sharedUnlockUnavailableUntrustedDevice": {
     "message": "Jaettu avaus ei ole käytettävissä, koska valitsit, ettet muista tätä laitetta. Ota tämä asetus käyttöön yrittämällä kirjautua uudelleen."
@@ -8258,13 +8258,13 @@
     "message": "Uusi käyttöoikeus tarvitaan"
   },
   "sharedUnlockDesktopPermissionDesc": {
-    "message": "Jotta voit käyttää jaettua avausta, Bitwarden tarvitsee käyttöoikeuden viestiä työpöytäsovelluksen kanssa. Kun jatkat, selaimesi pyytää sinua hyväksymään sen."
+    "message": "Jotta voit käyttää jaettua avausta, VWClient tarvitsee käyttöoikeuden viestiä työpöytäsovelluksen kanssa. Kun jatkat, selaimesi pyytää sinua hyväksymään sen."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Bitwarden lukittuu ja latautuu uudelleen. Kun olet hyväksynyt, laajennus latautuu uudelleen ja lukitsee holvisi."
+    "message": "VWClient lukittuu ja latautuu uudelleen. Kun olet hyväksynyt, laajennus latautuu uudelleen ja lukitsee holvisi."
   },
   "biometricPermissionDesc": {
-    "message": "Jotta voit käyttää biometrista avausta, Bitwarden tarvitsee käyttöoikeuden viestiä työpöytäsovelluksen kanssa. Kun jatkat, selaimesi pyytää sinua hyväksymään sen."
+    "message": "Jotta voit käyttää biometrista avausta, VWClient tarvitsee käyttöoikeuden viestiä työpöytäsovelluksen kanssa. Kun jatkat, selaimesi pyytää sinua hyväksymään sen."
   },
   "enterMonth": {
     "message": "Anna kuukausi."
@@ -8767,15 +8767,15 @@
     "message": "Unable to determine item ID"
   },
   "newExperienceDialogTitle": {
-    "message": "Bitwarden has a new look",
+    "message": "VWClient has a new look",
     "description": "Title of the dialog that introduces the redesigned vault to existing users."
   },
   "newExperienceDialogDesc": {
-    "message": "Better experience, same trusted security. The Bitwarden vault has been redesigned based on your feedback, so things are easier to find and work like you'd expect.",
+    "message": "Better experience, same trusted security. The VWClient vault has been redesigned based on your feedback, so things are easier to find and work like you'd expect.",
     "description": "Body copy of the dialog that introduces the redesigned vault to existing users."
   },
   "newExperienceDialogImgAlt": {
-    "message": "A preview of the redesigned Bitwarden vault.",
+    "message": "A preview of the redesigned VWClient vault.",
     "description": "Alt text for the screenshot shown in the dialog that introduces the redesigned vault."
   },
   "exploreTheNewVault": {

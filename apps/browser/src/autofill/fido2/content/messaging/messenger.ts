@@ -1,6 +1,6 @@
 import { Message, MessageTypes } from "./message";
 
-const SENDER = "bitwarden-webauthn";
+const SENDER = "vwc-webauthn";
 
 type PostMessageFunction = (message: MessageWithMetadata, remotePort: MessagePort) => void;
 

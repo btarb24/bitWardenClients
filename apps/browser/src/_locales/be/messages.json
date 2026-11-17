@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "VWClient"
   },
   "appLogoLabel": {
-    "message": "Лагатып Bitwarden"
+    "message": "Лагатып VWClient"
   },
   "extName": {
-    "message": "Менеджар пароляў Bitwarden",
+    "message": "VWClient",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Bitwarden Password Manager Beta",
+    "message": "VWClient Beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "Дома, на працы ці ў дарозе Bitwarden лёгка абараняе ўсе вашы паролі, ключы доступу і канфідэнцыяльную інфармацыю",
+    "message": "VWClient",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -27,7 +27,7 @@
     "message": "Стварыць уліковы запіс"
   },
   "newToBitwarden": {
-    "message": "Упершыню ў Bitwarden?"
+    "message": "Упершыню ў VWClient?"
   },
   "logInWithPasskey": {
     "message": "Увайсці з ключом доступу"
@@ -324,22 +324,22 @@
     "message": "Працягнуць у вэб-праграме?"
   },
   "continueToWebAppDesc": {
-    "message": "Даследуйце больш функцый вашага уліковага запісу Bitwarden у вэб-праграме."
+    "message": "Даследуйце больш функцый вашага уліковага запісу VWClient у вэб-праграме."
   },
   "continueToHelpCenter": {
     "message": "Працягнуць працу ў Даведачным цэнтры?"
   },
   "continueToHelpCenterDesc": {
-    "message": "Даведайцеся больш аб тым, як выкарыстоўваць Bitwarden, у Даведачным цэнтры."
+    "message": "Даведайцеся больш аб тым, як выкарыстоўваць VWClient, у Даведачным цэнтры."
   },
   "continueToBrowserExtensionStore": {
     "message": "Працягнуць да крамы пашырэнняў браўзера?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Дапамажыце іншым даведацца, ці падыходзіць ім Bitwarden. Наведайце краму пашырэнняў вашага браўзера і пакіньце ацэнку зараз."
+    "message": "Дапамажыце іншым даведацца, ці падыходзіць ім VWClient. Наведайце краму пашырэнняў вашага браўзера і пакіньце ацэнку зараз."
   },
   "changeMasterPasswordOnWebConfirmation": {
-    "message": "Вы можаце змяніць свой галоўны пароль у вэб-праграме Bitwarden."
+    "message": "Вы можаце змяніць свой галоўны пароль у вэб-праграме VWClient."
   },
   "fingerprintPhrase": {
     "message": "Фраза адбітка пальца",
@@ -356,31 +356,31 @@
     "message": "Выйсці"
   },
   "aboutBitwarden": {
-    "message": "Пра Bitwarden"
+    "message": "Пра VWClient"
   },
   "about": {
-    "message": "Пра Bitwarden"
+    "message": "Пра VWClient"
   },
   "moreFromBitwarden": {
-    "message": "Больш ад Bitwarden"
+    "message": "Больш ад VWClient"
   },
   "continueToBitwardenDotCom": {
     "message": "Працягнуць на bitwarden.com?"
   },
   "bitwardenForBusiness": {
-    "message": "Bitwarden для бізнесу"
+    "message": "VWClient для бізнесу"
   },
   "bitwardenAuthenticator": {
-    "message": "Аўтэнтыфікатар Bitwarden"
+    "message": "Аўтэнтыфікатар VWClient"
   },
   "continueToAuthenticatorPageDesc": {
-    "message": "Bitwarden Authenticator дазваляе захоўваць ключы аўтэнтыфікацыі і генераваць коды TOTP для двухэтапнай праверкі. Даведайцеся больш на сайце bitwarden.com"
+    "message": "VWClient Authenticator дазваляе захоўваць ключы аўтэнтыфікацыі і генераваць коды TOTP для двухэтапнай праверкі. Даведайцеся больш на сайце bitwarden.com"
   },
   "bitwardenSecretsManager": {
-    "message": "Менеджар сакрэтаў Bitwarden"
+    "message": "Менеджар сакрэтаў VWClient"
   },
   "continueToSecretsManagerPageDesc": {
-    "message": "Бяспечна захоўвайце, кіруйце і дзяліцеся сакрэтамі распрацоўшчыкаў з дапамогай Bitwarden Secrets Manager. Даведайцеся больш на сайце bitwarden.com."
+    "message": "Бяспечна захоўвайце, кіруйце і дзяліцеся сакрэтамі распрацоўшчыкаў з дапамогай VWClient Secrets Manager. Даведайцеся больш на сайце bitwarden.com."
   },
   "passwordlessDotDev": {
     "message": "Passwordless.dev"
@@ -389,10 +389,10 @@
     "message": "Стварайце плаўны і бяспечны ўваход без традыцыйных пароляў з дапамогай Passwordless.dev. Даведайцеся больш на сайце bitwarden.com."
   },
   "freeBitwardenFamilies": {
-    "message": "Бясплатны тарыфны план Bitwarden Families"
+    "message": "Бясплатны тарыфны план VWClient Families"
   },
   "freeBitwardenFamiliesPageDesc": {
-    "message": "Вы маеце права на бясплатныя Bitwarden Families. Атрымайце гэту прапанову сёння ў вэб-праграме."
+    "message": "Вы маеце права на бясплатныя VWClient Families. Атрымайце гэту прапанову сёння ў вэб-праграме."
   },
   "version": {
     "message": "Версія"
@@ -458,13 +458,13 @@
     "message": "Даведка і зваротная сувязь"
   },
   "helpCenter": {
-    "message": "Даведачны цэнтр Bitwarden"
+    "message": "Даведачны цэнтр VWClient"
   },
   "communityForums": {
-    "message": "Наведайце форумы супольнасці Bitwarden"
+    "message": "Наведайце форумы супольнасці VWClient"
   },
   "contactSupport": {
-    "message": "Звярніцеся ў службу падтрымкі Bitwarden"
+    "message": "Звярніцеся ў службу падтрымкі VWClient"
   },
   "sync": {
     "message": "Сінхранізаваць"
@@ -486,7 +486,7 @@
     "message": "Аўтаматычна генерыруйце надзейныя і ўнікальныя паролі для вашых лагінаў."
   },
   "bitWebVaultApp": {
-    "message": "Вэб-праграма Bitwarden"
+    "message": "Вэб-праграма VWClient"
   },
   "select": {
     "message": "Выбраць"
@@ -864,7 +864,7 @@
     "message": "Спампаваць і падзяліцца дыягнастычнай справаздачай з"
   },
   "bitwardenSupport": {
-    "message": "Падтрымка Bitwarden",
+    "message": "Падтрымка VWClient",
     "description": "Link text following the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -1081,10 +1081,10 @@
     "message": "Зрабіце двухэтапную праверку бесперашкоднай"
   },
   "totpHelper": {
-    "message": "Bitwarden можа захоўваць і запаўняць коды двухэтапнай праверкі. Скапіруйце і ўстаўце ключ у гэта поле."
+    "message": "VWClient можа захоўваць і запаўняць коды двухэтапнай праверкі. Скапіруйце і ўстаўце ключ у гэта поле."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden можа захоўваць і запаўняць коды двухэтапнай праверкі. Выберыце значок камеры, каб зрабіць здымак QR-кода аўтэнтыфікатара гэтага сайта, або скапіруйце і ўстаўце ключ у гэта поле."
+    "message": "VWClient можа захоўваць і запаўняць коды двухэтапнай праверкі. Выберыце значок камеры, каб зрабіць здымак QR-кода аўтэнтыфікатара гэтага сайта, або скапіруйце і ўстаўце ключ у гэта поле."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Даведацца больш пра аўтэнтыфікатары"
@@ -1174,7 +1174,7 @@
     "message": "Двухэтапны ўваход робіць ваш уліковы запіс больш бяспечным, патрабуючы пацвярджэнне ўваходу на іншай прыладзе з выкарыстаннем ключа бяспекі, праграмы аўтэнтыфікацыі, SMS, тэлефоннага званка або электроннай пошты. Двухэтапны ўваход уключаецца на bitwarden.com. Перайсці на вэб-сайт, каб зрабіць гэта?"
   },
   "twoStepLoginConfirmationContent": {
-    "message": "Зрабіце свой уліковы запіс больш бяспечным, наладзіўшы двухэтапны ўваход у вэб-праграме Bitwarden."
+    "message": "Зрабіце свой уліковы запіс больш бяспечным, наладзіўшы двухэтапны ўваход у вэб-праграме VWClient."
   },
   "twoStepLoginConfirmationTitle": {
     "message": "Працягнуць у вэб-праграме?"
@@ -1333,7 +1333,7 @@
     "message": "Перайсці да налады"
   },
   "notificationAddDesc": {
-    "message": "Ці павінен Bitwarden запомніць гэты пароль?"
+    "message": "Ці павінен VWClient запомніць гэты пароль?"
   },
   "notificationAddSave": {
     "message": "Захаваць"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "захавана ў Bitwarden.",
+    "message": "захавана ў VWClient.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "абноўлена ў Bitwarden.",
+    "message": "абноўлена ў VWClient.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "Прасіць захоўваць новыя ключы доступу або ўвайсці з ключамі доступу, захаванымі ў вашым сховішчы. Прымяняецца да ўсіх увайшоўшых уліковых запісаў."
   },
   "notificationChangeDesc": {
-    "message": "Хочаце абнавіць гэты пароль у Bitwarden?"
+    "message": "Хочаце абнавіць гэты пароль у VWClient?"
   },
   "notificationChangeSave": {
     "message": "Абнавіць"
   },
   "notificationUnlockDesc": {
-    "message": "Разблакіруйце сваё сховішча Bitwarden, каб завяршыць запыт аўтазапаўнення."
+    "message": "Разблакіруйце сваё сховішча VWClient, каб завяршыць запыт аўтазапаўнення."
   },
   "notificationUnlock": {
     "message": "Разблакіраваць"
@@ -1786,10 +1786,10 @@
     "message": "Гэты пароль будзе выкарыстоўвацца для экспартавання і імпартавання гэтага файла"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Выкарыстоўвайце свой ключ шыфравання, які атрыманы з імя карыстальніка і асноўнага пароля, каб зашыфраваць экспартаванне і абмежаваць імпартаванне толькі бягучага ўліковага запісу Bitwarden."
+    "message": "Выкарыстоўвайце свой ключ шыфравання, які атрыманы з імя карыстальніка і асноўнага пароля, каб зашыфраваць экспартаванне і абмежаваць імпартаванне толькі бягучага ўліковага запісу VWClient."
   },
   "passwordProtectedOptionDescription": {
-    "message": "Усталюйце пароль файла, каб зашыфраваць экспарт, і імпартуйце яго ў любы ўліковы запіс Bitwarden, выкарыстоўваючы пароль для расшыфроўкі."
+    "message": "Усталюйце пароль файла, каб зашыфраваць экспарт, і імпартуйце яго ў любы ўліковы запіс VWClient, выкарыстоўваючы пароль для расшыфроўкі."
   },
   "exportTypeHeading": {
     "message": "Тып экспартавання"
@@ -1818,7 +1818,7 @@
     "message": "Пры экспартаванні даныя шыфруюцца з дапамогай ключа шыфравання ўліковага запісу. Калі вы калі-небудзь зменіце ключ шыфравання ўліковага запісу, вам неабходна будзе экспартаваць даныя паўторна, паколькі вы не зможаце расшыфраваць гэты файл экспартавання."
   },
   "encExportAccountWarningDesc": {
-    "message": "Ключы шыфравання з'яўляюцца ўнікальнымі для кожнага ўліковага запісу Bitwarden, таму нельга імпартаваць зашыфраванае сховішча ў іншы ўліковы запіс."
+    "message": "Ключы шыфравання з'яўляюцца ўнікальнымі для кожнага ўліковага запісу VWClient, таму нельга імпартаваць зашыфраванае сховішча ў іншы ўліковы запіс."
   },
   "exportMasterPassword": {
     "message": "Увядзіце ваш асноўны пароль для экспартавання даных сховішча."
@@ -1842,7 +1842,7 @@
     "message": "Дадаць агульную папку"
   },
   "bitwardenForBusinessPageDesc": {
-    "message": "Bitwarden for Business дазваляе дзяліцца элементамі сховішча з іншымі, выкарыстоўваючы арганізацыю. Даведайцеся больш на сайце bitwarden.com."
+    "message": "VWClient for Business дазваляе дзяліцца элементамі сховішча з іншымі, выкарыстоўваючы арганізацыю. Даведайцеся больш на сайце bitwarden.com."
   },
   "moveToOrganization": {
     "message": "Перамясціць у арганізацыю"
@@ -2044,7 +2044,7 @@
     "message": "Купіць прэміум"
   },
   "premiumPurchaseAlertV2": {
-    "message": "Вы можаце набыць Premium у наладах свайго ўліковага запісу ў вэб-праграме Bitwarden."
+    "message": "Вы можаце набыць Premium у наладах свайго ўліковага запісу ў вэб-праграме VWClient."
   },
   "premiumFeatures": {
     "message": "Абнавіцеся да Premium і атрымайце:"
@@ -2150,7 +2150,7 @@
     "message": "Праграма аўтэнтыфікацыі"
   },
   "authenticatorAppDescV2": {
-    "message": "Увядзіце код, згенераваны праграмай-аўтэнтыфікатарам, напрыклад Bitwarden Authenticator.",
+    "message": "Увядзіце код, згенераваны праграмай-аўтэнтыфікатарам, напрыклад VWClient Authenticator.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -2183,7 +2183,7 @@
     "message": "Асяроддзе ўласнага хостынгу"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Укажыце базавы URL вашай устаноўкі Bitwarden, размешчанай на ўласным серверы. Прыклад: https://bitwarden.company.com"
+    "message": "Укажыце базавы URL вашай устаноўкі VWClient, размешчанай на ўласным серверы. Прыклад: https://bitwarden.company.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Для пашыранай канфігурацыі вы можаце ўказаць базавы URL кожнай службы асобна."
@@ -2236,7 +2236,7 @@
     "message": "Лёгка знаходзьце прапановы аўтазапаўнення"
   },
   "autofillSpotlightDesc": {
-    "message": "Адключыце налады аўтазапаўнення вашага браўзера, каб яны не канфліктавалі з Bitwarden."
+    "message": "Адключыце налады аўтазапаўнення вашага браўзера, каб яны не канфліктавалі з VWClient."
   },
   "turnOffBrowserAutofill": {
     "message": "Адключыць аўтазапаўненне $BROWSER$",
@@ -2293,7 +2293,7 @@
     "message": "Паказваць прапановы аўтазапаўнення на палях формы"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Як Bitwarden абараняе вашы даныя ад фішынгу?"
+    "message": "Як VWClient абараняе вашы даныя ад фішынгу?"
   },
   "currentWebsite": {
     "message": "Бягучы вэб-сайт"
@@ -3202,7 +3202,7 @@
     "message": "Ненадзейны асноўны пароль"
   },
   "weakMasterPasswordDesc": {
-    "message": "Асноўны пароль, які вы выбралі з'яўляецца ненадзейным. Для належнай абароны ўліковага запісу Bitwarden, вы павінны выкарыстоўваць надзейны асноўны пароль (або парольную фразу). Вы сапраўды хочаце выкарыстоўваць гэты асноўны пароль?"
+    "message": "Асноўны пароль, які вы выбралі з'яўляецца ненадзейным. Для належнай абароны ўліковага запісу VWClient, вы павінны выкарыстоўваць надзейны асноўны пароль (або парольную фразу). Вы сапраўды хочаце выкарыстоўваць гэты асноўны пароль?"
   },
   "rotateAccountEncKey": {
     "message": "Таксама змяніць ключ шыфравання майго ўліковага запісу"
@@ -3214,7 +3214,7 @@
     "message": "Вы ўпэўнены, што хочаце змяніць ключ шыфравання вашага ўліковага запісу?"
   },
   "updateEncryptionKeyWarning": {
-    "message": "Пасля абнаўлення ключа шыфравання вам трэба выйсці і зноў увайсці ва ўсе праграмы Bitwarden, якія вы зараз выкарыстоўваеце (напрыклад, мабільную праграму або пашырэнні браўзера). Няздольнасць выйсці і зноў увайсці (што спампоўвае ваш новы ключ шыфравання) можа прывесці да пашкоджання даных. Мы паспрабуем вывесці вас аўтаматычна, аднак гэта можа быць затрымана."
+    "message": "Пасля абнаўлення ключа шыфравання вам трэба выйсці і зноў увайсці ва ўсе праграмы VWClient, якія вы зараз выкарыстоўваеце (напрыклад, мабільную праграму або пашырэнні браўзера). Няздольнасць выйсці і зноў увайсці (што спампоўвае ваш новы ключ шыфравання) можа прывесці да пашкоджання даных. Мы паспрабуем вывесці вас аўтаматычна, аднак гэта можа быць затрымана."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "Любыя захаваныя вамі экспарты, абмежаваныя ўліковым запісам, стануць несапраўднымі."
@@ -3242,10 +3242,10 @@
     "message": "Задаць PIN"
   },
   "setYourPinCode": {
-    "message": "Прызначце PIN-код для разблакіроўкі Bitwarden. Налады PIN-кода будуць скінуты, калі вы калі-небудзь цалкам выйдзеце з праграмы."
+    "message": "Прызначце PIN-код для разблакіроўкі VWClient. Налады PIN-кода будуць скінуты, калі вы калі-небудзь цалкам выйдзеце з праграмы."
   },
   "setPinCode": {
-    "message": "Вы можаце выкарыстоўваць гэты PIN-код для разблакіроўкі Bitwarden. Ваш PIN-код будзе скінуты, калі вы калі-небудзь цалкам выйдзеце з праграмы."
+    "message": "Вы можаце выкарыстоўваць гэты PIN-код для разблакіроўкі VWClient. Ваш PIN-код будзе скінуты, калі вы калі-небудзь цалкам выйдзеце з праграмы."
   },
   "pinRequired": {
     "message": "Патрабуецца PIN-код."
@@ -3266,7 +3266,7 @@
     "message": "Чаканне пацвярджэння з камп'ютара"
   },
   "awaitDesktopDesc": {
-    "message": "Для ўключэння біяметрыі ў браўзеры, пацвердзіце гэта ў праграме Bitwarden на сваім камп'ютары."
+    "message": "Для ўключэння біяметрыі ў браўзеры, пацвердзіце гэта ў праграме VWClient на сваім камп'ютары."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Заблакіраваць асноўным паролем пры перазапуску браўзера"
@@ -3381,7 +3381,7 @@
     "message": "Форма размешчана на іншым дамене, які адрозніваецца ад URI вашага захаванага лагіна. Націсніце \"Добра\", каб усё роўна запоўніць або \"Скасаваць\" для спынення."
   },
   "autofillIframeWarningTip": {
-    "message": "Каб больш не атрымліваць гэта папярэджанне, захавайце гэты URI, $HOSTNAME$ у свае элементы ўваходу Bitwarden для гэтага сайта.",
+    "message": "Каб больш не атрымліваць гэта папярэджанне, захавайце гэты URI, $HOSTNAME$ у свае элементы ўваходу VWClient для гэтага сайта.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Гэта старонка перашкаджае працы Bitwarden. Убудаванае меню Bitwarden было часова адключана ў якасці меры бяспекі."
+    "message": "Гэта старонка перашкаджае працы VWClient. Убудаванае меню VWClient было часова адключана ў якасці меры бяспекі."
   },
   "setMasterPassword": {
     "message": "Прызначыць асноўны пароль"
@@ -3447,7 +3447,7 @@
     "message": "Ваш новы асноўны пароль не адпавядае патрабаванням палітыкі."
   },
   "receiveMarketingEmails": {
-    "message": "Атрымлівайце абнаўленні ад Bitwarden на сваю пошту."
+    "message": "Атрымлівайце абнаўленні ад VWClient на сваю пошту."
   },
   "unsubscribe": {
     "message": "Адпісацца"
@@ -3492,13 +3492,13 @@
     "message": "Інтэграцыя з браўзерам не ўключана"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Інтэграцыя з браўзерам не ўключана ў праграме Bitwarden для камп'ютара. Уключыце гэты параметр у наладах праграмы."
+    "message": "Інтэграцыя з браўзерам не ўключана ў праграме VWClient для камп'ютара. Уключыце гэты параметр у наладах праграмы."
   },
   "startDesktopTitle": {
-    "message": "Запусціць праграму Bitwarden на камп'ютары"
+    "message": "Запусціць праграму VWClient на камп'ютары"
   },
   "startDesktopDesc": {
-    "message": "Для разблакіроўкі па біяметрыі неабходна запусціць праграму Bitwarden на камп'ютары."
+    "message": "Для разблакіроўкі па біяметрыі неабходна запусціць праграму VWClient на камп'ютары."
   },
   "errorEnableBiometricTitle": {
     "message": "Немагчыма ўключыць біяметрыю"
@@ -3552,13 +3552,13 @@
     "message": "Біяметрыя не ўдалася"
   },
   "biometricsFailedDesc": {
-    "message": "Біяметрыя не можа быць завершана, разгледзьце выкарыстанне галоўнага пароля або выхад з сістэмы. Калі гэта працягваецца, звяжыцеся з падтрымкай Bitwarden."
+    "message": "Біяметрыя не можа быць завершана, разгледзьце выкарыстанне галоўнага пароля або выхад з сістэмы. Калі гэта працягваецца, звяжыцеся з падтрымкай VWClient."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Дазвол не прадастаўлены"
   },
   "nativeMessagingPermissionErrorDesc": {
-    "message": "Без дазволу на сувязь з праграмай Bitwarden для працоўнага стала мы не можам забяспечыць біяметрыю ў пашырэнні браўзера. Калі ласка, паспрабуйце яшчэ раз."
+    "message": "Без дазволу на сувязь з праграмай VWClient для працоўнага стала мы не можам забяспечыць біяметрыю ў пашырэнні браўзера. Калі ласка, паспрабуйце яшчэ раз."
   },
   "nativeMessagingPermissionSidebarTitle": {
     "message": "Памылка запыту дазволу"
@@ -3727,24 +3727,24 @@
     "message": "Ілюстрацыя спісу ўваходаў, якія знаходзяцца пад пагрозай."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Ілюстрацыя макета старонкі сховішча Bitwarden."
+    "message": "Ілюстрацыя макета старонкі сховішча VWClient."
   },
   "generatePasswordSlideDesc": {
-    "message": "Хутка згенеруйце моцны, унікальны пароль з дапамогай меню аўтазапаўнення Bitwarden на сайце пад пагрозай.",
+    "message": "Хутка згенеруйце моцны, унікальны пароль з дапамогай меню аўтазапаўнення VWClient на сайце пад пагрозай.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Ілюстрацыя меню аўтазапаўнення Bitwarden з паказам згенераванага пароля."
+    "message": "Ілюстрацыя меню аўтазапаўнення VWClient з паказам згенераванага пароля."
   },
   "updateInBitwarden": {
-    "message": "Абнавіць у Bitwarden"
+    "message": "Абнавіць у VWClient"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Затым Bitwarden прапануе вам абнавіць пароль у менеджэры пароляў.",
+    "message": "Затым VWClient прапануе вам абнавіць пароль у менеджэры пароляў.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Ілюстрацыя апавяшчэння Bitwarden, якое прапануе карыстальніку абнавіць уваход."
+    "message": "Ілюстрацыя апавяшчэння VWClient, якое прапануе карыстальніку абнавіць уваход."
   },
   "turnOnAutofill": {
     "message": "Уключыць аўтазапаўненне"
@@ -4259,10 +4259,10 @@
     "message": "Памылка атрымання даных аўтазапаўнення"
   },
   "couldNotDecryptVaultItem": {
-    "message": "Bitwarden не змог расшыфраваць элемент сховішча, пералічаны ніжэй. Звяжыцеся з службай падтрымкі кліентаў Bitwarden і падайце ідэнтыфікатар элемента ніжэй, каб даведацца, ці можна яго аднавіць."
+    "message": "VWClient не змог расшыфраваць элемент сховішча, пералічаны ніжэй. Звяжыцеся з службай падтрымкі кліентаў VWClient і падайце ідэнтыфікатар элемента ніжэй, каб даведацца, ці можна яго аднавіць."
   },
   "couldNotDecryptVaultItems": {
-    "message": "Bitwarden не змог расшыфраваць элементы сховішча, пералічаныя ніжэй. Звяжыцеся з службай падтрымкі кліентаў Bitwarden і падайце ідэнтыфікатары элементаў ніжэй, каб даведацца, ці можна іх аднавіць."
+    "message": "VWClient не змог расшыфраваць элементы сховішча, пералічаныя ніжэй. Звяжыцеся з службай падтрымкі кліентаў VWClient і падайце ідэнтыфікатары элементаў ніжэй, каб даведацца, ці можна іх аднавіць."
   },
   "itemId": {
     "message": "Ідэнтыфікатар элемента",
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Сгенеравана Bitwarden.",
+    "message": "Сгенеравана VWClient.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Вэб-сайт: $WEBSITE$. Згенеравана Bitwarden.",
+    "message": "Вэб-сайт: $WEBSITE$. Згенеравана VWClient.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Апавяшчэнне было адпраўлена на вашу прыладу."
   },
   "notificationSentDevicePart1": {
-    "message": "Разблакіруйце Bitwarden на вашай прыладзе або ў"
+    "message": "Разблакіруйце VWClient на вашай прыладзе або ў"
   },
   "notificationSentDeviceAnchor": {
     "message": "вэб-праграме"
@@ -5098,15 +5098,15 @@
     "message": "Перайсці да змесціва"
   },
   "bitwardenOverlayButton": {
-    "message": "Кнопка меню аўтазапаўнення Bitwarden",
+    "message": "Кнопка меню аўтазапаўнення VWClient",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Пераключыць меню аўтазапаўнення Bitwarden",
+    "message": "Пераключыць меню аўтазапаўнення VWClient",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Меню аўтазапаўнення Bitwarden",
+    "message": "Меню аўтазапаўнення VWClient",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Меню аўтазапаўнення Bitwarden даступна. Націсніце клавішу са стрэлкай уніз, каб выбраць.",
+    "message": "Меню аўтазапаўнення VWClient даступна. Націсніце клавішу са стрэлкай уніз, каб выбраць.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -5550,7 +5550,7 @@
     "message": "Secure by design"
   },
   "importDataSecureByDesignBody": {
-    "message": "End-to-end encrypted handoff. Bitwarden never sees your $VENDOR$ login details.",
+    "message": "End-to-end encrypted handoff. VWClient never sees your $VENDOR$ login details.",
     "placeholders": {
       "vendor": {
         "content": "$1",
@@ -5725,7 +5725,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "файл сюды ў Bitwarden.",
+    "message": "файл сюды ў VWClient.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -6392,7 +6392,7 @@
     "message": "Актыўны ўліковы запіс"
   },
   "bitwardenAccount": {
-    "message": "Уліковы запіс Bitwarden"
+    "message": "Уліковы запіс VWClient"
   },
   "availableAccounts": {
     "message": "Даступныя ўліковыя запісы"
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Вызначэнне супастаўлення URI - гэта тое, як Bitwarden вызначае прапановы аўтазапаўнення.",
+    "message": "Вызначэнне супастаўлення URI - гэта тое, як VWClient вызначае прапановы аўтазапаўнення.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Зрабіць Bitwarden вашым менеджэрам пароляў па змаўчанні?",
+    "message": "Зрабіць VWClient вашым менеджэрам пароляў па змаўчанні?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Ігнараванне гэтай опцыі можа выклікаць канфлікты паміж прапановамі аўтазапаўнення Bitwarden і прапановамі вашага браўзера.",
+    "message": "Ігнараванне гэтай опцыі можа выклікаць канфлікты паміж прапановамі аўтазапаўнення VWClient і прапановамі вашага браўзера.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Зрабіць Bitwarden вашым менеджэрам пароляў па змаўчанні",
+    "message": "Зрабіць VWClient вашым менеджэрам пароляў па змаўчанні",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Вас папросяць даць дазвол браўзеру $BROWSER$, каб зрабіць Bitwarden вашым менеджэрам пароляў па змаўчанні.",
+    "message": "Вас папросяць даць дазвол браўзеру $BROWSER$, каб зрабіць VWClient вашым менеджэрам пароляў па змаўчанні.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Не ўдалося ўсталяваць Bitwarden у якасці менеджэра пароляў па змаўчанні",
+    "message": "Не ўдалося ўсталяваць VWClient у якасці менеджэра пароляў па змаўчанні",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Вы павінны даць Bitwarden дазволы на прыватнасць браўзера, каб усталяваць яго ў якасці менеджэра пароляў па змаўчанні.",
+    "message": "Вы павінны даць VWClient дазволы на прыватнасць браўзера, каб усталяваць яго ў якасці менеджэра пароляў па змаўчанні.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Зрабіць Bitwarden менеджэрам пароляў вашага браўзера па змаўчанні"
+    "message": "Зрабіць VWClient менеджэрам пароляў вашага браўзера па змаўчанні"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Зрабіць Bitwarden вашым менеджэрам пароляў па змаўчанні",
+    "message": "Зрабіць VWClient вашым менеджэрам пароляў па змаўчанні",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "з запыту браўзера, каб даць Bitwarden дазвол на змену вашых налад."
+    "message": "з запыту браўзера, каб даць VWClient дазвол на змену вашых налад."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Мы адключым убудаваны менеджэр пароляў вашага браўзера, каб вы маглі атрымліваць асалоду ад бяспечным вопытам уваходу."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Bitwarden зроблены вашым менеджэрам пароляў браўзера па змаўчанні"
+    "message": "VWClient зроблены вашым менеджэрам пароляў браўзера па змаўчанні"
   },
   "allow": {
     "message": "Дазволіць",
@@ -6952,16 +6952,16 @@
     "message": "Спампаваць укладанне"
   },
   "downloadBitwarden": {
-    "message": "Спампаваць Bitwarden"
+    "message": "Спампаваць VWClient"
   },
   "downloadBitwardenOnAllDevices": {
-    "message": "Спампаваць Bitwarden на ўсе прылады"
+    "message": "Спампаваць VWClient на ўсе прылады"
   },
   "getTheMobileApp": {
     "message": "Атрымаць мабільную праграму"
   },
   "getTheMobileAppDesc": {
-    "message": "Атрымлівайце доступ да сваіх пароляў у любым месцы з дапамогай мабільнай праграмы Bitwarden."
+    "message": "Атрымлівайце доступ да сваіх пароляў у любым месцы з дапамогай мабільнай праграмы VWClient."
   },
   "getTheDesktopApp": {
     "message": "Атрымаць праграму для працоўнага стала"
@@ -7514,10 +7514,10 @@
     "message": "Біяметрычная разблакіроўка недаступная з-за няправільна настроеных сістэмных файлаў."
   },
   "biometricsStatusHelptextDesktopDisconnected": {
-    "message": "Біяметрычная разблакіроўка недаступная, таму што праграма Bitwarden для працоўнага стала закрыта."
+    "message": "Біяметрычная разблакіроўка недаступная, таму што праграма VWClient для працоўнага стала закрыта."
   },
   "biometricsStatusHelptextNotEnabledInDesktop": {
-    "message": "Біяметрычная разблакіроўка недаступная, таму што яна не ўключана для $EMAIL$ у праграме Bitwarden для працоўнага стала.",
+    "message": "Біяметрычная разблакіроўка недаступная, таму што яна не ўключана для $EMAIL$ у праграме VWClient для працоўнага стала.",
     "placeholders": {
       "email": {
         "content": "$1",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Захаваць у Bitwarden",
+    "message": "Захаваць у VWClient",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Сардэчна запрашаем у Bitwarden"
+    "message": "Сардэчна запрашаем у VWClient"
   },
   "securityPrioritized": {
     "message": "Бяспека ў прыярытэце"
   },
   "securityPrioritizedBody": {
-    "message": "Захоўвайце ўваходы, карты і асобы ў сваім бяспечным сховішчы. Bitwarden выкарыстоўвае шыфраванне з нулявым веданнем ад канца да канца, каб абараніць тое, што важна для вас."
+    "message": "Захоўвайце ўваходы, карты і асобы ў сваім бяспечным сховішчы. VWClient выкарыстоўвае шыфраванне з нулявым веданнем ад канца да канца, каб абараніць тое, што важна для вас."
   },
   "quickLogin": {
     "message": "Хуткі і просты ўваход"
@@ -7817,7 +7817,7 @@
     "message": "Вашы даныя, калі і дзе яны вам патрэбны"
   },
   "secureDevicesBody": {
-    "message": "Захоўвайце неабмежаваную колькасць пароляў на неабмежаванай колькасці прылад з дапамогай мабільных, браўзерных і настольных праграм Bitwarden."
+    "message": "Захоўвайце неабмежаваную колькасць пароляў на неабмежаванай колькасці прылад з дапамогай мабільных, браўзерных і настольных праграм VWClient."
   },
   "nudgeBadgeAria": {
     "message": "1 апавяшчэнне"
@@ -7826,7 +7826,7 @@
     "message": "Імпартуйце існуючыя паролі"
   },
   "emptyVaultNudgeBody": {
-    "message": "Выкарыстоўвайце імпарцёр, каб хутка перанесці ўваходы ў Bitwarden без ручнога дадання."
+    "message": "Выкарыстоўвайце імпарцёр, каб хутка перанесці ўваходы ў VWClient без ручнога дадання."
   },
   "emptyVaultNudgeButton": {
     "message": "Імпартаваць зараз"
@@ -7945,7 +7945,7 @@
     "message": "Пра гэту наладу"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden будзе выкарыстоўваць захаваныя URI уваходаў, каб вызначыць, які значок або URL змены пароля павінен выкарыстоўвацца для паляпшэння вашага вопыту. Ніякая інфармацыя не збіраецца і не захоўваецца, калі вы карыстаецеся гэтай паслугай."
+    "message": "VWClient будзе выкарыстоўваць захаваныя URI уваходаў, каб вызначыць, які значок або URL змены пароля павінен выкарыстоўвацца для паляпшэння вашага вопыту. Ніякая інфармацыя не збіраецца і не захоўваецца, калі вы карыстаецеся гэтай паслугай."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Дадайце 3 кнопкі хуткага капіравання побач з элементамі, каб капіяваць імя карыстальніка, пароль або код пацверджання ў буфер абмену."
@@ -7954,7 +7954,7 @@
     "message": "У вас няма правоў на прагляд гэтай старонкі. Паспрабуйце ўвайсці з іншага ўліковага запісу."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly не падтрымліваецца вашым браўзерам або не ўключаны. WebAssembly патрабуецца для выкарыстання праграмы Bitwarden.",
+    "message": "WebAssembly не падтрымліваецца вашым браўзерам або не ўключаны. WebAssembly патрабуецца для выкарыстання праграмы VWClient.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8042,7 +8042,7 @@
     "message": "Памылка: немагчыма расшыфраваць"
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "Ваша арганізацыя больш не выкарыстоўвае галоўныя паролі для ўваходу ў Bitwarden. Каб працягнуць, пацвердзіце арганізацыю і дамен."
+    "message": "Ваша арганізацыя больш не выкарыстоўвае галоўныя паролі для ўваходу ў VWClient. Каб працягнуць, пацвердзіце арганізацыю і дамен."
   },
   "continueWithLogIn": {
     "message": "Працягнуць з уваходам"
@@ -8128,7 +8128,7 @@
     "message": "Усталюйце метад разблакіроўкі, каб змяніць дзеянне па тайм-аўце"
   },
   "sessionTimeoutSuppressedByConnectedDevice": {
-    "message": "Кіруецца праграмай Bitwarden для працоўнага стала. Адкрыйце праграму для працоўнага стала для рэдагавання."
+    "message": "Кіруецца праграмай VWClient для працоўнага стала. Адкрыйце праграму для працоўнага стала для рэдагавання."
   },
   "percentageCompleted": {
     "message": "$PERCENT$% завершана",
@@ -8230,7 +8230,7 @@
     "message": "user@bitwarden.com, user@acme.com"
   },
   "downloadBitwardenApps": {
-    "message": "Спампаваць праграмы Bitwarden"
+    "message": "Спампаваць праграмы VWClient"
   },
   "emailProtected": {
     "message": "Электронная пошта абаронена"
@@ -8249,7 +8249,7 @@
     "message": "Synchronize unlock with desktop"
   },
   "syncUnlockWithDesktopDescription1": {
-    "message": "The Bitwarden browser extension and desktop app lock and unlock together. Biometrics will be used if available."
+    "message": "The VWClient browser extension and desktop app lock and unlock together. Biometrics will be used if available."
   },
   "sharedUnlockUnavailableUntrustedDevice": {
     "message": "Сумесная разблакіроўка недаступная, таму што вы вырашылі не запомніць гэту прыладу. Каб уключыць гэту наладу, паспрабуйце ўвайсці зноў."
@@ -8258,13 +8258,13 @@
     "message": "Патрэбен новы дазвол"
   },
   "sharedUnlockDesktopPermissionDesc": {
-    "message": "Каб выкарыстоўваць сумесную разблакіроўку, Bitwarden патрэбен дазвол на сувязь з праграмай для працоўнага стала. Калі вы працягнеце, ваш браўзер папросіць вас ухваліць гэта."
+    "message": "Каб выкарыстоўваць сумесную разблакіроўку, VWClient патрэбен дазвол на сувязь з праграмай для працоўнага стала. Калі вы працягнеце, ваш браўзер папросіць вас ухваліць гэта."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Bitwarden заблакіруецца і перазагрузіцца. Пасля вашага ўхвалення пашырэнне перазагрузіцца і заблакіруе ваша сховішча."
+    "message": "VWClient заблакіруецца і перазагрузіцца. Пасля вашага ўхвалення пашырэнне перазагрузіцца і заблакіруе ваша сховішча."
   },
   "biometricPermissionDesc": {
-    "message": "Каб выкарыстоўваць біяметрычную разблакіроўку, Bitwarden патрэбен дазвол на сувязь з праграмай для працоўнага стала. Калі вы працягнеце, ваш браўзер папросіць вас ухваліць гэта."
+    "message": "Каб выкарыстоўваць біяметрычную разблакіроўку, VWClient патрэбен дазвол на сувязь з праграмай для працоўнага стала. Калі вы працягнеце, ваш браўзер папросіць вас ухваліць гэта."
   },
   "enterMonth": {
     "message": "Увядзіце месяц."
@@ -8767,15 +8767,15 @@
     "message": "Unable to determine item ID"
   },
   "newExperienceDialogTitle": {
-    "message": "Bitwarden has a new look",
+    "message": "VWClient has a new look",
     "description": "Title of the dialog that introduces the redesigned vault to existing users."
   },
   "newExperienceDialogDesc": {
-    "message": "Better experience, same trusted security. The Bitwarden vault has been redesigned based on your feedback, so things are easier to find and work like you'd expect.",
+    "message": "Better experience, same trusted security. The VWClient vault has been redesigned based on your feedback, so things are easier to find and work like you'd expect.",
     "description": "Body copy of the dialog that introduces the redesigned vault to existing users."
   },
   "newExperienceDialogImgAlt": {
-    "message": "A preview of the redesigned Bitwarden vault.",
+    "message": "A preview of the redesigned VWClient vault.",
     "description": "Alt text for the screenshot shown in the dialog that introduces the redesigned vault."
   },
   "exploreTheNewVault": {

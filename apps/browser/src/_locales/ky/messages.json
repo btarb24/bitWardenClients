@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "VWClient"
   },
   "appLogoLabel": {
-    "message": "Bitwarden логотиби"
+    "message": "VWClient логотиби"
   },
   "extName": {
-    "message": "Bitwarden Купуясөз башкаруучусу",
+    "message": "VWClient",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Bitwarden Password Manager Beta",
+    "message": "VWClient Beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "Үйдө, жумушта, жолдо - Bitwarden дайыма купуясөздөрүңүздү, passkey'лериңизди, жашыруун маалыматыңызды коргойт",
+    "message": "VWClient",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -27,7 +27,7 @@
     "message": "Катталуу"
   },
   "newToBitwarden": {
-    "message": "Bitwarden'ге жаңы келдиңизби?"
+    "message": "VWClient'ге жаңы келдиңизби?"
   },
   "logInWithPasskey": {
     "message": "Passkey менен кирүү"
@@ -324,22 +324,22 @@
     "message": "Веб-тиркемеде улантылсынбы?"
   },
   "continueToWebAppDesc": {
-    "message": "Веб колдонмодо Bitwarden аккаунтуңуздун кошумча функцияларын изилдеңиз."
+    "message": "Веб колдонмодо VWClient аккаунтуңуздун кошумча функцияларын изилдеңиз."
   },
   "continueToHelpCenter": {
     "message": "Жардам борборунда улантылсынбы?"
   },
   "continueToHelpCenterDesc": {
-    "message": "Жардам борборунда Bitwardenди кантип колдонуу тууралуу кененирээк билиңиз."
+    "message": "Жардам борборунда VWClientди кантип колдонуу тууралуу кененирээк билиңиз."
   },
   "continueToBrowserExtensionStore": {
     "message": "Браузер кеңейтмелери дүкөнүндө улантылсынбы?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Башкаларга Bitwarden аларга ылайыктуубу же жокпу билүүгө жардам бериңиз. Браузериңиздин кеңейтүүлөр дүкөнүнө кирип, азыр баа бериңиз."
+    "message": "Башкаларга VWClient аларга ылайыктуубу же жокпу билүүгө жардам бериңиз. Браузериңиздин кеңейтүүлөр дүкөнүнө кирип, азыр баа бериңиз."
   },
   "changeMasterPasswordOnWebConfirmation": {
-    "message": "Башкы сырсөзүңүздү Bitwarden веб колдонмосунда өзгөртө аласыз."
+    "message": "Башкы сырсөзүңүздү VWClient веб колдонмосунда өзгөртө аласыз."
   },
   "fingerprintPhrase": {
     "message": "Манжа изи сүйлөмү",
@@ -356,31 +356,31 @@
     "message": "Чыгуу"
   },
   "aboutBitwarden": {
-    "message": "Bitwarden жөнүндө"
+    "message": "VWClient жөнүндө"
   },
   "about": {
-    "message": "Bitwarden жөнүндө"
+    "message": "VWClient жөнүндө"
   },
   "moreFromBitwarden": {
-    "message": "Bitwarden'ден кененирээк"
+    "message": "VWClient'ден кененирээк"
   },
   "continueToBitwardenDotCom": {
     "message": "bitwarden.com'до улантылсынбы?"
   },
   "bitwardenForBusiness": {
-    "message": "Бизнес үчүн Bitwarden"
+    "message": "Бизнес үчүн VWClient"
   },
   "bitwardenAuthenticator": {
-    "message": "Bitwarden Authenticator"
+    "message": "VWClient Authenticator"
   },
   "continueToAuthenticatorPageDesc": {
-    "message": "Bitwarden Authenticator аутентификатордук ачкычтарды сактоого жана эки баскычтуу текшерүү үчүн TOTP коддорун түзүүгө мүмкүндүк берет. Кененирээк bitwarden.com сайтынан билиңиз"
+    "message": "VWClient Authenticator аутентификатордук ачкычтарды сактоого жана эки баскычтуу текшерүү үчүн TOTP коддорун түзүүгө мүмкүндүк берет. Кененирээк bitwarden.com сайтынан билиңиз"
   },
   "bitwardenSecretsManager": {
-    "message": "Bitwarden Сырлар башкаруучусу"
+    "message": "VWClient Сырлар башкаруучусу"
   },
   "continueToSecretsManagerPageDesc": {
-    "message": "Bitwarden Secrets Manager менен иштеп чыгуучунун сырларын коопсуз сактаңыз, башкарыңыз жана бөлүшүңүз. Кененирээк bitwarden.com сайтынан билиңиз."
+    "message": "VWClient Secrets Manager менен иштеп чыгуучунун сырларын коопсуз сактаңыз, башкарыңыз жана бөлүшүңүз. Кененирээк bitwarden.com сайтынан билиңиз."
   },
   "passwordlessDotDev": {
     "message": "Passwordless.dev"
@@ -389,10 +389,10 @@
     "message": "Passwordless.dev менен салттуу сырсөздөрдөн эркин, жылмакай жана коопсуз кирүү тажрыйбасын түзүңүз. Кененирээк bitwarden.com сайтынан билиңиз."
   },
   "freeBitwardenFamilies": {
-    "message": "Үй-бүлө үчүн акысыз Bitwarden"
+    "message": "Үй-бүлө үчүн акысыз VWClient"
   },
   "freeBitwardenFamiliesPageDesc": {
-    "message": "Сиз акысыз Bitwarden Families үчүн жарамдуусуз. Бул сунушту бүгүн веб колдонмодо колдонуңуз."
+    "message": "Сиз акысыз VWClient Families үчүн жарамдуусуз. Бул сунушту бүгүн веб колдонмодо колдонуңуз."
   },
   "version": {
     "message": "Версия"
@@ -458,13 +458,13 @@
     "message": "Жардам жана ой-пикир"
   },
   "helpCenter": {
-    "message": "Bitwarden Жардам борбору"
+    "message": "VWClient Жардам борбору"
   },
   "communityForums": {
-    "message": "Bitwarden жамаатынын форумдарын изилдеңиз"
+    "message": "VWClient жамаатынын форумдарын изилдеңиз"
   },
   "contactSupport": {
-    "message": "Bitwarden колдоо борбору менен байланышуу"
+    "message": "VWClient колдоо борбору менен байланышуу"
   },
   "sync": {
     "message": "Синхрондоштуруу"
@@ -486,7 +486,7 @@
     "message": "Кирүүлөрүңүз үчүн күчтүү, уникалдуу сырсөздөрдү автоматтык түрдө түзүңүз."
   },
   "bitWebVaultApp": {
-    "message": "Bitwarden веб колдонмосу"
+    "message": "VWClient веб колдонмосу"
   },
   "select": {
     "message": "Тандоо"
@@ -864,7 +864,7 @@
     "message": "Диагностикалык отчетту жүктөп алып, бөлүшүңүз"
   },
   "bitwardenSupport": {
-    "message": "Bitwarden колдоо кызматы",
+    "message": "VWClient колдоо кызматы",
     "description": "Link text following the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -1081,10 +1081,10 @@
     "message": "Эки баскычтуу текшерүүнү үзгүлтүксүз кылыңыз"
   },
   "totpHelper": {
-    "message": "Bitwarden эки баскычтуу текшерүү коддорун сактай жана толтура алат. Ачкычты бул талаага көчүрүп чаптаңыз."
+    "message": "VWClient эки баскычтуу текшерүү коддорун сактай жана толтура алат. Ачкычты бул талаага көчүрүп чаптаңыз."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden эки баскычтуу текшерүү коддорун сактай жана толтура алат. Бул веб сайттын аутентификатор QR кодун сүрөткө тартуу үчүн камера сүрөтчөсүн тандаңыз же ачкычты бул талаага көчүрүп чаптаңыз."
+    "message": "VWClient эки баскычтуу текшерүү коддорун сактай жана толтура алат. Бул веб сайттын аутентификатор QR кодун сүрөткө тартуу үчүн камера сүрөтчөсүн тандаңыз же ачкычты бул талаага көчүрүп чаптаңыз."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Аутентификаторлор тууралуу кененирээк билиңиз"
@@ -1174,7 +1174,7 @@
     "message": "Эки баскычтуу кирүү коопсуздук ачкычы, аутентификатор колдонмосу, SMS, телефон чалуу же электрондук почта сыяктуу башка түзмөк менен кирүүңүздү ырастоону талап кылуу менен аккаунтуңузду коопсуз кылат. Эки баскычтуу кирүүнү bitwarden.com веб сактоосунда орнотууга болот. Азыр веб сайтка кирүүнү каалайсызбы?"
   },
   "twoStepLoginConfirmationContent": {
-    "message": "Bitwarden веб колдонмосунда эки баскычтуу кирүүнү орнотуу менен аккаунтуңузду коопсуз кылыңыз."
+    "message": "VWClient веб колдонмосунда эки баскычтуу кирүүнү орнотуу менен аккаунтуңузду коопсуз кылыңыз."
   },
   "twoStepLoginConfirmationTitle": {
     "message": "Веб-тиркемеде улантылсынбы?"
@@ -1333,7 +1333,7 @@
     "message": "Орнотууларга өтүү"
   },
   "notificationAddDesc": {
-    "message": "Bitwarden бул сырсөздү сиз үчүн эстеп калсынбы?"
+    "message": "VWClient бул сырсөздү сиз үчүн эстеп калсынбы?"
   },
   "notificationAddSave": {
     "message": "Сактоо"
@@ -1369,7 +1369,7 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "Bitwarden'ге сакталды.",
+    "message": "VWClient'ге сакталды.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
@@ -1471,13 +1471,13 @@
     "message": "Жаңы passkeyлерди сактоону же сактооңузда сакталган passkeyлер менен кирүүнү сураңыз. Бардык кирген аккаунттарга тиешелүү."
   },
   "notificationChangeDesc": {
-    "message": "Бул сырсөздү Bitwardenде жаңыртууну каалайсызбы?"
+    "message": "Бул сырсөздү VWClientде жаңыртууну каалайсызбы?"
   },
   "notificationChangeSave": {
     "message": "Жаңыртуу"
   },
   "notificationUnlockDesc": {
-    "message": "Автотолтуруу сурамын аткаруу үчүн Bitwarden сактооңузду ачыңыз."
+    "message": "Автотолтуруу сурамын аткаруу үчүн VWClient сактооңузду ачыңыз."
   },
   "notificationUnlock": {
     "message": "Ачуу"
@@ -1786,10 +1786,10 @@
     "message": "Бул сырсөз бул файлды экспорттоо жана импорттоо үчүн колдонулат"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Аккаунтуңуздун колдонуучу атынан жана Башкы Сырсөзүнөн алынган аккаунт шифрлөө ачкычын экспортту шифрлөө жана импортту ушул Bitwarden аккаунтуна чектөө үчүн колдонуңуз."
+    "message": "Аккаунтуңуздун колдонуучу атынан жана Башкы Сырсөзүнөн алынган аккаунт шифрлөө ачкычын экспортту шифрлөө жана импортту ушул VWClient аккаунтуна чектөө үчүн колдонуңуз."
   },
   "passwordProtectedOptionDescription": {
-    "message": "Экспортту шифрлөө үчүн файл сырсөзүн орнотуңуз жана чечмелөө үчүн сырсөздү колдонуп, аны каалаган Bitwarden аккаунтуна импорттоңуз."
+    "message": "Экспортту шифрлөө үчүн файл сырсөзүн орнотуңуз жана чечмелөө үчүн сырсөздү колдонуп, аны каалаган VWClient аккаунтуна импорттоңуз."
   },
   "exportTypeHeading": {
     "message": "Экспорт түрү"
@@ -1818,7 +1818,7 @@
     "message": "Бул экспорт маалыматтарыңызды аккаунтуңуздун шифрлөө ачкычы менен шифрлейт. Эгерде сиз аккаунтуңуздун шифрлөө ачкычын ротацияласаңыз, кайра экспорттооңуз керек, анткени бул экспорт файлын чечмелей албайсыз."
   },
   "encExportAccountWarningDesc": {
-    "message": "Аккаунт шифрлөө ачкычтары ар бир Bitwarden колдонуучу аккаунту үчүн уникалдуу, ошондуктан шифрленген экспортту башка аккаунтка импорттой албайсыз."
+    "message": "Аккаунт шифрлөө ачкычтары ар бир VWClient колдонуучу аккаунту үчүн уникалдуу, ошондуктан шифрленген экспортту башка аккаунтка импорттой албайсыз."
   },
   "exportMasterPassword": {
     "message": "Сактоо маалыматтарыңызды экспорттоо үчүн башкы сырсөзүңүздү киргизиңиз."
@@ -1842,7 +1842,7 @@
     "message": "Бөлүшүлгөн папка кошуу"
   },
   "bitwardenForBusinessPageDesc": {
-    "message": "Bitwarden for Business уюмду колдонуу менен сактоо элементтериңизди башкалар менен бөлүшүүгө мүмкүндүк берет. Кененирээк bitwarden.com сайтынан билиңиз."
+    "message": "VWClient for Business уюмду колдонуу менен сактоо элементтериңизди башкалар менен бөлүшүүгө мүмкүндүк берет. Кененирээк bitwarden.com сайтынан билиңиз."
   },
   "moveToOrganization": {
     "message": "Уюмга жылдыруу"
@@ -2044,7 +2044,7 @@
     "message": "Премиум сатып алуу"
   },
   "premiumPurchaseAlertV2": {
-    "message": "Bitwarden веб колдонмосундагы аккаунт жөндөөлөрүңүздөн Premium сатып ала аласыз."
+    "message": "VWClient веб колдонмосундагы аккаунт жөндөөлөрүңүздөн Premium сатып ала аласыз."
   },
   "premiumFeatures": {
     "message": "Premiumга жаңыртып, алыңыз:"
@@ -2150,7 +2150,7 @@
     "message": "Аутентификатор колдонмосу"
   },
   "authenticatorAppDescV2": {
-    "message": "Bitwarden Authenticator сыяктуу аутентификатор колдонмосу тарабынан түзүлгөн кодду киргизиңиз.",
+    "message": "VWClient Authenticator сыяктуу аутентификатор колдонмосу тарабынан түзүлгөн кодду киргизиңиз.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -2183,7 +2183,7 @@
     "message": "Өзүн-өзү хосттогон чөйрө"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Жергиликтүү хосттолгон Bitwarden орнотууңуздун негизги URLин көрсөтүңүз. Мисалы: https://bitwarden.company.com"
+    "message": "Жергиликтүү хосттолгон VWClient орнотууңуздун негизги URLин көрсөтүңүз. Мисалы: https://bitwarden.company.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Кеңейтилген конфигурация үчүн ар бир кызматтын негизги URLин өзүнчө көрсөтө аласыз."
@@ -2236,7 +2236,7 @@
     "message": "Автотолтуруу сунуштарын оңой табыңыз"
   },
   "autofillSpotlightDesc": {
-    "message": "Браузериңиздин автотолтуруу жөндөөлөрүн өчүрүңүз, алар Bitwarden менен кагылышпашы үчүн."
+    "message": "Браузериңиздин автотолтуруу жөндөөлөрүн өчүрүңүз, алар VWClient менен кагылышпашы үчүн."
   },
   "turnOffBrowserAutofill": {
     "message": "$BROWSER$ автотолтуруусун өчүрүү",
@@ -2293,7 +2293,7 @@
     "message": "Форма талааларында автотолтуруу сунуштарын көрсөтүү"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Bitwarden маалыматтарыңызды фишингден кантип коргойт?"
+    "message": "VWClient маалыматтарыңызды фишингден кантип коргойт?"
   },
   "currentWebsite": {
     "message": "Азыркы сайт"
@@ -3202,7 +3202,7 @@
     "message": "Алсыз башкы купуя сөз"
   },
   "weakMasterPasswordDesc": {
-    "message": "Сиз тандаган башкы сырсөз алсыз. Bitwarden аккаунтуңузду туура коргоо үчүн күчтүү башкы сырсөздү (же сырсөз сүйлөмүн) колдонуңуз. Бул башкы сырсөздү колдонууну каалайсызбы?"
+    "message": "Сиз тандаган башкы сырсөз алсыз. VWClient аккаунтуңузду туура коргоо үчүн күчтүү башкы сырсөздү (же сырсөз сүйлөмүн) колдонуңуз. Бул башкы сырсөздү колдонууну каалайсызбы?"
   },
   "rotateAccountEncKey": {
     "message": "Ошондой эле аккаунтумдун шифрлөө ачкычын ротациялаңыз"
@@ -3214,7 +3214,7 @@
     "message": "Аккаунтуңуздун шифрлөө ачкычын ротациялоону каалайсызбы?"
   },
   "updateEncryptionKeyWarning": {
-    "message": "Шифрлөө ачкычыңызды жаңырткандан кийин, учурда колдонуп жаткан бардык Bitwarden колдонмолорунан (мисалы, мобилдик колдонмо же браузер кеңейтүүлөрү) чыгып, кайра кирүүңүз талап кылынат. Чыкпай жана кайра кирбей калуу (жаңы шифрлөө ачкычыңызды жүктөө) маалыматтын бузулушуна алып келиши мүмкүн. Биз сизди автоматтык түрдө чыгарууга аракет кылабыз, бирок ал кечиктирилиши мүмкүн."
+    "message": "Шифрлөө ачкычыңызды жаңырткандан кийин, учурда колдонуп жаткан бардык VWClient колдонмолорунан (мисалы, мобилдик колдонмо же браузер кеңейтүүлөрү) чыгып, кайра кирүүңүз талап кылынат. Чыкпай жана кайра кирбей калуу (жаңы шифрлөө ачкычыңызды жүктөө) маалыматтын бузулушуна алып келиши мүмкүн. Биз сизди автоматтык түрдө чыгарууга аракет кылабыз, бирок ал кечиктирилиши мүмкүн."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "Сактаган аккаунт менен чектелген экспортторуңуз жараксыз болуп калат."
@@ -3242,10 +3242,10 @@
     "message": "PIN-код орнотуу"
   },
   "setYourPinCode": {
-    "message": "Bitwardenди ачуу үчүн PIN кодун орнотуңуз. Колдонмодон толук чыксаңыз, PIN жөндөөлөрүңүз баштапкы абалга келтирилет."
+    "message": "VWClientди ачуу үчүн PIN кодун орнотуңуз. Колдонмодон толук чыксаңыз, PIN жөндөөлөрүңүз баштапкы абалга келтирилет."
   },
   "setPinCode": {
-    "message": "Бул PINди Bitwardenди ачуу үчүн колдонсоңуз болот. Колдонмодон толук чыксаңыз, PINиңиз баштапкы абалга келтирилет."
+    "message": "Бул PINди VWClientди ачуу үчүн колдонсоңуз болот. Колдонмодон толук чыксаңыз, PINиңиз баштапкы абалга келтирилет."
   },
   "pinRequired": {
     "message": "PIN код талап кылынат."
@@ -3266,7 +3266,7 @@
     "message": "Иш тактадан ырастоо күтүлүүдө"
   },
   "awaitDesktopDesc": {
-    "message": "Браузер үчүн биометрияны орнотуу үчүн Bitwarden иш такта колдонмосунда биометрияны колдонуп ырастаңыз."
+    "message": "Браузер үчүн биометрияны орнотуу үчүн VWClient иш такта колдонмосунда биометрияны колдонуп ырастаңыз."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Браузер кайра башталганда башкы сырсөз менен кулпулоо"
@@ -3381,7 +3381,7 @@
     "message": "Форма сакталган кирүүңүздүн URIинен башка доменде хосттолгон. Баары бир автотолтуруу үчүн OK баскычын тандаңыз же токтотуу үчүн Cancel баскычын тандаңыз."
   },
   "autofillIframeWarningTip": {
-    "message": "Келечекте бул эскертүүнү болтурбоо үчүн, бул URIди, $HOSTNAME$, бул сайт үчүн Bitwarden кирүү элементиңизге сактаңыз.",
+    "message": "Келечекте бул эскертүүнү болтурбоо үчүн, бул URIди, $HOSTNAME$, бул сайт үчүн VWClient кирүү элементиңизге сактаңыз.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Бул бет Bitwarden тажрыйбасына тоскоол болууда. Коопсуздук чарасы катары Bitwarden ички менюсу убактылуу өчүрүлдү."
+    "message": "Бул бет VWClient тажрыйбасына тоскоол болууда. Коопсуздук чарасы катары VWClient ички менюсу убактылуу өчүрүлдү."
   },
   "setMasterPassword": {
     "message": "Башкы сырсөздү орнотуу"
@@ -3447,7 +3447,7 @@
     "message": "Жаңы башкы сырсөзүңүз саясат талаптарына жооп бербейт."
   },
   "receiveMarketingEmails": {
-    "message": "Bitwardenден жаңыртууларды кирүү кутучаңызда алыңыз."
+    "message": "VWClientден жаңыртууларды кирүү кутучаңызда алыңыз."
   },
   "unsubscribe": {
     "message": "Жазылуудан баш тартуу"
@@ -3492,13 +3492,13 @@
     "message": "Браузер интеграциясы орнотулган эмес"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Bitwarden иш такта колдонмосунда браузер интеграциясы орнотулган эмес. Аны иш такта колдонмосундагы жөндөөлөрдө орнотуңуз."
+    "message": "VWClient иш такта колдонмосунда браузер интеграциясы орнотулган эмес. Аны иш такта колдонмосундагы жөндөөлөрдө орнотуңуз."
   },
   "startDesktopTitle": {
-    "message": "Bitwarden иш такта колдонмосун баштоо"
+    "message": "VWClient иш такта колдонмосун баштоо"
   },
   "startDesktopDesc": {
-    "message": "Биометрия менен ачууну колдонуудан мурун Bitwarden иш такта колдонмосу башталышы керек."
+    "message": "Биометрия менен ачууну колдонуудан мурун VWClient иш такта колдонмосу башталышы керек."
   },
   "errorEnableBiometricTitle": {
     "message": "Биометрияны орнотуу мүмкүн эмес"
@@ -3552,13 +3552,13 @@
     "message": "Биометрия ишке ашкан жок"
   },
   "biometricsFailedDesc": {
-    "message": "Биометрия аяктай албайт, башкы сырсөздү колдонууну же чыгууну караңыз. Эгерде бул уланса, Bitwarden колдоо кызматына кайрылыңыз."
+    "message": "Биометрия аяктай албайт, башкы сырсөздү колдонууну же чыгууну караңыз. Эгерде бул уланса, VWClient колдоо кызматына кайрылыңыз."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Уруксат берилген эмес"
   },
   "nativeMessagingPermissionErrorDesc": {
-    "message": "Bitwarden Иш такта Колдонмосу менен байланышуу уруксаты жок болсо, браузер кеңейтүүсүндө биометрияны камсыз кыла албайбыз. Кайра аракет кылыңыз."
+    "message": "VWClient Иш такта Колдонмосу менен байланышуу уруксаты жок болсо, браузер кеңейтүүсүндө биометрияны камсыз кыла албайбыз. Кайра аракет кылыңыз."
   },
   "nativeMessagingPermissionSidebarTitle": {
     "message": "Уруксат суроо катасы"
@@ -3595,7 +3595,7 @@
     "message": "Чыгарылган домендер"
   },
   "excludedDomainsDesc": {
-    "message": "Bitwarden бул домендер үчүн кирүү маалыматтарын сактоону сурабайт. Өзгөртүүлөр күчүнө кириши үчүн бетти жаңыртышыңыз керек."
+    "message": "VWClient бул домендер үчүн кирүү маалыматтарын сактоону сурабайт. Өзгөртүүлөр күчүнө кириши үчүн бетти жаңыртышыңыз керек."
   },
   "blockedDomainsDesc": {
     "message": "Бул веб сайттар үчүн автотолтуруу жана башка тиешелүү функциялар сунушталбайт. Өзгөртүүлөр күчүнө кириши үчүн бетти жаңыртышыңыз керек."
@@ -3727,24 +3727,24 @@
     "message": "Тобокелдиктеги кирүүлөрдүн тизмесинин иллюстрациясы."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Bitwarden сактоо бетиннүн иреттелишинин иллюстрациясы."
+    "message": "VWClient сактоо бетиннүн иреттелишинин иллюстрациясы."
   },
   "generatePasswordSlideDesc": {
-    "message": "Тобокелдиктеги сайтта Bitwarden автотолтуруу менюсу менен күчтүү, уникалдуу сырсөздү тез түзүңүз.",
+    "message": "Тобокелдиктеги сайтта VWClient автотолтуруу менюсу менен күчтүү, уникалдуу сырсөздү тез түзүңүз.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Түзүлгөн сырсөздү көрсөткөн Bitwarden автотолтуруу менюсунун иллюстрациясы."
+    "message": "Түзүлгөн сырсөздү көрсөткөн VWClient автотолтуруу менюсунун иллюстрациясы."
   },
   "updateInBitwarden": {
-    "message": "Bitwardenде жаңыртуу"
+    "message": "VWClientде жаңыртуу"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Андан кийин Bitwarden сизди сырсөз менеджериндеги сырсөздү жаңыртууга чакырат.",
+    "message": "Андан кийин VWClient сизди сырсөз менеджериндеги сырсөздү жаңыртууга чакырат.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Колдонуучуну кирүүнү жаңыртууга чакырган Bitwarden эскертмесинин иллюстрациясы."
+    "message": "Колдонуучуну кирүүнү жаңыртууга чакырган VWClient эскертмесинин иллюстрациясы."
   },
   "turnOnAutofill": {
     "message": "Автотолтурууну күйгүзүү"
@@ -4259,10 +4259,10 @@
     "message": "Автотолтуруу маалыматтарын алууда ката"
   },
   "couldNotDecryptVaultItem": {
-    "message": "Bitwarden төмөндө көрсөтүлгөн сактоо элементин чечмелей алган жок. Bitwarden кардарларды колдоо кызматына кайрылып, калыбына келтирүү мүмкүнчүлүгүн текшерүү үчүн төмөндөгү элемент IDин бериңиз."
+    "message": "VWClient төмөндө көрсөтүлгөн сактоо элементин чечмелей алган жок. VWClient кардарларды колдоо кызматына кайрылып, калыбына келтирүү мүмкүнчүлүгүн текшерүү үчүн төмөндөгү элемент IDин бериңиз."
   },
   "couldNotDecryptVaultItems": {
-    "message": "Bitwarden төмөндө көрсөтүлгөн сактоо элементтерин чечмелей алган жок. Bitwarden кардарларды колдоо кызматына кайрылып, калыбына келтирүү мүмкүнчүлүгүн текшерүү үчүн төмөндөгү элемент IDлерин бериңиз."
+    "message": "VWClient төмөндө көрсөтүлгөн сактоо элементтерин чечмелей алган жок. VWClient кардарларды колдоо кызматына кайрылып, калыбына келтирүү мүмкүнчүлүгүн текшерүү үчүн төмөндөгү элемент IDлерин бериңиз."
   },
   "itemId": {
     "message": "Элемент ID",
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Bitwarden'ден жаратылды.",
+    "message": "VWClient'ден жаратылды.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Веб сайт: $WEBSITE$. Bitwarden тарабынан түзүлгөн.",
+    "message": "Веб сайт: $WEBSITE$. VWClient тарабынан түзүлгөн.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Түзмөгүңүзгө эскертме жөнөтүлдү."
   },
   "notificationSentDevicePart1": {
-    "message": "Түзмөгүңүздө же мына жерде Bitwardenди ачыңыз"
+    "message": "Түзмөгүңүздө же мына жерде VWClientди ачыңыз"
   },
   "notificationSentDeviceAnchor": {
     "message": "веб колдонмо"
@@ -5098,15 +5098,15 @@
     "message": "Мазмунга өтүү"
   },
   "bitwardenOverlayButton": {
-    "message": "Bitwarden автотолтуруу меню баскычы",
+    "message": "VWClient автотолтуруу меню баскычы",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Bitwarden автотолтуруу менюсун которуу",
+    "message": "VWClient автотолтуруу менюсун которуу",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Bitwarden автотолтуруу менюсу",
+    "message": "VWClient автотолтуруу менюсу",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Bitwarden автотолтуруу менюсу жеткиликтүү. Тандоо үчүн ылдый багыттоо баскычын басыңыз.",
+    "message": "VWClient автотолтуруу менюсу жеткиликтүү. Тандоо үчүн ылдый багыттоо баскычын басыңыз.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -5550,7 +5550,7 @@
     "message": "Secure by design"
   },
   "importDataSecureByDesignBody": {
-    "message": "End-to-end encrypted handoff. Bitwarden never sees your $VENDOR$ login details.",
+    "message": "End-to-end encrypted handoff. VWClient never sees your $VENDOR$ login details.",
     "placeholders": {
       "vendor": {
         "content": "$1",
@@ -5725,7 +5725,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "файлды бул жерге Bitwardenге.",
+    "message": "файлды бул жерге VWClientге.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -6392,7 +6392,7 @@
     "message": "Активдүү аккаунт"
   },
   "bitwardenAccount": {
-    "message": "Bitwarden эсеби"
+    "message": "VWClient эсеби"
   },
   "availableAccounts": {
     "message": "Жеткиликтүү аккаунттар"
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI дал келүү аныктоо - Bitwarden автотолтуруу сунуштарын кантип аныктайт.",
+    "message": "URI дал келүү аныктоо - VWClient автотолтуруу сунуштарын кантип аныктайт.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Bitwardenди демейки сырсөз менеджериңиз кылуу керекпи?",
+    "message": "VWClientди демейки сырсөз менеджериңиз кылуу керекпи?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Бул параметрди этибарга албоо Bitwarden автотолтуруу сунуштары менен браузериңиздин ортосунда кагылышууларды жаратышы мүмкүн.",
+    "message": "Бул параметрди этибарга албоо VWClient автотолтуруу сунуштары менен браузериңиздин ортосунда кагылышууларды жаратышы мүмкүн.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Bitwardenди демейки сырсөз менеджериңиз кылыңыз",
+    "message": "VWClientди демейки сырсөз менеджериңиз кылыңыз",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Bitwardenди демейки сырсөз менеджериңиз кылуу үчүн $BROWSER$ браузеринен уруксат берүү суралат.",
+    "message": "VWClientди демейки сырсөз менеджериңиз кылуу үчүн $BROWSER$ браузеринен уруксат берүү суралат.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Bitwardenди демейки сырсөз менеджери катары орнотуу мүмкүн эмес",
+    "message": "VWClientди демейки сырсөз менеджери катары орнотуу мүмкүн эмес",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Bitwardenди демейки сырсөз менеджери кылып орнотуу үчүн браузер купуялык уруксаттарын Bitwardenге берүүңүз керек.",
+    "message": "VWClientди демейки сырсөз менеджери кылып орнотуу үчүн браузер купуялык уруксаттарын VWClientге берүүңүз керек.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Bitwardenди браузериңиздин демейки сырсөз менеджери кылыңыз"
+    "message": "VWClientди браузериңиздин демейки сырсөз менеджери кылыңыз"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Bitwardenди демейки сырсөз менеджериңиз кылыңыз",
+    "message": "VWClientди демейки сырсөз менеджериңиз кылыңыз",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "браузер сурамынан Bitwardenге жөндөөлөрүңүздү өзгөртүү укугун берүү үчүн."
+    "message": "браузер сурамынан VWClientге жөндөөлөрүңүздү өзгөртүү укугун берүү үчүн."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Коопсуз кирүү тажрыйбасынан ырахат алууңуз үчүн браузериңиздин курулган сырсөз менеджерин өчүрөбүз."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Bitwardenди демейки браузер сырсөз менеджериңиз кылды"
+    "message": "VWClientди демейки браузер сырсөз менеджериңиз кылды"
   },
   "allow": {
     "message": "Уруксат берүү",
@@ -6952,16 +6952,16 @@
     "message": "Тиркемени жүктөө"
   },
   "downloadBitwarden": {
-    "message": "Bitwarden жүктөө"
+    "message": "VWClient жүктөө"
   },
   "downloadBitwardenOnAllDevices": {
-    "message": "Bitwarden'ди бардык түзмөктөргө жүктөө"
+    "message": "VWClient'ди бардык түзмөктөргө жүктөө"
   },
   "getTheMobileApp": {
     "message": "Мобилдик колдонмону алыңыз"
   },
   "getTheMobileAppDesc": {
-    "message": "Bitwarden мобилдик колдонмосу менен сырсөздөрүңүзгө жолдо жетүү."
+    "message": "VWClient мобилдик колдонмосу менен сырсөздөрүңүзгө жолдо жетүү."
   },
   "getTheDesktopApp": {
     "message": "Иш такта колдонмосун алыңыз"
@@ -7514,10 +7514,10 @@
     "message": "Туура эмес конфигурацияланган системалык файлдардан улам биометриялык ачуу жеткиликсиз."
   },
   "biometricsStatusHelptextDesktopDisconnected": {
-    "message": "Bitwarden иш такта колдонмосу жабык болгондуктан биометриялык ачуу жеткиликсиз."
+    "message": "VWClient иш такта колдонмосу жабык болгондуктан биометриялык ачуу жеткиликсиз."
   },
   "biometricsStatusHelptextNotEnabledInDesktop": {
-    "message": "Bitwarden иш такта колдонмосунда $EMAIL$ үчүн күйгүзүлбөгөндүктөн биометриялык ачуу жеткиликсиз.",
+    "message": "VWClient иш такта колдонмосунда $EMAIL$ үчүн күйгүзүлбөгөндүктөн биометриялык ачуу жеткиликсиз.",
     "placeholders": {
       "email": {
         "content": "$1",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Bitwardenге сактоо",
+    "message": "VWClientге сактоо",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Bitwardenге кош келиңиз"
+    "message": "VWClientге кош келиңиз"
   },
   "securityPrioritized": {
     "message": "Коопсуздук, артыкчылыктуу"
   },
   "securityPrioritizedBody": {
-    "message": "Кирүүлөрдү, карталарды жана идентификацияларды коопсуз сактооңузга сактаңыз. Bitwarden сиз үчүн маанилүү нерселерди коргоо үчүн нөл-билим, учтан-учка шифрлөөнү колдонот."
+    "message": "Кирүүлөрдү, карталарды жана идентификацияларды коопсуз сактооңузга сактаңыз. VWClient сиз үчүн маанилүү нерселерди коргоо үчүн нөл-билим, учтан-учка шифрлөөнү колдонот."
   },
   "quickLogin": {
     "message": "Тез жана оңой кирүү"
@@ -7817,7 +7817,7 @@
     "message": "Сиздин маалыматтарыңыз, качан жана кайда керек болсо"
   },
   "secureDevicesBody": {
-    "message": "Bitwarden мобилдик, браузер жана иш такта колдонмолору менен чексиз түзмөктөрдө чексиз сырсөздөрдү сактаңыз."
+    "message": "VWClient мобилдик, браузер жана иш такта колдонмолору менен чексиз түзмөктөрдө чексиз сырсөздөрдү сактаңыз."
   },
   "nudgeBadgeAria": {
     "message": "1 кабарлама"
@@ -7826,7 +7826,7 @@
     "message": "Учурдагы сырсөздөрдү импорттоо"
   },
   "emptyVaultNudgeBody": {
-    "message": "Кирүүлөрдү кол менен кошпой эле Bitwardenге тез өткөрүү үчүн импорттоочуну колдонуңуз."
+    "message": "Кирүүлөрдү кол менен кошпой эле VWClientге тез өткөрүү үчүн импорттоочуну колдонуңуз."
   },
   "emptyVaultNudgeButton": {
     "message": "Азыр импорттоо"
@@ -7945,7 +7945,7 @@
     "message": "Бул жөндөө тууралуу"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden тажрыйбаңызды жакшыртуу үчүн кайсы сүрөтчө же сырсөздү өзгөртүү URLи колдонулушу керектигин аныктоо үчүн сакталган кирүү URIлерин колдонот. Бул кызматты колдонгондо эч кандай маалымат чогултулбайт же сакталбайт."
+    "message": "VWClient тажрыйбаңызды жакшыртуу үчүн кайсы сүрөтчө же сырсөздү өзгөртүү URLи колдонулушу керектигин аныктоо үчүн сакталган кирүү URIлерин колдонот. Бул кызматты колдонгондо эч кандай маалымат чогултулбайт же сакталбайт."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Колдонуучу атыңызды, сырсөзүңүздү же текшерүү кодун clipboardке көчүрүү үчүн элементтердин жанына 3 тез көчүрүү баскычын кошуңуз."
@@ -7954,7 +7954,7 @@
     "message": "Бул бетти көрүүгө укугуңуз жок. Башка аккаунт менен кирүүгө аракет кылыңыз."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly браузериңизде колдоого алынбайт же күйгүзүлгөн эмес. Bitwarden колдонмосун колдонуу үчүн WebAssembly талап кылынат.",
+    "message": "WebAssembly браузериңизде колдоого алынбайт же күйгүзүлгөн эмес. VWClient колдонмосун колдонуу үчүн WebAssembly талап кылынат.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8042,7 +8042,7 @@
     "message": "Ката: Чечмелөө мүмкүн эмес"
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "Уюмуңуз эми Bitwardenге кирүү үчүн башкы сырсөздөрдү колдонбойт. Улантуу үчүн уюмду жана доменди ырастаңыз."
+    "message": "Уюмуңуз эми VWClientге кирүү үчүн башкы сырсөздөрдү колдонбойт. Улантуу үчүн уюмду жана доменди ырастаңыз."
   },
   "continueWithLogIn": {
     "message": "Кирүү менен улантуу"
@@ -8128,7 +8128,7 @@
     "message": "Убакыт аяктоо аракетиңизди өзгөртүү үчүн ачуу ыкмасын орнотуңуз"
   },
   "sessionTimeoutSuppressedByConnectedDevice": {
-    "message": "Bitwarden иш такта колдонмосу тарабынан башкарылат. Оңдоо үчүн иш такта колдонмосун ачыңыз."
+    "message": "VWClient иш такта колдонмосу тарабынан башкарылат. Оңдоо үчүн иш такта колдонмосун ачыңыз."
   },
   "percentageCompleted": {
     "message": "$PERCENT$% даяр",
@@ -8230,7 +8230,7 @@
     "message": "user@bitwarden.com, user@acme.com"
   },
   "downloadBitwardenApps": {
-    "message": "Bitwarden колдонмолорун жүктөп алыңыз"
+    "message": "VWClient колдонмолорун жүктөп алыңыз"
   },
   "emailProtected": {
     "message": "Электрондук почта корголгон"
@@ -8249,7 +8249,7 @@
     "message": "Synchronize unlock with desktop"
   },
   "syncUnlockWithDesktopDescription1": {
-    "message": "The Bitwarden browser extension and desktop app lock and unlock together. Biometrics will be used if available."
+    "message": "The VWClient browser extension and desktop app lock and unlock together. Biometrics will be used if available."
   },
   "sharedUnlockUnavailableUntrustedDevice": {
     "message": "Бөлүшүлгөн ачуу жеткиликсиз, анткени сиз бул түзмөктү эстеп калууну тандаган жоксуз. Бул жөндөөнү күйгүзүү үчүн, кайра кирүүгө аракет кылыңыз."
@@ -8258,13 +8258,13 @@
     "message": "Жаңы уруксат керек"
   },
   "sharedUnlockDesktopPermissionDesc": {
-    "message": "Бөлүшүлгөн ачууну колдонуу үчүн, Bitwarden иш такта колдонмосу менен байланышуу уруксатын талап кылат. Улантканда, браузериңиз аны ырастоону сурайт."
+    "message": "Бөлүшүлгөн ачууну колдонуу үчүн, VWClient иш такта колдонмосу менен байланышуу уруксатын талап кылат. Улантканда, браузериңиз аны ырастоону сурайт."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Bitwarden кулпулап, кайра жүктөйт. Сиз ырастагандан кийин, кеңейтүү кайра жүктөлөт жана сактооңузду кулпулайт."
+    "message": "VWClient кулпулап, кайра жүктөйт. Сиз ырастагандан кийин, кеңейтүү кайра жүктөлөт жана сактооңузду кулпулайт."
   },
   "biometricPermissionDesc": {
-    "message": "Биометриялык ачууну колдонуу үчүн, Bitwarden иш такта колдонмосу менен байланышуу уруксатын талап кылат. Улантканда, браузериңиз аны ырастоону сурайт."
+    "message": "Биометриялык ачууну колдонуу үчүн, VWClient иш такта колдонмосу менен байланышуу уруксатын талап кылат. Улантканда, браузериңиз аны ырастоону сурайт."
   },
   "enterMonth": {
     "message": "Айды киргизиңиз."
@@ -8767,15 +8767,15 @@
     "message": "Unable to determine item ID"
   },
   "newExperienceDialogTitle": {
-    "message": "Bitwarden has a new look",
+    "message": "VWClient has a new look",
     "description": "Title of the dialog that introduces the redesigned vault to existing users."
   },
   "newExperienceDialogDesc": {
-    "message": "Better experience, same trusted security. The Bitwarden vault has been redesigned based on your feedback, so things are easier to find and work like you'd expect.",
+    "message": "Better experience, same trusted security. The VWClient vault has been redesigned based on your feedback, so things are easier to find and work like you'd expect.",
     "description": "Body copy of the dialog that introduces the redesigned vault to existing users."
   },
   "newExperienceDialogImgAlt": {
-    "message": "A preview of the redesigned Bitwarden vault.",
+    "message": "A preview of the redesigned VWClient vault.",
     "description": "Alt text for the screenshot shown in the dialog that introduces the redesigned vault."
   },
   "exploreTheNewVault": {

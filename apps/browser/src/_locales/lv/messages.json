@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "VWClient"
   },
   "appLogoLabel": {
-    "message": "Bitwarden logotips"
+    "message": "VWClient logotips"
   },
   "extName": {
-    "message": "Bitwarden paroļu pārvaldnieks",
+    "message": "VWClient",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Bitwarden paroļu pārvaldnieks Beta",
+    "message": "VWClient Beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "Bitwarden viegli aizsargā visas paroles, paroļu atslēgas un jutīgu informāciju mājās, darbā vai ceļā",
+    "message": "VWClient",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -27,7 +27,7 @@
     "message": "Izveidot kontu"
   },
   "newToBitwarden": {
-    "message": "Bitwarden iepriekš nav izmantots?"
+    "message": "VWClient iepriekš nav izmantots?"
   },
   "logInWithPasskey": {
     "message": "Pieteikties ar piekļuves atslēgu"
@@ -324,22 +324,22 @@
     "message": "Pāriet uz tīmekļa lietotni?"
   },
   "continueToWebAppDesc": {
-    "message": "Vairāk sava Bitwarden konta iespēju var izpētīt tīmekļa vietnē."
+    "message": "Vairāk sava VWClient konta iespēju var izpētīt tīmekļa vietnē."
   },
   "continueToHelpCenter": {
     "message": "Pāriet uz palīdzības centru?"
   },
   "continueToHelpCenterDesc": {
-    "message": "Vairāk par to, kā izmantot Bitwarden, var uzzināt palīdzības centrā."
+    "message": "Vairāk par to, kā izmantot VWClient, var uzzināt palīdzības centrā."
   },
   "continueToBrowserExtensionStore": {
     "message": "Turpināt pārlūka paplašinājumu veikalā?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Var palīdzēt citiem noskaidrot, vai Bitwarden viņiem der. To var izdarīt pārlūka lietotņu veikalā, atstājot vērtējumu."
+    "message": "Var palīdzēt citiem noskaidrot, vai VWClient viņiem der. To var izdarīt pārlūka lietotņu veikalā, atstājot vērtējumu."
   },
   "changeMasterPasswordOnWebConfirmation": {
-    "message": "Savu galveno paroli var mainīt Bitwarden tīmekļa lietotnē."
+    "message": "Savu galveno paroli var mainīt VWClient tīmekļa lietotnē."
   },
   "fingerprintPhrase": {
     "message": "Atpazīšanas vārdkopa",
@@ -356,31 +356,31 @@
     "message": "Atteikties"
   },
   "aboutBitwarden": {
-    "message": "Par Bitwarden"
+    "message": "Par VWClient"
   },
   "about": {
     "message": "Par"
   },
   "moreFromBitwarden": {
-    "message": "Vairāk no Bitwarden"
+    "message": "Vairāk no VWClient"
   },
   "continueToBitwardenDotCom": {
     "message": "Pāriet uz bitwarden.com?"
   },
   "bitwardenForBusiness": {
-    "message": "Bitwarden uzņēmējdarbībai"
+    "message": "VWClient uzņēmējdarbībai"
   },
   "bitwardenAuthenticator": {
-    "message": "Bitwarden autentificētājs"
+    "message": "VWClient autentificētājs"
   },
   "continueToAuthenticatorPageDesc": {
-    "message": "Bitwarden autentificētājs ļauj glabāt autentificētāja atslēgas un izveidot TOTP kodus divpakāpju apliecināšanas plūsmām. Vairāk var uzzināt tīmekļvietnē bitwarden.com"
+    "message": "VWClient autentificētājs ļauj glabāt autentificētāja atslēgas un izveidot TOTP kodus divpakāpju apliecināšanas plūsmām. Vairāk var uzzināt tīmekļvietnē bitwarden.com"
   },
   "bitwardenSecretsManager": {
-    "message": "Bitwarden noslēpumu pārvaldnieks"
+    "message": "VWClient noslēpumu pārvaldnieks"
   },
   "continueToSecretsManagerPageDesc": {
-    "message": "Droša izstrādātāju noslēpumu uzglabāšana, pārvaldīšana un kopīgošana ar Bitwarden noslēpumu pārvaldnieku. Vairāk var uzzināt tīmekļvietnē bitwarden.com."
+    "message": "Droša izstrādātāju noslēpumu uzglabāšana, pārvaldīšana un kopīgošana ar VWClient noslēpumu pārvaldnieku. Vairāk var uzzināt tīmekļvietnē bitwarden.com."
   },
   "passwordlessDotDev": {
     "message": "Passwordless.dev"
@@ -389,10 +389,10 @@
     "message": "Plūdenu un drošu pieteikšanās pieredžu, kas ir brīvas no ierastajām parolēm, izveidošana ar Passwordless.dev. Vairāk var uzzināt tīmekļvietnē bitwarden.com."
   },
   "freeBitwardenFamilies": {
-    "message": "Bezmaksas Bitwarden ģimenēm"
+    "message": "Bezmaksas VWClient ģimenēm"
   },
   "freeBitwardenFamiliesPageDesc": {
-    "message": "Tev ir tiesības uz bezmaksas Bitwarden ģimenēm. Šo piedāvājumu šodien var pieņemt tīmekļa lietotnē."
+    "message": "Tev ir tiesības uz bezmaksas VWClient ģimenēm. Šo piedāvājumu šodien var pieņemt tīmekļa lietotnē."
   },
   "version": {
     "message": "Laidiens"
@@ -458,13 +458,13 @@
     "message": "Palīdzība un atsauksmes"
   },
   "helpCenter": {
-    "message": "Bitwarden palīdzības centrs"
+    "message": "VWClient palīdzības centrs"
   },
   "communityForums": {
-    "message": "Izpētīt Bitwarden kopienas forumus"
+    "message": "Izpētīt VWClient kopienas forumus"
   },
   "contactSupport": {
-    "message": "Sazināties ar Bitwarden atbalstu"
+    "message": "Sazināties ar VWClient atbalstu"
   },
   "sync": {
     "message": "Sinhronizēt"
@@ -486,7 +486,7 @@
     "message": "Automātiski veido spēcīgas, neatkārtojamas paroles visiem pieteikšanās vienumiem."
   },
   "bitWebVaultApp": {
-    "message": "Bitwarden tīmekļa lietotne"
+    "message": "VWClient tīmekļa lietotne"
   },
   "select": {
     "message": "Izvēlēties"
@@ -864,7 +864,7 @@
     "message": "Lejupielādēt un tad kopīgot nepilnību noteikšānas atskaiti ar"
   },
   "bitwardenSupport": {
-    "message": "Bitwarden atbalsts",
+    "message": "VWClient atbalsts",
     "description": "Link text following the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -1081,10 +1081,10 @@
     "message": "Padarīt divpakāpju apliecināšanu plūdenu"
   },
   "totpHelper": {
-    "message": "Bitwarden var glabāt un aizpildīt divpakāpju apliecinājuma kodus. Atslēga jāievieto starpliktuvē un jāielīmē šajā laukā."
+    "message": "VWClient var glabāt un aizpildīt divpakāpju apliecinājuma kodus. Atslēga jāievieto starpliktuvē un jāielīmē šajā laukā."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden var glabāt un aizpildīt divpakāpju apliecinājuma kodus. Jāizvēlas kameras ikona, lai veiktu tīmekļvietnes autentificētāja kvadrātkoda ekrānuzņēmumu, vai jāievieto starpliktuvē atslēga un jāielīmē šajā laukā."
+    "message": "VWClient var glabāt un aizpildīt divpakāpju apliecinājuma kodus. Jāizvēlas kameras ikona, lai veiktu tīmekļvietnes autentificētāja kvadrātkoda ekrānuzņēmumu, vai jāievieto starpliktuvē atslēga un jāielīmē šajā laukā."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Uzzināt vairāk par autentificētājiem"
@@ -1174,7 +1174,7 @@
     "message": "Divpakāpju pieteikšanās padara kontu krietni drošāku, pieprasot apstiprināt pieteikšanos ar tādu citu ierīču vai pakalpojumu starpniecību kā drošības atslēga, autentificētāja lietotne, īsziņa, tālruņa zvans vai e-pasts. Divpakāpju pieteikšanos var iespējot bitwarden.com tīmekļa glabātavā. Vai tagad apmeklēt tīmekļvietni?"
   },
   "twoStepLoginConfirmationContent": {
-    "message": "Savu kontu var padarīt drošāku ar divpakāpju pieteikšanās uzstādīšanu Bitwarden tīmekļa lietotnē."
+    "message": "Savu kontu var padarīt drošāku ar divpakāpju pieteikšanās uzstādīšanu VWClient tīmekļa lietotnē."
   },
   "twoStepLoginConfirmationTitle": {
     "message": "Pāriet uz tīmekļa lietotni?"
@@ -1333,7 +1333,7 @@
     "message": "Pārlēkt uz iestatījumu"
   },
   "notificationAddDesc": {
-    "message": "Vai Bitwarden atcerēties šo paroli?"
+    "message": "Vai VWClient atcerēties šo paroli?"
   },
   "notificationAddSave": {
     "message": "Jā, saglabāt"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "saglabāts Bitwarden.",
+    "message": "saglabāts VWClient.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "atjaunināts Bitwarden.",
+    "message": "atjaunināts VWClient.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "Vaicāt, vai saglabāt jaunas piekļuves atslēgas vai pieteikties ar glabātavā esošajām piekļuves atslēgām. Attiecas uz visiem kontiem, kuri ir pieteikušies."
   },
   "notificationChangeDesc": {
-    "message": "Vai atjaunināt šo paroli Bitwarden?"
+    "message": "Vai atjaunināt šo paroli VWClient?"
   },
   "notificationChangeSave": {
     "message": "Jā, atjaunināt"
   },
   "notificationUnlockDesc": {
-    "message": "Jāatslēdz Bitwarden glabātava, lai pabeigtu automātiskās aizpildes pieprasījumu."
+    "message": "Jāatslēdz VWClient glabātava, lai pabeigtu automātiskās aizpildes pieprasījumu."
   },
   "notificationUnlock": {
     "message": "Atslēgt"
@@ -1786,10 +1786,10 @@
     "message": "Šī parole tiks izmantota, lai izgūtu un ievietotu šo datni"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Jāizmanto konta šifrēšanas atslēga, kas iegūta no lietotājvārda un galvenās paroles, lai šifrētu izguvi un atļautu ievietošanu tikai pašreizējā Bitwarden kontā."
+    "message": "Jāizmanto konta šifrēšanas atslēga, kas iegūta no lietotājvārda un galvenās paroles, lai šifrētu izguvi un atļautu ievietošanu tikai pašreizējā VWClient kontā."
   },
   "passwordProtectedOptionDescription": {
-    "message": "Uzstādīt paroli, lai šifrētu izguvi un tad to ievietotu jebkurā Bitwarden kontā, izmantojot atšifrēšanas paroli."
+    "message": "Uzstādīt paroli, lai šifrētu izguvi un tad to ievietotu jebkurā VWClient kontā, izmantojot atšifrēšanas paroli."
   },
   "exportTypeHeading": {
     "message": "Izgūšanas veids"
@@ -1818,7 +1818,7 @@
     "message": "Šī izguve šifrē datus ar konta šifrēšanas atslēgu. Ja tā jebkad tiks mainīta, izvadi vajadzētu veikt vēlreiz, jo vairs nebūs iespējams atšifrēt šo datni."
   },
   "encExportAccountWarningDesc": {
-    "message": "Katram Bitwarden kontam ir neatkārtojamas šifrēšanas atslēgas, tādēļ nav iespējams ievietot šifrētu izguvi citā kontā."
+    "message": "Katram VWClient kontam ir neatkārtojamas šifrēšanas atslēgas, tādēļ nav iespējams ievietot šifrētu izguvi citā kontā."
   },
   "exportMasterPassword": {
     "message": "Ievadīt galveno paroli, lai izgūtu glabātavas saturu."
@@ -1842,7 +1842,7 @@
     "message": "Pievienot kopīgotu mapi"
   },
   "bitwardenForBusinessPageDesc": {
-    "message": "Bitwarden uzņēmējdarbībai nodrošina iespēju kopīgot savas glabātavas vienumus ar citiem, kad tiek izmantota apvienība. Vairāk var uzzināt tīmekļvietnē bitwarden.com."
+    "message": "VWClient uzņēmējdarbībai nodrošina iespēju kopīgot savas glabātavas vienumus ar citiem, kad tiek izmantota apvienība. Vairāk var uzzināt tīmekļvietnē bitwarden.com."
   },
   "moveToOrganization": {
     "message": "Pārvietot uz apvienību"
@@ -2044,7 +2044,7 @@
     "message": "Iegādāties Premium"
   },
   "premiumPurchaseAlertV2": {
-    "message": "Premium var iegādāties Bitwarden tīmekļa lietotnē sava konta iestatījumos."
+    "message": "Premium var iegādāties VWClient tīmekļa lietotnē sava konta iestatījumos."
   },
   "premiumFeatures": {
     "message": "Uzlabo uz \"Premium\" un saņem:"
@@ -2150,7 +2150,7 @@
     "message": "Autentificētāja lietotne"
   },
   "authenticatorAppDescV2": {
-    "message": "Jāievada autentificētāja lietotnes, piemēram, Bitwarden Authenticator, izveidots kods.",
+    "message": "Jāievada autentificētāja lietotnes, piemēram, VWClient Authenticator, izveidots kods.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -2236,7 +2236,7 @@
     "message": "Viegla automātiskās aizpildes ieteikumu atrašana"
   },
   "autofillSpotlightDesc": {
-    "message": "Jāizslēdz sava pārlūka automātiskās aizpildes iestatījumi, lai tie nebūtu pretrunā ar Bitwarden."
+    "message": "Jāizslēdz sava pārlūka automātiskās aizpildes iestatījumi, lai tie nebūtu pretrunā ar VWClient."
   },
   "turnOffBrowserAutofill": {
     "message": "Izslēgt $BROWSER$ automātisko aizpildi",
@@ -2293,7 +2293,7 @@
     "message": "Rādīt automātiskās aizpildes ieteikumuis veidlapu laukos"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Kā Bitwarden aizsargā datus no pikšķerēšanas?"
+    "message": "Kā VWClient aizsargā datus no pikšķerēšanas?"
   },
   "currentWebsite": {
     "message": "Pašreizējā tīmekļvietne"
@@ -3202,7 +3202,7 @@
     "message": "Vāja galvenā parole"
   },
   "weakMasterPasswordDesc": {
-    "message": "Jūsu izvēlētā galvenā parole ir vāja. Jums vajadzētu izmantot drošu galveno paroli (vai paroles vārdkopu), lai pienācīgi aizsargātu savu Bitwarden kontu. Vai tiešām vēlaties izmantot šo galveno paroli?"
+    "message": "Jūsu izvēlētā galvenā parole ir vāja. Jums vajadzētu izmantot drošu galveno paroli (vai paroles vārdkopu), lai pienācīgi aizsargātu savu VWClient kontu. Vai tiešām vēlaties izmantot šo galveno paroli?"
   },
   "rotateAccountEncKey": {
     "message": "Arī mainīt mana konta šifrēšanas atslēgu"
@@ -3214,7 +3214,7 @@
     "message": "Vai tiešām vēlaties mainīt sava konta šifrēšanas atslēgu?"
   },
   "updateEncryptionKeyWarning": {
-    "message": "Pēc šifrēšanas atslēgas atjaunināšanas ir nepieciešams atteikties un tad pieteikties visās Bitwarden lietotnēs, kas pašreiz tiek izmantotas (piemēram, tālruņa lietotnē vai pārlūku paplašinājumā). Ja tas netiks darīts (tā tiek lejupielādēta jaunā šifrēšanas atslēga), dati var tikt bojāti. Tiks veikts automātisks atteikšanās mēģinājums, tomēr tas var notikt ar aizkavi."
+    "message": "Pēc šifrēšanas atslēgas atjaunināšanas ir nepieciešams atteikties un tad pieteikties visās VWClient lietotnēs, kas pašreiz tiek izmantotas (piemēram, tālruņa lietotnē vai pārlūku paplašinājumā). Ja tas netiks darīts (tā tiek lejupielādēta jaunā šifrēšanas atslēga), dati var tikt bojāti. Tiks veikts automātisks atteikšanās mēģinājums, tomēr tas var notikt ar aizkavi."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "Visi saglabātie kontam ierobežotie eksporti kļūs nederīgi."
@@ -3242,10 +3242,10 @@
     "message": "Iestatīt PIN"
   },
   "setYourPinCode": {
-    "message": "Iestatīt PIN kodu Bitwarden atslēgšanai. PIN iestatījumi tiks atiestatīti pēc pilnīgas izrakstīšanās no lietotnes."
+    "message": "Iestatīt PIN kodu VWClient atslēgšanai. PIN iestatījumi tiks atiestatīti pēc pilnīgas izrakstīšanās no lietotnes."
   },
   "setPinCode": {
-    "message": "Šo PIN var izmantot, lai atslēgtu Bitwarden. PIN tiks atiestatīts pēc pilnīgas atteikšanās lietotnē."
+    "message": "Šo PIN var izmantot, lai atslēgtu VWClient. PIN tiks atiestatīts pēc pilnīgas atteikšanās lietotnē."
   },
   "pinRequired": {
     "message": "Ir nepieciešams PIN kods."
@@ -3266,7 +3266,7 @@
     "message": "Tiek gaidīts apstiprinājums no darbvirsmas"
   },
   "awaitDesktopDesc": {
-    "message": "Lūgums apstiprināt ar biometriju Bitwarden darbvirsmas lietotnē, lai iespējotu biometriju pārlūkā."
+    "message": "Lūgums apstiprināt ar biometriju VWClient darbvirsmas lietotnē, lai iespējotu biometriju pārlūkā."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Aizslēgt ar galveno paroli pēc pārlūka atsāknēšanas"
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Šī lapa traucē Bitwarden darbību. Bitwarden iekļautā izvēlne ir īslaicīgi atspējot kā drošības mērs."
+    "message": "Šī lapa traucē VWClient darbību. VWClient iekļautā izvēlne ir īslaicīgi atspējot kā drošības mērs."
   },
   "setMasterPassword": {
     "message": "Uzstādīt galveno paroli"
@@ -3447,7 +3447,7 @@
     "message": "Jaunā galvenā parole neatbilst nosacījumu prasībām."
   },
   "receiveMarketingEmails": {
-    "message": "Saņemiet Bitwarden atjauninājumus savā iesūtnē."
+    "message": "Saņemiet VWClient atjauninājumus savā iesūtnē."
   },
   "unsubscribe": {
     "message": "Atteikt abonēšanu"
@@ -3492,13 +3492,13 @@
     "message": "Savienojums ar pārlūku nav iespējots"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Savienojums ar pārlūku nav iespējots Bitwarden darbvirsmas lietotnē. Lūgums iespējot to darbvirsmas lietotnes iestatījumos."
+    "message": "Savienojums ar pārlūku nav iespējots VWClient darbvirsmas lietotnē. Lūgums iespējot to darbvirsmas lietotnes iestatījumos."
   },
   "startDesktopTitle": {
-    "message": "Palaist Bitwarden darbvirsmas lietotni"
+    "message": "Palaist VWClient darbvirsmas lietotni"
   },
   "startDesktopDesc": {
-    "message": "Bitwarden darbvirsmas lietotnei ir jābūt sāknētai, pirms šī iespēja var tikt izmantota."
+    "message": "VWClient darbvirsmas lietotnei ir jābūt sāknētai, pirms šī iespēja var tikt izmantota."
   },
   "errorEnableBiometricTitle": {
     "message": "Nevar iespējot biometriju"
@@ -3552,13 +3552,13 @@
     "message": "Biometrija neizdevās"
   },
   "biometricsFailedDesc": {
-    "message": "Biometriju nevar pabeigt, jāapsver galvenās paroles izmantošana vai atteikšanās. Ja tas turpinās, lūgums sazināties ar Bitwarden atbalstu."
+    "message": "Biometriju nevar pabeigt, jāapsver galvenās paroles izmantošana vai atteikšanās. Ja tas turpinās, lūgums sazināties ar VWClient atbalstu."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Atļauja nav piešķirta"
   },
   "nativeMessagingPermissionErrorDesc": {
-    "message": "Bez atļaujas sazināties ar Bitwarden datora lietotni mēs nevaram nodrošināt biometriju pārlūka paplašinājumā. Lūdzu, mēģiniet vēlreiz."
+    "message": "Bez atļaujas sazināties ar VWClient datora lietotni mēs nevaram nodrošināt biometriju pārlūka paplašinājumā. Lūdzu, mēģiniet vēlreiz."
   },
   "nativeMessagingPermissionSidebarTitle": {
     "message": "Atļaujas pieprasījuma kļūda"
@@ -3595,7 +3595,7 @@
     "message": "Izņēmuma domēni"
   },
   "excludedDomainsDesc": {
-    "message": "Bitwarden nevaicās saglabāt pieteikšanās datus šiem domēniem. Ir jāpārlādē lapa, lai izmaiņas iedarbotos."
+    "message": "VWClient nevaicās saglabāt pieteikšanās datus šiem domēniem. Ir jāpārlādē lapa, lai izmaiņas iedarbotos."
   },
   "blockedDomainsDesc": {
     "message": "Automātiskā aizpilde un citas saistītās iespējas šajās tīmekļvietnēs netiks piedāvātas. Ir jāatsvaidzina lapa, lai izmaiņas iedarbotos."
@@ -3727,24 +3727,24 @@
     "message": "Riskam pakļauto pieteikšanās vienumu saraksta attēlojums."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Bitwarden glabātavas lapas izkārtojuma ilustrācija."
+    "message": "VWClient glabātavas lapas izkārtojuma ilustrācija."
   },
   "generatePasswordSlideDesc": {
     "message": "Riskam pakļauto vienumu vietnē ar automātiskās aizpildes izvēlni var ātri izveidot stipru, neatkārtojamu paroli.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Bitwarden automātiskās izvēlnes attēlojums, kurā ir redzama izveidota parole."
+    "message": "VWClient automātiskās izvēlnes attēlojums, kurā ir redzama izveidota parole."
   },
   "updateInBitwarden": {
-    "message": "Atjaunināt Bitwarden"
+    "message": "Atjaunināt VWClient"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Bitwarden tad vaicās atjaunināt paroli paroļu pārvaldniekā.",
+    "message": "VWClient tad vaicās atjaunināt paroli paroļu pārvaldniekā.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Bitwarden paziņojuma, kas aicina lietotāju atjaunināt pieteikšanās vienumu, attēlojums."
+    "message": "VWClient paziņojuma, kas aicina lietotāju atjaunināt pieteikšanās vienumu, attēlojums."
   },
   "turnOnAutofill": {
     "message": "Ieslēgt automātisko aizpildi"
@@ -4259,10 +4259,10 @@
     "message": "Kļūda automātiskās aizpildes datu iegūšanā"
   },
   "couldNotDecryptVaultItem": {
-    "message": "Bitwarden nevarēja atšifrēt zemāk norādīto glabātavas vienumu. Sazinieties ar Bitwarden klientu atbalstu un norādiet zemāk esošo vienuma ID, lai noskaidrotu, vai to var atgūt."
+    "message": "VWClient nevarēja atšifrēt zemāk norādīto glabātavas vienumu. Sazinieties ar VWClient klientu atbalstu un norādiet zemāk esošo vienuma ID, lai noskaidrotu, vai to var atgūt."
   },
   "couldNotDecryptVaultItems": {
-    "message": "Bitwarden nevarēja atšifrēt zemāk norādītos glabātavas vienumus. Sazinieties ar Bitwarden klientu atbalstu un norādiet zemāk esošos vienumu ID, lai noskaidrotu, vai tos var atgūt."
+    "message": "VWClient nevarēja atšifrēt zemāk norādītos glabātavas vienumus. Sazinieties ar VWClient klientu atbalstu un norādiet zemāk esošos vienumu ID, lai noskaidrotu, vai tos var atgūt."
   },
   "itemId": {
     "message": "Vienuma ID",
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Izveidoja Bitwarden.",
+    "message": "Izveidoja VWClient.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Tīmekļvietne: $WEBSITE$. Izveidoja Bitwarden.",
+    "message": "Tīmekļvietne: $WEBSITE$. Izveidoja VWClient.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Uz ierīci ir nosūtīts paziņojums."
   },
   "notificationSentDevicePart1": {
-    "message": "Bitwarden jāatslēdz savā ierīcē vai"
+    "message": "VWClient jāatslēdz savā ierīcē vai"
   },
   "notificationSentDeviceAnchor": {
     "message": "tīmekļa lietotnē"
@@ -5098,15 +5098,15 @@
     "message": "Pāriet uz saturu"
   },
   "bitwardenOverlayButton": {
-    "message": "Bitwarden automātiskās aizpildes izvēlnes poga",
+    "message": "VWClient automātiskās aizpildes izvēlnes poga",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Pārslēgt Bitwarden automātiskās aizpildes izvēlni",
+    "message": "Pārslēgt VWClient automātiskās aizpildes izvēlni",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Bitwarden automātiskās aizpildes izvēlne",
+    "message": "VWClient automātiskās aizpildes izvēlne",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Ir pieejama Bitwarden automātiskās aizpildes izvēlne. Jānospiež poga ar bultu uz leju, lai atlasītu.",
+    "message": "Ir pieejama VWClient automātiskās aizpildes izvēlne. Jānospiež poga ar bultu uz leju, lai atlasītu.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -5550,7 +5550,7 @@
     "message": "Secure by design"
   },
   "importDataSecureByDesignBody": {
-    "message": "End-to-end encrypted handoff. Bitwarden never sees your $VENDOR$ login details.",
+    "message": "End-to-end encrypted handoff. VWClient never sees your $VENDOR$ login details.",
     "placeholders": {
       "vendor": {
         "content": "$1",
@@ -5725,7 +5725,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "failu šeit uz Bitwarden.",
+    "message": "failu šeit uz VWClient.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -6392,7 +6392,7 @@
     "message": "Pašlaik izmantotais konts"
   },
   "bitwardenAccount": {
-    "message": "Bitwarden konts"
+    "message": "VWClient konts"
   },
   "availableAccounts": {
     "message": "Pieejamie konti"
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI atbilstības noteikšana ir veids, kā Bitwarden atpazīst automātiskās aizpildes ieteikumus.",
+    "message": "URI atbilstības noteikšana ir veids, kā VWClient atpazīst automātiskās aizpildes ieteikumus.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Padarīt Bitwarden par noklusējuma paroļu pārvaldnieku?",
+    "message": "Padarīt VWClient par noklusējuma paroļu pārvaldnieku?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Šīs iespējas neņemšana vērā var radīt nesaderības starp Bitwarden automātiskās aizpildes izvēlni un pārlūka.",
+    "message": "Šīs iespējas neņemšana vērā var radīt nesaderības starp VWClient automātiskās aizpildes izvēlni un pārlūka.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Padarīt Bitwarden par noklusējuma paroļu pārvaldnieku",
+    "message": "Padarīt VWClient par noklusējuma paroļu pārvaldnieku",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Tiks vaicāts piešķirt pārlūkam $BROWSER$ atļauju padarīt Bitwarden par galveno paroļu pārvaldnieku.",
+    "message": "Tiks vaicāts piešķirt pārlūkam $BROWSER$ atļauju padarīt VWClient par galveno paroļu pārvaldnieku.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Nebija iespējams iestatīt Bitwarden kā noklusējuma paroļu pārvaldnieku",
+    "message": "Nebija iespējams iestatīt VWClient kā noklusējuma paroļu pārvaldnieku",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Ir nepieciešams Bitwarden nodrošināt pārlūka privātuma atļaujas, lai iestatītu to kā noklusējuma paroļu pārvaldnieku.",
+    "message": "Ir nepieciešams VWClient nodrošināt pārlūka privātuma atļaujas, lai iestatītu to kā noklusējuma paroļu pārvaldnieku.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Padarīt Bitwarden par pārlūka noklusējuma paroļu pārvaldnieku"
+    "message": "Padarīt VWClient par pārlūka noklusējuma paroļu pārvaldnieku"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Padarīt Bitwarden par noklusējuma paroļu pārvaldnieku",
+    "message": "Padarīt VWClient par noklusējuma paroļu pārvaldnieku",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "pārlūka uzvednē, lai dotu Bitwarden atļauju mainīt iestatījumus."
+    "message": "pārlūka uzvednē, lai dotu VWClient atļauju mainīt iestatījumus."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Mēs izslēgsim pārlūka iebūvēto paroļu pārvaldnieku, lai varētu izbaudīt drošu pieteikšanāš pieredzi."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Bitwarden tika padarīts par pārlūka noklusējuma paroļu pārvaldnieku"
+    "message": "VWClient tika padarīts par pārlūka noklusējuma paroļu pārvaldnieku"
   },
   "allow": {
     "message": "Atļaut",
@@ -6952,16 +6952,16 @@
     "message": "Lejupielādēt pielikumu"
   },
   "downloadBitwarden": {
-    "message": "Lejupielādē Bitwarden"
+    "message": "Lejupielādē VWClient"
   },
   "downloadBitwardenOnAllDevices": {
-    "message": "Lejupielādē Bitwarden visās ierīcēs"
+    "message": "Lejupielādē VWClient visās ierīcēs"
   },
   "getTheMobileApp": {
     "message": "Iegūsti viedierīču lietotni"
   },
   "getTheMobileAppDesc": {
-    "message": "Piekļūsti savām parolēm kustībā ar Bitwarden viedierīču lietotni!"
+    "message": "Piekļūsti savām parolēm kustībā ar VWClient viedierīču lietotni!"
   },
   "getTheDesktopApp": {
     "message": "Iegūsti darbvirsmas lietotni"
@@ -7514,10 +7514,10 @@
     "message": "Atslēgšana ar biometriju nav pieejama nepareizi konfigurētu sistēmas datņu dēļ."
   },
   "biometricsStatusHelptextDesktopDisconnected": {
-    "message": "Atslēgšana ar biometriju nav pieejama, jo Bitwarden darbvirsmas lietotne ir aizvērta."
+    "message": "Atslēgšana ar biometriju nav pieejama, jo VWClient darbvirsmas lietotne ir aizvērta."
   },
   "biometricsStatusHelptextNotEnabledInDesktop": {
-    "message": "Atslēgšana ar biometriju nav pieejama, jo tā nav iespējota $EMAIL$ Bitwarden darbvirsmas lietotnē.",
+    "message": "Atslēgšana ar biometriju nav pieejama, jo tā nav iespējota $EMAIL$ VWClient darbvirsmas lietotnē.",
     "placeholders": {
       "email": {
         "content": "$1",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Saglabāt Bitwarden",
+    "message": "Saglabāt VWClient",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Laipni lūdzam Bitwarden"
+    "message": "Laipni lūdzam VWClient"
   },
   "securityPrioritized": {
     "message": "Drošība pirmajā vietā"
   },
   "securityPrioritizedBody": {
-    "message": "Pieteikšanās vienumu, karšu un identitāšu glabāšana savā drošajā glabātavā. Bitwarden izmanto nulles zināšanu pilnīgu šifrēšanu, lai aizsargātu to, kas Tev ir svarīgs."
+    "message": "Pieteikšanās vienumu, karšu un identitāšu glabāšana savā drošajā glabātavā. VWClient izmanto nulles zināšanu pilnīgu šifrēšanu, lai aizsargātu to, kas Tev ir svarīgs."
   },
   "quickLogin": {
     "message": "Ātra un vienkārša pieteikšanās"
@@ -7817,7 +7817,7 @@
     "message": "Tavi dati, kad un kur vien tie ir nepieciešami"
   },
   "secureDevicesBody": {
-    "message": "Neierobežotu paroļu skaitu var saglabāt neierobežotā ierīdžu daudzumā ar Bitwarden viedtālruņa, pārlūka un darbvirsmas lietotni."
+    "message": "Neierobežotu paroļu skaitu var saglabāt neierobežotā ierīdžu daudzumā ar VWClient viedtālruņa, pārlūka un darbvirsmas lietotni."
   },
   "nudgeBadgeAria": {
     "message": "1 paziņojums"
@@ -7826,7 +7826,7 @@
     "message": "Ievietot esošas paroles"
   },
   "emptyVaultNudgeBody": {
-    "message": "Ievietotājs ir izmantojams, lai pieteikšanās vienumus ātri pārnest uz Bitwarden bez pašrocīgas to pievienošanas."
+    "message": "Ievietotājs ir izmantojams, lai pieteikšanās vienumus ātri pārnest uz VWClient bez pašrocīgas to pievienošanas."
   },
   "emptyVaultNudgeButton": {
     "message": "Ievietot tagad"
@@ -7945,7 +7945,7 @@
     "message": "Par šo iestatījumu"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden izmantos saglabātos pieteikšanās vienuma URI, lai noteiktu, kuru ikonu vai paroles nomaiņas URL izmantot, lai uzlabotu pieredzi. Šī pakalpojuma izmantošanas laikā nekāda informācija netiek ievākta vai saglabāta."
+    "message": "VWClient izmantos saglabātos pieteikšanās vienuma URI, lai noteiktu, kuru ikonu vai paroles nomaiņas URL izmantot, lai uzlabotu pieredzi. Šī pakalpojuma izmantošanas laikā nekāda informācija netiek ievākta vai saglabāta."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Pievienojiet 3 ātrās kopēšanas pogas blakus vienumiem, lai kopētu lietotājvārdu, paroli vai verifikācijas kodu starpliktuvē."
@@ -7954,7 +7954,7 @@
     "message": "Nav atļaujas apskatīt šo lapu. Jāmēģina pieteikties ar citu kontu."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly šajā pārlūkā netiek atbalstīts vai nav iespējots. WebAssebly ir nepieciešams, lai izmantotu Bitwarden lietotni.",
+    "message": "WebAssembly šajā pārlūkā netiek atbalstīts vai nav iespējots. WebAssebly ir nepieciešams, lai izmantotu VWClient lietotni.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8042,7 +8042,7 @@
     "message": "Kļūda: nevar atšifrēt"
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "Apvienība vairs neizmanto galvenās paroles, lai pieteiktos Bitwarden. Lai turpinātu, jāapliecina apvienība un domēns."
+    "message": "Apvienība vairs neizmanto galvenās paroles, lai pieteiktos VWClient. Lai turpinātu, jāapliecina apvienība un domēns."
   },
   "continueWithLogIn": {
     "message": "Turpināt ar pieteikšanos"
@@ -8128,7 +8128,7 @@
     "message": "Iestatiet atslēgšanas metodi, lai mainītu taimauta darbību"
   },
   "sessionTimeoutSuppressedByConnectedDevice": {
-    "message": "Pārvalda Bitwarden datora lietotne. Lai rediģētu, atveriet datora lietotni."
+    "message": "Pārvalda VWClient datora lietotne. Lai rediģētu, atveriet datora lietotni."
   },
   "percentageCompleted": {
     "message": "$PERCENT$% pabeigts",
@@ -8230,7 +8230,7 @@
     "message": "user@bitwarden.com, user@acme.com"
   },
   "downloadBitwardenApps": {
-    "message": "Lejupielādēt Bitwarden lietotnes"
+    "message": "Lejupielādēt VWClient lietotnes"
   },
   "emailProtected": {
     "message": "E-pasts aizsargāts"
@@ -8249,7 +8249,7 @@
     "message": "Synchronize unlock with desktop"
   },
   "syncUnlockWithDesktopDescription1": {
-    "message": "The Bitwarden browser extension and desktop app lock and unlock together. Biometrics will be used if available."
+    "message": "The VWClient browser extension and desktop app lock and unlock together. Biometrics will be used if available."
   },
   "sharedUnlockUnavailableUntrustedDevice": {
     "message": "Koplietotā atslēgšana nav pieejama, jo izvēlējāties neatcerēties šo ierīci. Lai iespējotu šo iestatījumu, mēģiniet pierakstīties vēlreiz."
@@ -8258,13 +8258,13 @@
     "message": "Nepieciešama jauna atļauja"
   },
   "sharedUnlockDesktopPermissionDesc": {
-    "message": "Lai izmantotu koplietoto atslēgšanu, Bitwarden ir nepieciešama atļauja sazināties ar datora lietotni. Turpinot, pārlūks lūgs to apstiprināt."
+    "message": "Lai izmantotu koplietoto atslēgšanu, VWClient ir nepieciešama atļauja sazināties ar datora lietotni. Turpinot, pārlūks lūgs to apstiprināt."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Bitwarden bloķēs un pārloadēs. Pēc apstiprināšanas paplašinājums pārloadēsies un bloķēs jūsu glabātavu."
+    "message": "VWClient bloķēs un pārloadēs. Pēc apstiprināšanas paplašinājums pārloadēsies un bloķēs jūsu glabātavu."
   },
   "biometricPermissionDesc": {
-    "message": "Lai izmantotu biometrisko atslēgšanu, Bitwarden ir nepieciešama atļauja sazināties ar datora lietotni. Turpinot, pārlūks lūgs to apstiprināt."
+    "message": "Lai izmantotu biometrisko atslēgšanu, VWClient ir nepieciešama atļauja sazināties ar datora lietotni. Turpinot, pārlūks lūgs to apstiprināt."
   },
   "enterMonth": {
     "message": "Ievadiet mēnesi."
@@ -8767,15 +8767,15 @@
     "message": "Unable to determine item ID"
   },
   "newExperienceDialogTitle": {
-    "message": "Bitwarden has a new look",
+    "message": "VWClient has a new look",
     "description": "Title of the dialog that introduces the redesigned vault to existing users."
   },
   "newExperienceDialogDesc": {
-    "message": "Better experience, same trusted security. The Bitwarden vault has been redesigned based on your feedback, so things are easier to find and work like you'd expect.",
+    "message": "Better experience, same trusted security. The VWClient vault has been redesigned based on your feedback, so things are easier to find and work like you'd expect.",
     "description": "Body copy of the dialog that introduces the redesigned vault to existing users."
   },
   "newExperienceDialogImgAlt": {
-    "message": "A preview of the redesigned Bitwarden vault.",
+    "message": "A preview of the redesigned VWClient vault.",
     "description": "Alt text for the screenshot shown in the dialog that introduces the redesigned vault."
   },
   "exploreTheNewVault": {

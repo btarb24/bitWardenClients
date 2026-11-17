@@ -85,8 +85,8 @@ describe("OverlayNotificationsContentService", () => {
       expect(bodyAppendChildSpy).toHaveBeenCalledWith(rootElement);
       expect(rootElement?.tagName).toBe("BIT-NOTIFICATION-BAR-ROOT");
 
-      expect(document.getElementById("bit-notification-bar")).toBeNull();
-      expect(document.querySelector("#bit-notification-bar-iframe")).toBeNull();
+      expect(document.getElementById("vwc-bar")).toBeNull();
+      expect(document.querySelector("#vwc-bar-iframe")).toBeNull();
     });
 
     it("sets up a slide in animation when the notification is fresh", async () => {

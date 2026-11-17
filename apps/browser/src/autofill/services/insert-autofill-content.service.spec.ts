@@ -883,10 +883,10 @@ describe("InsertAutofillContentService", () => {
           insertAutofillContentService["domElementVisibilityService"].isElementHiddenByCss,
         ).toHaveBeenCalledWith(testElement);
         expect(testElement.classList.add).toHaveBeenCalledWith(
-          "com-bitwarden-browser-animated-fill",
+          "vwc-animated-fill",
         );
         expect(testElement.classList.remove).toHaveBeenCalledWith(
-          "com-bitwarden-browser-animated-fill",
+          "vwc-animated-fill",
         );
       });
 
@@ -902,10 +902,10 @@ describe("InsertAutofillContentService", () => {
         jest.advanceTimersByTime(200);
 
         expect(testElement.classList.add).toHaveBeenCalledWith(
-          "com-bitwarden-browser-animated-fill",
+          "vwc-animated-fill",
         );
         expect(testElement.classList.remove).toHaveBeenCalledWith(
-          "com-bitwarden-browser-animated-fill",
+          "vwc-animated-fill",
         );
       });
 
@@ -921,10 +921,10 @@ describe("InsertAutofillContentService", () => {
         jest.advanceTimersByTime(200);
 
         expect(testElement.classList.add).toHaveBeenCalledWith(
-          "com-bitwarden-browser-animated-fill",
+          "vwc-animated-fill",
         );
         expect(testElement.classList.remove).toHaveBeenCalledWith(
-          "com-bitwarden-browser-animated-fill",
+          "vwc-animated-fill",
         );
       });
 
@@ -940,10 +940,10 @@ describe("InsertAutofillContentService", () => {
         jest.advanceTimersByTime(200);
 
         expect(testElement.classList.add).toHaveBeenCalledWith(
-          "com-bitwarden-browser-animated-fill",
+          "vwc-animated-fill",
         );
         expect(testElement.classList.remove).toHaveBeenCalledWith(
-          "com-bitwarden-browser-animated-fill",
+          "vwc-animated-fill",
         );
       });
 
@@ -957,10 +957,10 @@ describe("InsertAutofillContentService", () => {
         jest.advanceTimersByTime(200);
 
         expect(testElement.classList.add).toHaveBeenCalledWith(
-          "com-bitwarden-browser-animated-fill",
+          "vwc-animated-fill",
         );
         expect(testElement.classList.remove).toHaveBeenCalledWith(
-          "com-bitwarden-browser-animated-fill",
+          "vwc-animated-fill",
         );
       });
 
@@ -974,10 +974,10 @@ describe("InsertAutofillContentService", () => {
         jest.advanceTimersByTime(200);
 
         expect(testElement.classList.add).toHaveBeenCalledWith(
-          "com-bitwarden-browser-animated-fill",
+          "vwc-animated-fill",
         );
         expect(testElement.classList.remove).toHaveBeenCalledWith(
-          "com-bitwarden-browser-animated-fill",
+          "vwc-animated-fill",
         );
       });
 
@@ -991,10 +991,10 @@ describe("InsertAutofillContentService", () => {
         jest.advanceTimersByTime(200);
 
         expect(testElement.classList.add).toHaveBeenCalledWith(
-          "com-bitwarden-browser-animated-fill",
+          "vwc-animated-fill",
         );
         expect(testElement.classList.remove).toHaveBeenCalledWith(
-          "com-bitwarden-browser-animated-fill",
+          "vwc-animated-fill",
         );
       });
     });

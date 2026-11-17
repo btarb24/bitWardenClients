@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "VWClient"
   },
   "appLogoLabel": {
-    "message": "Bitwarden లోగో"
+    "message": "VWClient లోగో"
   },
   "extName": {
-    "message": "Bitwarden పాస్‌వర్డ్ మేనేజర్",
+    "message": "VWClient",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Bitwarden పాస్‌వర్డ్ మేనేజర్ బీటా",
+    "message": "VWClient Beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "At home, at work, or on the go, Bitwarden easily secures all your passwords, passkeys, and sensitive information",
+    "message": "VWClient",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -27,7 +27,7 @@
     "message": "ఖాతా సృష్టించండి"
   },
   "newToBitwarden": {
-    "message": "Bitwardenకు కొత్తవారా?"
+    "message": "VWClientకు కొత్తవారా?"
   },
   "logInWithPasskey": {
     "message": "పాస్‌కీతో లాగిన్ చేయి"
@@ -324,22 +324,22 @@
     "message": "వెబ్ యాప్‌కు కొనసాగించాలా?"
   },
   "continueToWebAppDesc": {
-    "message": "వెబ్ యాప్‌లో మీ Bitwarden ఖాతా యొక్క మరిన్ని ఫీచర్లను అన్వేషించండి."
+    "message": "వెబ్ యాప్‌లో మీ VWClient ఖాతా యొక్క మరిన్ని ఫీచర్లను అన్వేషించండి."
   },
   "continueToHelpCenter": {
     "message": "సహాయ కేంద్రానికి కొనసాగించాలా?"
   },
   "continueToHelpCenterDesc": {
-    "message": "Bitwardenను ఎలా ఉపయోగించాలో సహాయ కేంద్రంలో మరింత తెలుసుకోండి."
+    "message": "VWClientను ఎలా ఉపయోగించాలో సహాయ కేంద్రంలో మరింత తెలుసుకోండి."
   },
   "continueToBrowserExtensionStore": {
     "message": "బ్రౌజర్ ఎక్స్‌టెన్షన్ స్టోర్‌కు కొనసాగించాలా?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Bitwarden వారికి సరిపోతుందో లేదో తెలుసుకోవడంలో ఇతరులకు సహాయం చేయండి. మీ బ్రౌజర్ ఎక్స్‌టెన్షన్ స్టోర్‌ను సందర్శించి ఇప్పుడే రేటింగ్ ఇవ్వండి."
+    "message": "VWClient వారికి సరిపోతుందో లేదో తెలుసుకోవడంలో ఇతరులకు సహాయం చేయండి. మీ బ్రౌజర్ ఎక్స్‌టెన్షన్ స్టోర్‌ను సందర్శించి ఇప్పుడే రేటింగ్ ఇవ్వండి."
   },
   "changeMasterPasswordOnWebConfirmation": {
-    "message": "మీరు Bitwarden వెబ్ యాప్‌లో మీ మాస్టర్ పాస్‌వర్డ్‌ను మార్చవచ్చు."
+    "message": "మీరు VWClient వెబ్ యాప్‌లో మీ మాస్టర్ పాస్‌వర్డ్‌ను మార్చవచ్చు."
   },
   "fingerprintPhrase": {
     "message": "ఫింగర్‌ప్రింట్ పదబంధం",
@@ -356,31 +356,31 @@
     "message": "లాగ్ అవుట్"
   },
   "aboutBitwarden": {
-    "message": "Bitwarden గురించి"
+    "message": "VWClient గురించి"
   },
   "about": {
     "message": "గురించి"
   },
   "moreFromBitwarden": {
-    "message": "Bitwarden నుండి మరిన్ని"
+    "message": "VWClient నుండి మరిన్ని"
   },
   "continueToBitwardenDotCom": {
     "message": "bitwarden.com కు కొనసాగించాలా?"
   },
   "bitwardenForBusiness": {
-    "message": "వ్యాపారం కోసం Bitwarden"
+    "message": "వ్యాపారం కోసం VWClient"
   },
   "bitwardenAuthenticator": {
-    "message": "Bitwarden ప్రామాణీకరణ"
+    "message": "VWClient ప్రామాణీకరణ"
   },
   "continueToAuthenticatorPageDesc": {
-    "message": "Bitwarden ప్రామాణీకరణ మీకు ప్రామాణీకరణ కీలను నిల్వ చేయడానికి మరియు 2-దశల ధృవీకరణ ప్రవాహాల కోసం TOTP కోడ్‌లను జనరేట్ చేయడానికి అనుమతిస్తుంది. bitwarden.com వెబ్‌సైట్‌లో మరింత తెలుసుకోండి"
+    "message": "VWClient ప్రామాణీకరణ మీకు ప్రామాణీకరణ కీలను నిల్వ చేయడానికి మరియు 2-దశల ధృవీకరణ ప్రవాహాల కోసం TOTP కోడ్‌లను జనరేట్ చేయడానికి అనుమతిస్తుంది. bitwarden.com వెబ్‌సైట్‌లో మరింత తెలుసుకోండి"
   },
   "bitwardenSecretsManager": {
-    "message": "Bitwarden సీక్రెట్స్ మేనేజర్"
+    "message": "VWClient సీక్రెట్స్ మేనేజర్"
   },
   "continueToSecretsManagerPageDesc": {
-    "message": "Bitwarden సీక్రెట్స్ మేనేజర్‌తో డెవలపర్ సీక్రెట్‌లను సురక్షితంగా నిల్వ చేయండి, నిర్వహించండి మరియు పంచుకోండి. bitwarden.com వెబ్‌సైట్‌లో మరింత తెలుసుకోండి."
+    "message": "VWClient సీక్రెట్స్ మేనేజర్‌తో డెవలపర్ సీక్రెట్‌లను సురక్షితంగా నిల్వ చేయండి, నిర్వహించండి మరియు పంచుకోండి. bitwarden.com వెబ్‌సైట్‌లో మరింత తెలుసుకోండి."
   },
   "passwordlessDotDev": {
     "message": "Passwordless.dev"
@@ -389,10 +389,10 @@
     "message": "Passwordless.dev తో సాంప్రదాయ పాస్‌వర్డ్‌లు లేకుండా సున్నితమైన మరియు సురక్షితమైన లాగిన్ అనుభవాలను సృష్టించండి. bitwarden.com వెబ్‌సైట్‌లో మరింత తెలుసుకోండి."
   },
   "freeBitwardenFamilies": {
-    "message": "ఉచిత Bitwarden కుటుంబాలు"
+    "message": "ఉచిత VWClient కుటుంబాలు"
   },
   "freeBitwardenFamiliesPageDesc": {
-    "message": "మీరు ఉచిత Bitwarden కుటుంబాలకు అర్హులు. ఈ ఆఫర్‌ను ఈరోజే వెబ్ యాప్‌లో రీడీమ్ చేయండి."
+    "message": "మీరు ఉచిత VWClient కుటుంబాలకు అర్హులు. ఈ ఆఫర్‌ను ఈరోజే వెబ్ యాప్‌లో రీడీమ్ చేయండి."
   },
   "version": {
     "message": "వెర్షన్"
@@ -458,13 +458,13 @@
     "message": "సహాయం & అభిప్రాయం"
   },
   "helpCenter": {
-    "message": "Bitwarden సహాయ కేంద్రం"
+    "message": "VWClient సహాయ కేంద్రం"
   },
   "communityForums": {
-    "message": "Bitwarden కమ్యూనిటీ ఫోరమ్‌లను అన్వేషించండి"
+    "message": "VWClient కమ్యూనిటీ ఫోరమ్‌లను అన్వేషించండి"
   },
   "contactSupport": {
-    "message": "Bitwarden మద్దతును సంప్రదించండి"
+    "message": "VWClient మద్దతును సంప్రదించండి"
   },
   "sync": {
     "message": "సింక్"
@@ -486,7 +486,7 @@
     "message": "మీ లాగిన్‌ల కోసం బలమైన, ప్రత్యేకమైన పాస్‌వర్డ్‌లను స్వయంచాలకంగా జనరేట్ చేయండి."
   },
   "bitWebVaultApp": {
-    "message": "Bitwarden వెబ్ యాప్"
+    "message": "VWClient వెబ్ యాప్"
   },
   "select": {
     "message": "ఎంచుకో"
@@ -864,7 +864,7 @@
     "message": "డయాగ్నస్టిక్ నివేదికను డౌన్‌లోడ్ చేసి దీనితో పంచుకోండి"
   },
   "bitwardenSupport": {
-    "message": "Bitwarden మద్దతు",
+    "message": "VWClient మద్దతు",
     "description": "Link text following the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -1081,10 +1081,10 @@
     "message": "2-దశల ధృవీకరణను సున్నితంగా చేయండి"
   },
   "totpHelper": {
-    "message": "Bitwarden 2-దశల ధృవీకరణ కోడ్‌లను నిల్వ చేయగలదు మరియు పూరించగలదు. కీని ఈ ఫీల్డ్‌లో కాపీ చేసి పేస్ట్ చేయండి."
+    "message": "VWClient 2-దశల ధృవీకరణ కోడ్‌లను నిల్వ చేయగలదు మరియు పూరించగలదు. కీని ఈ ఫీల్డ్‌లో కాపీ చేసి పేస్ట్ చేయండి."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden 2-దశల ధృవీకరణ కోడ్‌లను నిల్వ చేయగలదు మరియు పూరించగలదు. ఈ వెబ్‌సైట్ యొక్క ప్రామాణీకరణ QR కోడ్ స్క్రీన్‌షాట్ తీసుకోవడానికి కెమెరా ఐకాన్‌ను ఎంచుకోండి, లేదా కీని ఈ ఫీల్డ్‌లో కాపీ చేసి పేస్ట్ చేయండి."
+    "message": "VWClient 2-దశల ధృవీకరణ కోడ్‌లను నిల్వ చేయగలదు మరియు పూరించగలదు. ఈ వెబ్‌సైట్ యొక్క ప్రామాణీకరణ QR కోడ్ స్క్రీన్‌షాట్ తీసుకోవడానికి కెమెరా ఐకాన్‌ను ఎంచుకోండి, లేదా కీని ఈ ఫీల్డ్‌లో కాపీ చేసి పేస్ట్ చేయండి."
   },
   "learnMoreAboutAuthenticators": {
     "message": "ప్రామాణీకరణ గురించి మరింత తెలుసుకోండి"
@@ -1174,7 +1174,7 @@
     "message": "రెండు-దశల లాగిన్ మీ ఖాతాను మరింత సురక్షితంగా చేస్తుంది, భద్రతా కీ, ప్రామాణీకరణ యాప్, SMS, ఫోన్ కాల్ లేదా ఇమెయిల్ వంటి మరొక పరికరంతో మీ లాగిన్‌ను ధృవీకరించమని కోరుతుంది. రెండు-దశల లాగిన్‌ను bitwarden.com వెబ్ వాల్ట్‌లో సెటప్ చేయవచ్చు. మీరు ఇప్పుడు వెబ్‌సైట్‌ను సందర్శించాలనుకుంటున్నారా?"
   },
   "twoStepLoginConfirmationContent": {
-    "message": "Bitwarden వెబ్ యాప్‌లో రెండు-దశల లాగిన్ సెటప్ చేయడం ద్వారా మీ ఖాతాను మరింత సురక్షితంగా చేయండి."
+    "message": "VWClient వెబ్ యాప్‌లో రెండు-దశల లాగిన్ సెటప్ చేయడం ద్వారా మీ ఖాతాను మరింత సురక్షితంగా చేయండి."
   },
   "twoStepLoginConfirmationTitle": {
     "message": "వెబ్ యాప్‌కు కొనసాగించాలా?"
@@ -1333,7 +1333,7 @@
     "message": "సెట్టింగ్‌కు దాటవేయి"
   },
   "notificationAddDesc": {
-    "message": "Bitwarden మీ కోసం ఈ పాస్‌వర్డ్‌ను గుర్తుంచుకోవాలా?"
+    "message": "VWClient మీ కోసం ఈ పాస్‌వర్డ్‌ను గుర్తుంచుకోవాలా?"
   },
   "notificationAddSave": {
     "message": "సేవ్ చేయి"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "Bitwardenకు సేవ్ చేయబడింది.",
+    "message": "VWClientకు సేవ్ చేయబడింది.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "Bitwardenలో అప్‌డేట్ చేయబడింది.",
+    "message": "VWClientలో అప్‌డేట్ చేయబడింది.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "కొత్త పాస్‌కీలను సేవ్ చేయమని లేదా మీ వాల్ట్‌లో నిల్వ చేసిన పాస్‌కీలతో లాగిన్ చేయమని అడగండి. అన్ని లాగిన్ చేసిన ఖాతాలకు వర్తిస్తుంది."
   },
   "notificationChangeDesc": {
-    "message": "Bitwardenలో ఈ పాస్‌వర్డ్‌ను అప్‌డేట్ చేయాలనుకుంటున్నారా?"
+    "message": "VWClientలో ఈ పాస్‌వర్డ్‌ను అప్‌డేట్ చేయాలనుకుంటున్నారా?"
   },
   "notificationChangeSave": {
     "message": "అప్‌డేట్"
   },
   "notificationUnlockDesc": {
-    "message": "ఆటోఫిల్ అభ్యర్థనను పూర్తి చేయడానికి మీ Bitwarden వాల్ట్‌ను అన్‌లాక్ చేయండి."
+    "message": "ఆటోఫిల్ అభ్యర్థనను పూర్తి చేయడానికి మీ VWClient వాల్ట్‌ను అన్‌లాక్ చేయండి."
   },
   "notificationUnlock": {
     "message": "అన్‌లాక్ చేయి"
@@ -1786,10 +1786,10 @@
     "message": "ఈ ఫైల్‌ను ఎగుమతి చేయడానికి మరియు దిగుమతి చేయడానికి ఈ పాస్‌వర్డ్ ఉపయోగించబడుతుంది"
   },
   "accountRestrictedOptionDescription": {
-    "message": "ఎగుమతిని ఎన్‌క్రిప్ట్ చేయడానికి మరియు ప్రస్తుత Bitwarden ఖాతాకు మాత్రమే దిగుమతిని పరిమితం చేయడానికి మీ ఖాతా యొక్క వినియోగదారు పేరు మరియు మాస్టర్ పాస్‌వర్డ్ నుండి పొందిన మీ ఖాతా ఎన్‌క్రిప్షన్ కీని ఉపయోగించండి."
+    "message": "ఎగుమతిని ఎన్‌క్రిప్ట్ చేయడానికి మరియు ప్రస్తుత VWClient ఖాతాకు మాత్రమే దిగుమతిని పరిమితం చేయడానికి మీ ఖాతా యొక్క వినియోగదారు పేరు మరియు మాస్టర్ పాస్‌వర్డ్ నుండి పొందిన మీ ఖాతా ఎన్‌క్రిప్షన్ కీని ఉపయోగించండి."
   },
   "passwordProtectedOptionDescription": {
-    "message": "ఎగుమతిని ఎన్‌క్రిప్ట్ చేయడానికి ఫైల్ పాస్‌వర్డ్ సెట్ చేయండి మరియు డిక్రిప్షన్ కోసం పాస్‌వర్డ్ ఉపయోగించి ఏదైనా Bitwarden ఖాతాకు దిగుమతి చేయండి."
+    "message": "ఎగుమతిని ఎన్‌క్రిప్ట్ చేయడానికి ఫైల్ పాస్‌వర్డ్ సెట్ చేయండి మరియు డిక్రిప్షన్ కోసం పాస్‌వర్డ్ ఉపయోగించి ఏదైనా VWClient ఖాతాకు దిగుమతి చేయండి."
   },
   "exportTypeHeading": {
     "message": "ఎగుమతి రకం"
@@ -1818,7 +1818,7 @@
     "message": "ఈ ఎగుమతి మీ ఖాతా యొక్క ఎన్‌క్రిప్షన్ కీని ఉపయోగించి మీ డేటాను ఎన్‌క్రిప్ట్ చేస్తుంది. మీరు ఎప్పుడైనా మీ ఖాతా యొక్క ఎన్‌క్రిప్షన్ కీని రొటేట్ చేస్తే మీరు మళ్లీ ఎగుమతి చేయాలి, ఎందుకంటే ఈ ఎగుమతి ఫైల్‌ను మీరు డిక్రిప్ట్ చేయలేరు."
   },
   "encExportAccountWarningDesc": {
-    "message": "ఖాతా ఎన్‌క్రిప్షన్ కీలు ప్రతి Bitwarden వినియోగదారు ఖాతాకు ప్రత్యేకమైనవి, కాబట్టి మీరు ఎన్‌క్రిప్టెడ్ ఎగుమతిని వేరే ఖాతాలోకి దిగుమతి చేయలేరు."
+    "message": "ఖాతా ఎన్‌క్రిప్షన్ కీలు ప్రతి VWClient వినియోగదారు ఖాతాకు ప్రత్యేకమైనవి, కాబట్టి మీరు ఎన్‌క్రిప్టెడ్ ఎగుమతిని వేరే ఖాతాలోకి దిగుమతి చేయలేరు."
   },
   "exportMasterPassword": {
     "message": "మీ వాల్ట్ డేటాను ఎగుమతి చేయడానికి మీ మాస్టర్ పాస్‌వర్డ్‌ను నమోదు చేయండి."
@@ -1842,7 +1842,7 @@
     "message": "పంచుకున్న ఫోల్డర్ జోడించు"
   },
   "bitwardenForBusinessPageDesc": {
-    "message": "వ్యాపారం కోసం Bitwarden సంస్థను ఉపయోగించడం ద్వారా మీ వాల్ట్ ఐటమ్‌లను ఇతరులతో పంచుకోవడానికి అనుమతిస్తుంది. bitwarden.com వెబ్‌సైట్‌లో మరింత తెలుసుకోండి."
+    "message": "వ్యాపారం కోసం VWClient సంస్థను ఉపయోగించడం ద్వారా మీ వాల్ట్ ఐటమ్‌లను ఇతరులతో పంచుకోవడానికి అనుమతిస్తుంది. bitwarden.com వెబ్‌సైట్‌లో మరింత తెలుసుకోండి."
   },
   "moveToOrganization": {
     "message": "సంస్థకు తరలించు"
@@ -2044,7 +2044,7 @@
     "message": "ప్రీమియం కొనుగోలు చేయి"
   },
   "premiumPurchaseAlertV2": {
-    "message": "మీరు Bitwarden వెబ్ యాప్‌లో మీ ఖాతా సెట్టింగ్‌ల నుండి ప్రీమియం కొనుగోలు చేయవచ్చు."
+    "message": "మీరు VWClient వెబ్ యాప్‌లో మీ ఖాతా సెట్టింగ్‌ల నుండి ప్రీమియం కొనుగోలు చేయవచ్చు."
   },
   "premiumFeatures": {
     "message": "ప్రీమియంకు అప్‌గ్రేడ్ చేయండి మరియు పొందండి:"
@@ -2150,7 +2150,7 @@
     "message": "ప్రామాణీకరణ యాప్"
   },
   "authenticatorAppDescV2": {
-    "message": "Bitwarden ప్రామాణీకరణ వంటి ప్రామాణీకరణ యాప్ ద్వారా జనరేట్ చేయబడిన కోడ్‌ను నమోదు చేయండి.",
+    "message": "VWClient ప్రామాణీకరణ వంటి ప్రామాణీకరణ యాప్ ద్వారా జనరేట్ చేయబడిన కోడ్‌ను నమోదు చేయండి.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -2183,7 +2183,7 @@
     "message": "స్వీయ-హోస్ట్ చేసిన వాతావరణం"
   },
   "selfHostedBaseUrlHint": {
-    "message": "మీ ఆన్-ప్రెమైసెస్ హోస్ట్ చేసిన Bitwarden ఇన్‌స్టాలేషన్ యొక్క బేస్ URLని పేర్కొనండి. ఉదాహరణ: https://bitwarden.company.com"
+    "message": "మీ ఆన్-ప్రెమైసెస్ హోస్ట్ చేసిన VWClient ఇన్‌స్టాలేషన్ యొక్క బేస్ URLని పేర్కొనండి. ఉదాహరణ: https://bitwarden.company.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "అధునాతన కాన్ఫిగరేషన్ కోసం, మీరు ప్రతి సేవ యొక్క బేస్ URLని స్వతంత్రంగా పేర్కొనవచ్చు."
@@ -2236,7 +2236,7 @@
     "message": "ఆటోఫిల్ సూచనలను సులభంగా కనుగొనండి"
   },
   "autofillSpotlightDesc": {
-    "message": "Bitwardenతో వైరుధ్యం కలగకుండా మీ బ్రౌజర్ యొక్క ఆటోఫిల్ సెట్టింగ్‌లను ఆఫ్ చేయండి."
+    "message": "VWClientతో వైరుధ్యం కలగకుండా మీ బ్రౌజర్ యొక్క ఆటోఫిల్ సెట్టింగ్‌లను ఆఫ్ చేయండి."
   },
   "turnOffBrowserAutofill": {
     "message": "$BROWSER$ ఆటోఫిల్ ఆఫ్ చేయి",
@@ -2293,7 +2293,7 @@
     "message": "ఫారం ఫీల్డ్‌లలో ఆటోఫిల్ సూచనలు చూపించు"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Bitwarden మీ డేటాను ఫిషింగ్ నుండి ఎలా రక్షిస్తుంది?"
+    "message": "VWClient మీ డేటాను ఫిషింగ్ నుండి ఎలా రక్షిస్తుంది?"
   },
   "currentWebsite": {
     "message": "ప్రస్తుత వెబ్‌సైట్"
@@ -3202,7 +3202,7 @@
     "message": "బలహీనమైన మాస్టర్ పాస్‌వర్డ్"
   },
   "weakMasterPasswordDesc": {
-    "message": "మీరు ఎంచుకున్న మాస్టర్ పాస్‌వర్డ్ బలహీనంగా ఉంది. మీ Bitwarden ఖాతాను సరిగ్గా రక్షించడానికి మీరు బలమైన మాస్టర్ పాస్‌వర్డ్ (లేదా పాస్‌ఫ్రేజ్) ఉపయోగించాలి. మీరు ఈ మాస్టర్ పాస్‌వర్డ్‌ను ఉపయోగించాలనుకుంటున్నారా?"
+    "message": "మీరు ఎంచుకున్న మాస్టర్ పాస్‌వర్డ్ బలహీనంగా ఉంది. మీ VWClient ఖాతాను సరిగ్గా రక్షించడానికి మీరు బలమైన మాస్టర్ పాస్‌వర్డ్ (లేదా పాస్‌ఫ్రేజ్) ఉపయోగించాలి. మీరు ఈ మాస్టర్ పాస్‌వర్డ్‌ను ఉపయోగించాలనుకుంటున్నారా?"
   },
   "rotateAccountEncKey": {
     "message": "నా ఖాతా యొక్క ఎన్‌క్రిప్షన్ కీని కూడా రొటేట్ చేయి"
@@ -3214,7 +3214,7 @@
     "message": "మీరు మీ ఖాతా యొక్క ఎన్‌క్రిప్షన్ కీని రొటేట్ చేయాలనుకుంటున్నారా?"
   },
   "updateEncryptionKeyWarning": {
-    "message": "మీ ఎన్‌క్రిప్షన్ కీని అప్‌డేట్ చేసిన తర్వాత, మీరు ప్రస్తుతం ఉపయోగిస్తున్న అన్ని Bitwarden అప్లికేషన్‌ల (మొబైల్ యాప్ లేదా బ్రౌజర్ ఎక్స్‌టెన్షన్‌ల వంటివి) నుండి లాగ్ అవుట్ చేసి మళ్లీ లాగిన్ చేయాలి. లాగ్ అవుట్ చేసి మళ్లీ లాగిన్ చేయకపోతే (ఇది మీ కొత్త ఎన్‌క్రిప్షన్ కీని డౌన్‌లోడ్ చేస్తుంది) డేటా క్షతగాత్రం కావచ్చు. మేము మిమ్మల్ని స్వయంచాలకంగా లాగ్ అవుట్ చేయడానికి ప్రయత్నిస్తాము, అయితే, అది ఆలస్యం కావచ్చు."
+    "message": "మీ ఎన్‌క్రిప్షన్ కీని అప్‌డేట్ చేసిన తర్వాత, మీరు ప్రస్తుతం ఉపయోగిస్తున్న అన్ని VWClient అప్లికేషన్‌ల (మొబైల్ యాప్ లేదా బ్రౌజర్ ఎక్స్‌టెన్షన్‌ల వంటివి) నుండి లాగ్ అవుట్ చేసి మళ్లీ లాగిన్ చేయాలి. లాగ్ అవుట్ చేసి మళ్లీ లాగిన్ చేయకపోతే (ఇది మీ కొత్త ఎన్‌క్రిప్షన్ కీని డౌన్‌లోడ్ చేస్తుంది) డేటా క్షతగాత్రం కావచ్చు. మేము మిమ్మల్ని స్వయంచాలకంగా లాగ్ అవుట్ చేయడానికి ప్రయత్నిస్తాము, అయితే, అది ఆలస్యం కావచ్చు."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "మీరు సేవ్ చేసిన ఏవైనా ఖాతా పరిమిత ఎగుమతులు చెల్లనివి అవుతాయి."
@@ -3242,10 +3242,10 @@
     "message": "PIN సెట్ చేయి"
   },
   "setYourPinCode": {
-    "message": "Bitwardenను అన్‌లాక్ చేయడానికి మీ PIN కోడ్‌ను సెట్ చేయండి. మీరు ఎప్పుడైనా అప్లికేషన్ నుండి పూర్తిగా లాగ్ అవుట్ చేస్తే మీ PIN సెట్టింగ్‌లు రీసెట్ చేయబడతాయి."
+    "message": "VWClientను అన్‌లాక్ చేయడానికి మీ PIN కోడ్‌ను సెట్ చేయండి. మీరు ఎప్పుడైనా అప్లికేషన్ నుండి పూర్తిగా లాగ్ అవుట్ చేస్తే మీ PIN సెట్టింగ్‌లు రీసెట్ చేయబడతాయి."
   },
   "setPinCode": {
-    "message": "Bitwardenను అన్‌లాక్ చేయడానికి మీరు ఈ PINని ఉపయోగించవచ్చు. మీరు ఎప్పుడైనా అప్లికేషన్ నుండి పూర్తిగా లాగ్ అవుట్ చేస్తే మీ PIN రీసెట్ చేయబడుతుంది."
+    "message": "VWClientను అన్‌లాక్ చేయడానికి మీరు ఈ PINని ఉపయోగించవచ్చు. మీరు ఎప్పుడైనా అప్లికేషన్ నుండి పూర్తిగా లాగ్ అవుట్ చేస్తే మీ PIN రీసెట్ చేయబడుతుంది."
   },
   "pinRequired": {
     "message": "PIN కోడ్ అవసరం."
@@ -3266,7 +3266,7 @@
     "message": "డెస్క్‌టాప్ నుండి నిర్ధారణ కోసం వేచి ఉంది"
   },
   "awaitDesktopDesc": {
-    "message": "బ్రౌజర్ కోసం బయోమెట్రిక్స్ సెటప్ చేయడానికి దయచేసి Bitwarden డెస్క్‌టాప్ అప్లికేషన్‌లో బయోమెట్రిక్స్ ఉపయోగించి నిర్ధారించండి."
+    "message": "బ్రౌజర్ కోసం బయోమెట్రిక్స్ సెటప్ చేయడానికి దయచేసి VWClient డెస్క్‌టాప్ అప్లికేషన్‌లో బయోమెట్రిక్స్ ఉపయోగించి నిర్ధారించండి."
   },
   "lockWithMasterPassOnRestart": {
     "message": "బ్రౌజర్ పునఃప్రారంభంలో మాస్టర్ పాస్‌వర్డ్‌తో లాక్ చేయి"
@@ -3381,7 +3381,7 @@
     "message": "ఫారం మీ సేవ్ చేసిన లాగిన్ యొక్క URI కంటే వేరే డొమైన్ ద్వారా హోస్ట్ చేయబడింది. ఏదైనా ఆటోఫిల్ చేయడానికి OK ఎంచుకోండి, లేదా ఆపడానికి రద్దు చేయి ఎంచుకోండి."
   },
   "autofillIframeWarningTip": {
-    "message": "భవిష్యత్తులో ఈ హెచ్చరికను నివారించడానికి, ఈ URI, $HOSTNAME$, ను ఈ సైట్ కోసం మీ Bitwarden లాగిన్ ఐటమ్‌కు సేవ్ చేయండి.",
+    "message": "భవిష్యత్తులో ఈ హెచ్చరికను నివారించడానికి, ఈ URI, $HOSTNAME$, ను ఈ సైట్ కోసం మీ VWClient లాగిన్ ఐటమ్‌కు సేవ్ చేయండి.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "ఈ పేజీ Bitwarden అనుభవంలో జోక్యం చేసుకుంటోంది. భద్రతా చర్యగా Bitwarden ఇన్‌లైన్ మెనూ తాత్కాలికంగా నిలిపివేయబడింది."
+    "message": "ఈ పేజీ VWClient అనుభవంలో జోక్యం చేసుకుంటోంది. భద్రతా చర్యగా VWClient ఇన్‌లైన్ మెనూ తాత్కాలికంగా నిలిపివేయబడింది."
   },
   "setMasterPassword": {
     "message": "మాస్టర్ పాస్‌వర్డ్ సెట్ చేయి"
@@ -3447,7 +3447,7 @@
     "message": "మీ కొత్త మాస్టర్ పాస్‌వర్డ్ విధాన అవసరాలను తీర్చడం లేదు."
   },
   "receiveMarketingEmails": {
-    "message": "మీ ఇన్‌బాక్స్‌లో Bitwarden నుండి అప్‌డేట్‌లను స్వీకరించండి."
+    "message": "మీ ఇన్‌బాక్స్‌లో VWClient నుండి అప్‌డేట్‌లను స్వీకరించండి."
   },
   "unsubscribe": {
     "message": "చందా రద్దు చేయి"
@@ -3492,13 +3492,13 @@
     "message": "బ్రౌజర్ ఇంటిగ్రేషన్ సెటప్ చేయబడలేదు"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Bitwarden డెస్క్‌టాప్ అప్లికేషన్‌లో బ్రౌజర్ ఇంటిగ్రేషన్ సెటప్ చేయబడలేదు. దయచేసి డెస్క్‌టాప్ అప్లికేషన్‌లోని సెట్టింగ్‌లలో దానిని సెటప్ చేయండి."
+    "message": "VWClient డెస్క్‌టాప్ అప్లికేషన్‌లో బ్రౌజర్ ఇంటిగ్రేషన్ సెటప్ చేయబడలేదు. దయచేసి డెస్క్‌టాప్ అప్లికేషన్‌లోని సెట్టింగ్‌లలో దానిని సెటప్ చేయండి."
   },
   "startDesktopTitle": {
-    "message": "Bitwarden డెస్క్‌టాప్ అప్లికేషన్‌ను ప్రారంభించండి"
+    "message": "VWClient డెస్క్‌టాప్ అప్లికేషన్‌ను ప్రారంభించండి"
   },
   "startDesktopDesc": {
-    "message": "బయోమెట్రిక్స్‌తో అన్‌లాక్ ఉపయోగించడానికి ముందు Bitwarden డెస్క్‌టాప్ అప్లికేషన్ ప్రారంభించబడాలి."
+    "message": "బయోమెట్రిక్స్‌తో అన్‌లాక్ ఉపయోగించడానికి ముందు VWClient డెస్క్‌టాప్ అప్లికేషన్ ప్రారంభించబడాలి."
   },
   "errorEnableBiometricTitle": {
     "message": "బయోమెట్రిక్స్ సెటప్ చేయలేము"
@@ -3552,13 +3552,13 @@
     "message": "బయోమెట్రిక్స్ విఫలమైంది"
   },
   "biometricsFailedDesc": {
-    "message": "బయోమెట్రిక్స్ పూర్తి చేయలేము, మాస్టర్ పాస్‌వర్డ్ ఉపయోగించడం లేదా లాగ్ అవుట్ చేయడం పరిగణించండి. ఇది కొనసాగితే, దయచేసి Bitwarden మద్దతును సంప్రదించండి."
+    "message": "బయోమెట్రిక్స్ పూర్తి చేయలేము, మాస్టర్ పాస్‌వర్డ్ ఉపయోగించడం లేదా లాగ్ అవుట్ చేయడం పరిగణించండి. ఇది కొనసాగితే, దయచేసి VWClient మద్దతును సంప్రదించండి."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "అనుమతి అందించబడలేదు"
   },
   "nativeMessagingPermissionErrorDesc": {
-    "message": "Bitwarden డెస్క్‌టాప్ అప్లికేషన్‌తో కమ్యూనికేట్ చేయడానికి అనుమతి లేకుండా మేము బ్రౌజర్ ఎక్స్‌టెన్షన్‌లో బయోమెట్రిక్స్ అందించలేము. దయచేసి మళ్లీ ప్రయత్నించండి."
+    "message": "VWClient డెస్క్‌టాప్ అప్లికేషన్‌తో కమ్యూనికేట్ చేయడానికి అనుమతి లేకుండా మేము బ్రౌజర్ ఎక్స్‌టెన్షన్‌లో బయోమెట్రిక్స్ అందించలేము. దయచేసి మళ్లీ ప్రయత్నించండి."
   },
   "nativeMessagingPermissionSidebarTitle": {
     "message": "అనుమతి అభ్యర్థన లోపం"
@@ -3595,7 +3595,7 @@
     "message": "మినహాయించిన డొమైన్‌లు"
   },
   "excludedDomainsDesc": {
-    "message": "ఈ డొమైన్‌ల కోసం Bitwarden లాగిన్ వివరాలను సేవ్ చేయమని అడగదు. మార్పులు అమలులోకి రావడానికి మీరు పేజీని రిఫ్రెష్ చేయాలి."
+    "message": "ఈ డొమైన్‌ల కోసం VWClient లాగిన్ వివరాలను సేవ్ చేయమని అడగదు. మార్పులు అమలులోకి రావడానికి మీరు పేజీని రిఫ్రెష్ చేయాలి."
   },
   "blockedDomainsDesc": {
     "message": "ఈ వెబ్‌సైట్‌ల కోసం ఆటోఫిల్ మరియు ఇతర సంబంధిత ఫీచర్లు అందించబడవు. మార్పులు అమలులోకి రావడానికి మీరు పేజీని రిఫ్రెష్ చేయాలి."
@@ -3727,24 +3727,24 @@
     "message": "ప్రమాదంలో ఉన్న లాగిన్‌ల జాబితా యొక్క చిత్రణ."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Bitwarden వాల్ట్ పేజీ లేఅవుట్ యొక్క చిత్రణ."
+    "message": "VWClient వాల్ట్ పేజీ లేఅవుట్ యొక్క చిత్రణ."
   },
   "generatePasswordSlideDesc": {
-    "message": "ప్రమాదంలో ఉన్న సైట్‌లో Bitwarden ఆటోఫిల్ మెనూతో బలమైన, ప్రత్యేకమైన పాస్‌వర్డ్‌ను త్వరగా జనరేట్ చేయండి.",
+    "message": "ప్రమాదంలో ఉన్న సైట్‌లో VWClient ఆటోఫిల్ మెనూతో బలమైన, ప్రత్యేకమైన పాస్‌వర్డ్‌ను త్వరగా జనరేట్ చేయండి.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "జనరేట్ చేసిన పాస్‌వర్డ్‌ను ప్రదర్శిస్తున్న Bitwarden ఆటోఫిల్ మెనూ యొక్క చిత్రణ."
+    "message": "జనరేట్ చేసిన పాస్‌వర్డ్‌ను ప్రదర్శిస్తున్న VWClient ఆటోఫిల్ మెనూ యొక్క చిత్రణ."
   },
   "updateInBitwarden": {
-    "message": "Bitwardenలో అప్‌డేట్ చేయి"
+    "message": "VWClientలో అప్‌డేట్ చేయి"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Bitwarden అప్పుడు పాస్‌వర్డ్ మేనేజర్‌లో పాస్‌వర్డ్‌ను అప్‌డేట్ చేయమని మిమ్మల్ని ప్రాంప్ట్ చేస్తుంది.",
+    "message": "VWClient అప్పుడు పాస్‌వర్డ్ మేనేజర్‌లో పాస్‌వర్డ్‌ను అప్‌డేట్ చేయమని మిమ్మల్ని ప్రాంప్ట్ చేస్తుంది.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "లాగిన్‌ను అప్‌డేట్ చేయమని వినియోగదారుని ప్రాంప్ట్ చేస్తున్న Bitwarden యొక్క నోటిఫికేషన్ యొక్క చిత్రణ."
+    "message": "లాగిన్‌ను అప్‌డేట్ చేయమని వినియోగదారుని ప్రాంప్ట్ చేస్తున్న VWClient యొక్క నోటిఫికేషన్ యొక్క చిత్రణ."
   },
   "turnOnAutofill": {
     "message": "ఆటోఫిల్ ఆన్ చేయి"
@@ -4259,10 +4259,10 @@
     "message": "ఆటోఫిల్ డేటాను పొందడంలో లోపం"
   },
   "couldNotDecryptVaultItem": {
-    "message": "క్రింద జాబితా చేసిన వాల్ట్ ఐటమ్‌ను Bitwarden డిక్రిప్ట్ చేయలేకపోయింది. Bitwarden కస్టమర్ మద్దతును సంప్రదించి, అది రికవర్ చేయగలదో లేదో చూడటానికి క్రింద ఐటమ్ IDని అందించండి."
+    "message": "క్రింద జాబితా చేసిన వాల్ట్ ఐటమ్‌ను VWClient డిక్రిప్ట్ చేయలేకపోయింది. VWClient కస్టమర్ మద్దతును సంప్రదించి, అది రికవర్ చేయగలదో లేదో చూడటానికి క్రింద ఐటమ్ IDని అందించండి."
   },
   "couldNotDecryptVaultItems": {
-    "message": "క్రింద జాబితా చేసిన వాల్ట్ ఐటమ్‌లను Bitwarden డిక్రిప్ట్ చేయలేకపోయింది. Bitwarden కస్టమర్ మద్దతును సంప్రదించి, అవి రికవర్ చేయగలవో లేదో చూడటానికి క్రింద ఐటమ్ IDలను అందించండి."
+    "message": "క్రింద జాబితా చేసిన వాల్ట్ ఐటమ్‌లను VWClient డిక్రిప్ట్ చేయలేకపోయింది. VWClient కస్టమర్ మద్దతును సంప్రదించి, అవి రికవర్ చేయగలవో లేదో చూడటానికి క్రింద ఐటమ్ IDలను అందించండి."
   },
   "itemId": {
     "message": "ఐటమ్ ID",
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Bitwarden ద్వారా జనరేట్ చేయబడింది.",
+    "message": "VWClient ద్వారా జనరేట్ చేయబడింది.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "వెబ్‌సైట్: $WEBSITE$. Bitwarden ద్వారా జనరేట్ చేయబడింది.",
+    "message": "వెబ్‌సైట్: $WEBSITE$. VWClient ద్వారా జనరేట్ చేయబడింది.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "మీ పరికరానికి నోటిఫికేషన్ పంపబడింది."
   },
   "notificationSentDevicePart1": {
-    "message": "మీ పరికరంలో లేదా దీనిలో Bitwardenను అన్‌లాక్ చేయండి"
+    "message": "మీ పరికరంలో లేదా దీనిలో VWClientను అన్‌లాక్ చేయండి"
   },
   "notificationSentDeviceAnchor": {
     "message": "వెబ్ యాప్"
@@ -5098,15 +5098,15 @@
     "message": "కంటెంట్‌కు దాటవేయి"
   },
   "bitwardenOverlayButton": {
-    "message": "Bitwarden ఆటోఫిల్ మెనూ బటన్",
+    "message": "VWClient ఆటోఫిల్ మెనూ బటన్",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Bitwarden ఆటోఫిల్ మెనూను టోగుల్ చేయి",
+    "message": "VWClient ఆటోఫిల్ మెనూను టోగుల్ చేయి",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Bitwarden ఆటోఫిల్ మెనూ",
+    "message": "VWClient ఆటోఫిల్ మెనూ",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Bitwarden ఆటోఫిల్ మెనూ అందుబాటులో ఉంది. ఎంచుకోవడానికి కింది బాణం కీని నొక్కండి.",
+    "message": "VWClient ఆటోఫిల్ మెనూ అందుబాటులో ఉంది. ఎంచుకోవడానికి కింది బాణం కీని నొక్కండి.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -5550,7 +5550,7 @@
     "message": "Secure by design"
   },
   "importDataSecureByDesignBody": {
-    "message": "End-to-end encrypted handoff. Bitwarden never sees your $VENDOR$ login details.",
+    "message": "End-to-end encrypted handoff. VWClient never sees your $VENDOR$ login details.",
     "placeholders": {
       "vendor": {
         "content": "$1",
@@ -5725,7 +5725,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "ఫైల్‌ను ఇక్కడ Bitwardenకు.",
+    "message": "ఫైల్‌ను ఇక్కడ VWClientకు.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -6392,7 +6392,7 @@
     "message": "క్రియాశీల ఖాతా"
   },
   "bitwardenAccount": {
-    "message": "Bitwarden ఖాతా"
+    "message": "VWClient ఖాతా"
   },
   "availableAccounts": {
     "message": "అందుబాటులో ఉన్న ఖాతాలు"
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI మ్యాచ్ డిటెక్షన్ అనేది Bitwarden ఆటోఫిల్ సూచనలను ఎలా గుర్తిస్తుంది.",
+    "message": "URI మ్యాచ్ డిటెక్షన్ అనేది VWClient ఆటోఫిల్ సూచనలను ఎలా గుర్తిస్తుంది.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Bitwardenను మీ డిఫాల్ట్ పాస్‌వర్డ్ మేనేజర్‌గా చేయాలా?",
+    "message": "VWClientను మీ డిఫాల్ట్ పాస్‌వర్డ్ మేనేజర్‌గా చేయాలా?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "ఈ ఎంపికను నిర్లక్ష్యం చేయడం Bitwarden ఆటోఫిల్ సూచనలు మరియు మీ బ్రౌజర్ యొక్క సూచనల మధ్య వైరుధ్యాలకు కారణం కావచ్చు.",
+    "message": "ఈ ఎంపికను నిర్లక్ష్యం చేయడం VWClient ఆటోఫిల్ సూచనలు మరియు మీ బ్రౌజర్ యొక్క సూచనల మధ్య వైరుధ్యాలకు కారణం కావచ్చు.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Bitwardenను మీ డిఫాల్ట్ పాస్‌వర్డ్ మేనేజర్‌గా చేయండి",
+    "message": "VWClientను మీ డిఫాల్ట్ పాస్‌వర్డ్ మేనేజర్‌గా చేయండి",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Bitwardenను మీ డిఫాల్ట్ పాస్‌వర్డ్ మేనేజర్‌గా చేయడానికి $BROWSER$ బ్రౌజర్ అనుమతిని మంజూరు చేయమని మిమ్మల్ని అడగబడుతుంది.",
+    "message": "VWClientను మీ డిఫాల్ట్ పాస్‌వర్డ్ మేనేజర్‌గా చేయడానికి $BROWSER$ బ్రౌజర్ అనుమతిని మంజూరు చేయమని మిమ్మల్ని అడగబడుతుంది.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Bitwardenను డిఫాల్ట్ పాస్‌వర్డ్ మేనేజర్‌గా సెట్ చేయలేము",
+    "message": "VWClientను డిఫాల్ట్ పాస్‌వర్డ్ మేనేజర్‌గా సెట్ చేయలేము",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Bitwardenను డిఫాల్ట్ పాస్‌వర్డ్ మేనేజర్‌గా సెట్ చేయడానికి మీరు దానికి బ్రౌజర్ గోప్యతా అనుమతులను మంజూరు చేయాలి.",
+    "message": "VWClientను డిఫాల్ట్ పాస్‌వర్డ్ మేనేజర్‌గా సెట్ చేయడానికి మీరు దానికి బ్రౌజర్ గోప్యతా అనుమతులను మంజూరు చేయాలి.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Bitwardenను మీ బ్రౌజర్ యొక్క డిఫాల్ట్ పాస్‌వర్డ్ మేనేజర్‌గా చేయండి"
+    "message": "VWClientను మీ బ్రౌజర్ యొక్క డిఫాల్ట్ పాస్‌వర్డ్ మేనేజర్‌గా చేయండి"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Bitwardenను మీ డిఫాల్ట్ పాస్‌వర్డ్ మేనేజర్‌గా చేయండి",
+    "message": "VWClientను మీ డిఫాల్ట్ పాస్‌వర్డ్ మేనేజర్‌గా చేయండి",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "మీ సెట్టింగ్‌లను మార్చడానికి Bitwardenకు అనుమతి ఇవ్వడానికి బ్రౌజర్ ప్రాంప్ట్ నుండి."
+    "message": "మీ సెట్టింగ్‌లను మార్చడానికి VWClientకు అనుమతి ఇవ్వడానికి బ్రౌజర్ ప్రాంప్ట్ నుండి."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "మీరు సురక్షిత లాగిన్ అనుభవాన్ని ఆస్వాదించగలిగేలా మేము మీ బ్రౌజర్ యొక్క అంతర్నిర్మిత పాస్‌వర్డ్ మేనేజర్‌ను ఆఫ్ చేస్తాము."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Bitwardenను మీ డిఫాల్ట్ బ్రౌజర్ పాస్‌వర్డ్ మేనేజర్‌గా చేసాము"
+    "message": "VWClientను మీ డిఫాల్ట్ బ్రౌజర్ పాస్‌వర్డ్ మేనేజర్‌గా చేసాము"
   },
   "allow": {
     "message": "అనుమతించు",
@@ -6952,16 +6952,16 @@
     "message": "జోడింపును డౌన్‌లోడ్ చేయి"
   },
   "downloadBitwarden": {
-    "message": "Bitwarden డౌన్‌లోడ్ చేయి"
+    "message": "VWClient డౌన్‌లోడ్ చేయి"
   },
   "downloadBitwardenOnAllDevices": {
-    "message": "అన్ని పరికరాలలో Bitwarden డౌన్‌లోడ్ చేయండి"
+    "message": "అన్ని పరికరాలలో VWClient డౌన్‌లోడ్ చేయండి"
   },
   "getTheMobileApp": {
     "message": "మొబైల్ యాప్ పొందండి"
   },
   "getTheMobileAppDesc": {
-    "message": "Bitwarden మొబైల్ యాప్‌తో ప్రయాణంలో మీ పాస్‌వర్డ్‌లను యాక్సెస్ చేయండి."
+    "message": "VWClient మొబైల్ యాప్‌తో ప్రయాణంలో మీ పాస్‌వర్డ్‌లను యాక్సెస్ చేయండి."
   },
   "getTheDesktopApp": {
     "message": "డెస్క్‌టాప్ యాప్ పొందండి"
@@ -7514,10 +7514,10 @@
     "message": "తప్పుగా కాన్ఫిగర్ చేసిన సిస్టమ్ ఫైల్‌ల కారణంగా బయోమెట్రిక్ అన్‌లాక్ అందుబాటులో లేదు."
   },
   "biometricsStatusHelptextDesktopDisconnected": {
-    "message": "Bitwarden డెస్క్‌టాప్ యాప్ మూసివేయబడినందున బయోమెట్రిక్ అన్‌లాక్ అందుబాటులో లేదు."
+    "message": "VWClient డెస్క్‌టాప్ యాప్ మూసివేయబడినందున బయోమెట్రిక్ అన్‌లాక్ అందుబాటులో లేదు."
   },
   "biometricsStatusHelptextNotEnabledInDesktop": {
-    "message": "Bitwarden డెస్క్‌టాప్ యాప్‌లో $EMAIL$ కోసం ఇది ప్రారంభించబడనందున బయోమెట్రిక్ అన్‌లాక్ అందుబాటులో లేదు.",
+    "message": "VWClient డెస్క్‌టాప్ యాప్‌లో $EMAIL$ కోసం ఇది ప్రారంభించబడనందున బయోమెట్రిక్ అన్‌లాక్ అందుబాటులో లేదు.",
     "placeholders": {
       "email": {
         "content": "$1",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Bitwardenకు సేవ్ చేయి",
+    "message": "VWClientకు సేవ్ చేయి",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Bitwardenకు స్వాగతం"
+    "message": "VWClientకు స్వాగతం"
   },
   "securityPrioritized": {
     "message": "భద్రతకు ప్రాధాన్యత"
   },
   "securityPrioritizedBody": {
-    "message": "లాగిన్‌లు, కార్డ్‌లు మరియు గుర్తింపులను మీ సురక్షిత వాల్ట్‌లో సేవ్ చేయండి. Bitwarden మీకు ముఖ్యమైన వాటిని రక్షించడానికి జీరో-నాలెడ్జ్, ఎండ్-టు-ఎండ్ ఎన్‌క్రిప్షన్ ఉపయోగిస్తుంది."
+    "message": "లాగిన్‌లు, కార్డ్‌లు మరియు గుర్తింపులను మీ సురక్షిత వాల్ట్‌లో సేవ్ చేయండి. VWClient మీకు ముఖ్యమైన వాటిని రక్షించడానికి జీరో-నాలెడ్జ్, ఎండ్-టు-ఎండ్ ఎన్‌క్రిప్షన్ ఉపయోగిస్తుంది."
   },
   "quickLogin": {
     "message": "త్వరిత మరియు సులభ లాగిన్"
@@ -7817,7 +7817,7 @@
     "message": "మీ డేటా, మీకు అవసరమైనప్పుడు మరియు ఎక్కడ"
   },
   "secureDevicesBody": {
-    "message": "Bitwarden మొబైల్, బ్రౌజర్ మరియు డెస్క్‌టాప్ యాప్‌లతో అపరిమిత పరికరాలలో అపరిమిత పాస్‌వర్డ్‌లను సేవ్ చేయండి."
+    "message": "VWClient మొబైల్, బ్రౌజర్ మరియు డెస్క్‌టాప్ యాప్‌లతో అపరిమిత పరికరాలలో అపరిమిత పాస్‌వర్డ్‌లను సేవ్ చేయండి."
   },
   "nudgeBadgeAria": {
     "message": "1 నోటిఫికేషన్"
@@ -7826,7 +7826,7 @@
     "message": "ఇప్పటికే ఉన్న పాస్‌వర్డ్‌లను దిగుమతి చేయండి"
   },
   "emptyVaultNudgeBody": {
-    "message": "మాన్యువల్‌గా జోడించకుండా లాగిన్‌లను Bitwardenకు త్వరగా బదిలీ చేయడానికి దిగుమతిదారుని ఉపయోగించండి."
+    "message": "మాన్యువల్‌గా జోడించకుండా లాగిన్‌లను VWClientకు త్వరగా బదిలీ చేయడానికి దిగుమతిదారుని ఉపయోగించండి."
   },
   "emptyVaultNudgeButton": {
     "message": "ఇప్పుడే దిగుమతి చేయి"
@@ -7945,7 +7945,7 @@
     "message": "ఈ సెట్టింగ్ గురించి"
   },
   "permitCipherDetailsDescription": {
-    "message": "మీ అనుభవాన్ని మెరుగుపరచడానికి ఏ ఐకాన్ లేదా పాస్‌వర్డ్ URL మార్చాలో గుర్తించడానికి Bitwarden సేవ్ చేసిన లాగిన్ URIలను ఉపయోగిస్తుంది. మీరు ఈ సేవను ఉపయోగించినప్పుడు ఎటువంటి సమాచారం సేకరించబడదు లేదా సేవ్ చేయబడదు."
+    "message": "మీ అనుభవాన్ని మెరుగుపరచడానికి ఏ ఐకాన్ లేదా పాస్‌వర్డ్ URL మార్చాలో గుర్తించడానికి VWClient సేవ్ చేసిన లాగిన్ URIలను ఉపయోగిస్తుంది. మీరు ఈ సేవను ఉపయోగించినప్పుడు ఎటువంటి సమాచారం సేకరించబడదు లేదా సేవ్ చేయబడదు."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "మీ వినియోగదారు పేరు, పాస్‌వర్డ్ లేదా ధృవీకరణ కోడ్‌ను క్లిప్‌బోర్డ్‌కు కాపీ చేయడానికి ఐటమ్‌ల పక్కన 3 త్వరిత కాపీ బటన్‌లను జోడించండి."
@@ -7954,7 +7954,7 @@
     "message": "ఈ పేజీని వీక్షించడానికి మీకు అనుమతులు లేవు. వేరే ఖాతాతో లాగిన్ చేయడానికి ప్రయత్నించండి."
   },
   "wasmNotSupported": {
-    "message": "మీ బ్రౌజర్‌లో WebAssembly మద్దతు లేదు లేదా ప్రారంభించబడలేదు. Bitwarden యాప్‌ను ఉపయోగించడానికి WebAssembly అవసరం.",
+    "message": "మీ బ్రౌజర్‌లో WebAssembly మద్దతు లేదు లేదా ప్రారంభించబడలేదు. VWClient యాప్‌ను ఉపయోగించడానికి WebAssembly అవసరం.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8042,7 +8042,7 @@
     "message": "లోపం: డిక్రిప్ట్ చేయలేము"
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "మీ సంస్థ ఇకపై Bitwardenలో లాగిన్ చేయడానికి మాస్టర్ పాస్‌వర్డ్‌లను ఉపయోగించడం లేదు. కొనసాగించడానికి, సంస్థ మరియు డొమైన్‌ను ధృవీకరించండి."
+    "message": "మీ సంస్థ ఇకపై VWClientలో లాగిన్ చేయడానికి మాస్టర్ పాస్‌వర్డ్‌లను ఉపయోగించడం లేదు. కొనసాగించడానికి, సంస్థ మరియు డొమైన్‌ను ధృవీకరించండి."
   },
   "continueWithLogIn": {
     "message": "లాగిన్‌తో కొనసాగించు"
@@ -8128,7 +8128,7 @@
     "message": "మీ టైమ్‌అవుట్ చర్యను మార్చడానికి అన్‌లాక్ పద్ధతిని సెట్ చేయండి"
   },
   "sessionTimeoutSuppressedByConnectedDevice": {
-    "message": "Bitwarden డెస్క్‌టాప్ యాప్ ద్వారా నిర్వహించబడుతుంది. సవరించడానికి డెస్క్‌టాప్ యాప్‌ను తెరవండి."
+    "message": "VWClient డెస్క్‌టాప్ యాప్ ద్వారా నిర్వహించబడుతుంది. సవరించడానికి డెస్క్‌టాప్ యాప్‌ను తెరవండి."
   },
   "percentageCompleted": {
     "message": "$PERCENT$% పూర్తయింది",
@@ -8230,7 +8230,7 @@
     "message": "user@bitwarden.com, user@acme.com"
   },
   "downloadBitwardenApps": {
-    "message": "Bitwarden యాప్‌లను డౌన్‌లోడ్ చేయండి"
+    "message": "VWClient యాప్‌లను డౌన్‌లోడ్ చేయండి"
   },
   "emailProtected": {
     "message": "ఇమెయిల్ రక్షించబడింది"
@@ -8249,7 +8249,7 @@
     "message": "Synchronize unlock with desktop"
   },
   "syncUnlockWithDesktopDescription1": {
-    "message": "The Bitwarden browser extension and desktop app lock and unlock together. Biometrics will be used if available."
+    "message": "The VWClient browser extension and desktop app lock and unlock together. Biometrics will be used if available."
   },
   "sharedUnlockUnavailableUntrustedDevice": {
     "message": "మీరు ఈ పరికరాన్ని గుర్తుంచుకోకూడదని ఎంచుకున్నందున పంచుకున్న అన్‌లాక్ అందుబాటులో లేదు. ఈ సెట్టింగ్‌ను ప్రారంభించడానికి, మళ్లీ లాగిన్ చేయడానికి ప్రయత్నించండి."
@@ -8258,13 +8258,13 @@
     "message": "కొత్త అనుమతి అవసరం"
   },
   "sharedUnlockDesktopPermissionDesc": {
-    "message": "పంచుకున్న అన్‌లాక్ ఉపయోగించడానికి, Bitwarden డెస్క్‌టాప్ యాప్‌తో కమ్యూనికేట్ చేయడానికి అనుమతి అవసరం. మీరు కొనసాగించినప్పుడు, మీ బ్రౌజర్ దానిని ఆమోదించమని అడుగుతుంది."
+    "message": "పంచుకున్న అన్‌లాక్ ఉపయోగించడానికి, VWClient డెస్క్‌టాప్ యాప్‌తో కమ్యూనికేట్ చేయడానికి అనుమతి అవసరం. మీరు కొనసాగించినప్పుడు, మీ బ్రౌజర్ దానిని ఆమోదించమని అడుగుతుంది."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Bitwarden లాక్ చేసి మళ్లీ లోడ్ చేస్తుంది. మీరు ఆమోదించిన తర్వాత, ఎక్స్‌టెన్షన్ మళ్లీ లోడ్ అవుతుంది మరియు మీ వాల్ట్‌ను లాక్ చేస్తుంది."
+    "message": "VWClient లాక్ చేసి మళ్లీ లోడ్ చేస్తుంది. మీరు ఆమోదించిన తర్వాత, ఎక్స్‌టెన్షన్ మళ్లీ లోడ్ అవుతుంది మరియు మీ వాల్ట్‌ను లాక్ చేస్తుంది."
   },
   "biometricPermissionDesc": {
-    "message": "బయోమెట్రిక్ అన్‌లాక్ ఉపయోగించడానికి, Bitwarden డెస్క్‌టాప్ యాప్‌తో కమ్యూనికేట్ చేయడానికి అనుమతి అవసరం. మీరు కొనసాగించినప్పుడు, మీ బ్రౌజర్ దానిని ఆమోదించమని అడుగుతుంది."
+    "message": "బయోమెట్రిక్ అన్‌లాక్ ఉపయోగించడానికి, VWClient డెస్క్‌టాప్ యాప్‌తో కమ్యూనికేట్ చేయడానికి అనుమతి అవసరం. మీరు కొనసాగించినప్పుడు, మీ బ్రౌజర్ దానిని ఆమోదించమని అడుగుతుంది."
   },
   "enterMonth": {
     "message": "నెలను నమోదు చేయండి."
@@ -8767,15 +8767,15 @@
     "message": "Unable to determine item ID"
   },
   "newExperienceDialogTitle": {
-    "message": "Bitwarden has a new look",
+    "message": "VWClient has a new look",
     "description": "Title of the dialog that introduces the redesigned vault to existing users."
   },
   "newExperienceDialogDesc": {
-    "message": "Better experience, same trusted security. The Bitwarden vault has been redesigned based on your feedback, so things are easier to find and work like you'd expect.",
+    "message": "Better experience, same trusted security. The VWClient vault has been redesigned based on your feedback, so things are easier to find and work like you'd expect.",
     "description": "Body copy of the dialog that introduces the redesigned vault to existing users."
   },
   "newExperienceDialogImgAlt": {
-    "message": "A preview of the redesigned Bitwarden vault.",
+    "message": "A preview of the redesigned VWClient vault.",
     "description": "Alt text for the screenshot shown in the dialog that introduces the redesigned vault."
   },
   "exploreTheNewVault": {

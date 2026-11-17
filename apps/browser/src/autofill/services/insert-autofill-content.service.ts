@@ -299,8 +299,8 @@ class InsertAutofillContentService implements InsertAutofillContentServiceInterf
       return;
     }
 
-    element.classList.add("com-bitwarden-browser-animated-fill");
-    setTimeout(() => element.classList.remove("com-bitwarden-browser-animated-fill"), 200);
+    element.classList.add("vwc-animated-fill");
+    setTimeout(() => element.classList.remove("vwc-animated-fill"), 200);
   }
 
   /**

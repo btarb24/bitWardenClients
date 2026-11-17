@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "VWClient"
   },
   "appLogoLabel": {
-    "message": "Logo ng Bitwarden"
+    "message": "Logo ng VWClient"
   },
   "extName": {
-    "message": "Bitwarden Password Manager",
+    "message": "VWClient",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Bitwarden Password Manager Beta",
+    "message": "VWClient Beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "At home, at work, or on the go, Bitwarden easily secures all your passwords, passkeys, and sensitive information",
+    "message": "VWClient",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -27,7 +27,7 @@
     "message": "Gumawa ng Account"
   },
   "newToBitwarden": {
-    "message": "Bago sa Bitwarden?"
+    "message": "Bago sa VWClient?"
   },
   "logInWithPasskey": {
     "message": "Mag-log in gamit ang passkey"
@@ -324,22 +324,22 @@
     "message": "Magpatuloy sa web app?"
   },
   "continueToWebAppDesc": {
-    "message": "Galugarin ang higit pang mga feature ng iyong Bitwarden account sa web app."
+    "message": "Galugarin ang higit pang mga feature ng iyong VWClient account sa web app."
   },
   "continueToHelpCenter": {
     "message": "Magpatuloy sa Help Center?"
   },
   "continueToHelpCenterDesc": {
-    "message": "Matuto nang higit pa tungkol sa kung paano gamitin ang Bitwarden sa Help Center."
+    "message": "Matuto nang higit pa tungkol sa kung paano gamitin ang VWClient sa Help Center."
   },
   "continueToBrowserExtensionStore": {
     "message": "Magpatuloy sa browser extension store?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Tulungan ang iba na malaman kung ang Bitwarden ay angkop para sa kanila. Bisitahin ang extension store ng iyong browser at mag-iwan ng rating ngayon."
+    "message": "Tulungan ang iba na malaman kung ang VWClient ay angkop para sa kanila. Bisitahin ang extension store ng iyong browser at mag-iwan ng rating ngayon."
   },
   "changeMasterPasswordOnWebConfirmation": {
-    "message": "Maaari mong baguhin ang iyong master password sa Bitwarden web app."
+    "message": "Maaari mong baguhin ang iyong master password sa VWClient web app."
   },
   "fingerprintPhrase": {
     "message": "Hulmabig ng Hilik ng Dako",
@@ -356,31 +356,31 @@
     "message": "Mag-Log Out"
   },
   "aboutBitwarden": {
-    "message": "Tungkol sa Bitwarden"
+    "message": "Tungkol sa VWClient"
   },
   "about": {
     "message": "Tungkol"
   },
   "moreFromBitwarden": {
-    "message": "Higit pa mula sa Bitwarden"
+    "message": "Higit pa mula sa VWClient"
   },
   "continueToBitwardenDotCom": {
     "message": "Magpatuloy sa bitwarden.com?"
   },
   "bitwardenForBusiness": {
-    "message": "Bitwarden for Business"
+    "message": "VWClient for Business"
   },
   "bitwardenAuthenticator": {
-    "message": "Bitwarden Authenticator"
+    "message": "VWClient Authenticator"
   },
   "continueToAuthenticatorPageDesc": {
-    "message": "Ang Bitwarden Authenticator ay nagbibigay-daan sa iyo na mag-imbak ng mga authenticator key at bumuo ng mga TOTP code para sa 2-step verification flows. Matuto pa sa website ng bitwarden.com"
+    "message": "Ang VWClient Authenticator ay nagbibigay-daan sa iyo na mag-imbak ng mga authenticator key at bumuo ng mga TOTP code para sa 2-step verification flows. Matuto pa sa website ng bitwarden.com"
   },
   "bitwardenSecretsManager": {
-    "message": "Bitwarden Secrets Manager"
+    "message": "VWClient Secrets Manager"
   },
   "continueToSecretsManagerPageDesc": {
-    "message": "Ligtas na mag-imbak, mamahala, at magbahagi ng mga developer secret gamit ang Bitwarden Secrets Manager. Matuto pa sa website ng bitwarden.com."
+    "message": "Ligtas na mag-imbak, mamahala, at magbahagi ng mga developer secret gamit ang VWClient Secrets Manager. Matuto pa sa website ng bitwarden.com."
   },
   "passwordlessDotDev": {
     "message": "Passwordless.dev"
@@ -389,10 +389,10 @@
     "message": "Gumawa ng maayos at ligtas na karanasan sa pag-log in na walang tradisyonal na password gamit ang Passwordless.dev. Matuto pa sa website ng bitwarden.com."
   },
   "freeBitwardenFamilies": {
-    "message": "Libreng Bitwarden Families"
+    "message": "Libreng VWClient Families"
   },
   "freeBitwardenFamiliesPageDesc": {
-    "message": "Kwalipikado ka para sa Libreng Bitwarden Families. I-redeem ang alok na ito ngayon sa web app."
+    "message": "Kwalipikado ka para sa Libreng VWClient Families. I-redeem ang alok na ito ngayon sa web app."
   },
   "version": {
     "message": "Bersyon"
@@ -458,13 +458,13 @@
     "message": "Tulong at Mga Feedback"
   },
   "helpCenter": {
-    "message": "Bitwarden Tulong sentro"
+    "message": "VWClient Tulong sentro"
   },
   "communityForums": {
-    "message": "I-eksplorang Bitwarden komunidad na mga forum"
+    "message": "I-eksplorang VWClient komunidad na mga forum"
   },
   "contactSupport": {
-    "message": "Kontakin ang Bitwarden suporta"
+    "message": "Kontakin ang VWClient suporta"
   },
   "sync": {
     "message": "Ikintal"
@@ -486,7 +486,7 @@
     "message": "Automatiko na gumawa ng mga malakas at natatanging mga password para sa iyong mga logins."
   },
   "bitWebVaultApp": {
-    "message": "Bitwarden web app"
+    "message": "VWClient web app"
   },
   "select": {
     "message": "Piliin"
@@ -864,7 +864,7 @@
     "message": "I-download at ibahagi ang diagnostic report sa"
   },
   "bitwardenSupport": {
-    "message": "Bitwarden support",
+    "message": "VWClient support",
     "description": "Link text following the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -1081,10 +1081,10 @@
     "message": "Gawing tuluy-tuloy ang 2-step verification"
   },
   "totpHelper": {
-    "message": "Maaaring mag-imbak at magpunan ang Bitwarden ng 2-step verification code. Kopyahin at i-paste ang key sa field na ito."
+    "message": "Maaaring mag-imbak at magpunan ang VWClient ng 2-step verification code. Kopyahin at i-paste ang key sa field na ito."
   },
   "totpHelperWithCapture": {
-    "message": "Maaaring mag-imbak at magpunan ang Bitwarden ng 2-step verification code. Piliin ang icon ng camera upang kumuha ng screenshot ng authenticator QR code ng website na ito, o kopyahin at i-paste ang key sa field na ito."
+    "message": "Maaaring mag-imbak at magpunan ang VWClient ng 2-step verification code. Piliin ang icon ng camera upang kumuha ng screenshot ng authenticator QR code ng website na ito, o kopyahin at i-paste ang key sa field na ito."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Matuto nang higit pa tungkol sa mga authenticator"
@@ -1174,7 +1174,7 @@
     "message": "Ang two-step login ay nagpapagaan sa iyong account sa pamamagitan ng pag-verify sa iyong login sa isa pang device tulad ng security key, authenticator app, SMS, tawag sa telepono o email. Ang two-step login ay maaaring magawa sa bitwarden.com web vault. Gusto mo bang bisitahin ang website ngayon?"
   },
   "twoStepLoginConfirmationContent": {
-    "message": "Gawing mas secure ang iyong account sa pamamagitan ng pag-set up ng two-step login sa Bitwarden web app."
+    "message": "Gawing mas secure ang iyong account sa pamamagitan ng pag-set up ng two-step login sa VWClient web app."
   },
   "twoStepLoginConfirmationTitle": {
     "message": "Magpatuloy sa web app?"
@@ -1333,7 +1333,7 @@
     "message": "Lumaktaw sa setting"
   },
   "notificationAddDesc": {
-    "message": "Dapat bang tandaan ng Bitwarden ang password na ito para sa iyo?"
+    "message": "Dapat bang tandaan ng VWClient ang password na ito para sa iyo?"
   },
   "notificationAddSave": {
     "message": "I-save"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "nai-save sa Bitwarden.",
+    "message": "nai-save sa VWClient.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "na-update sa Bitwarden.",
+    "message": "na-update sa VWClient.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1462,7 +1462,7 @@
     "message": "Tanungin ang update ng password ng isang login kapag napansin ang pagbabago sa websi."
   },
   "changedPasswordNotificationDescAlt": {
-    "message": "Hilingin na i-update ang password ng login kapag may nakitang pagbabago sa isang website. Nalalapat sa lahat ng naka-log in na account.\nI-unlock ang iyong Bitwarden vault para makumpleto ang kahilingan sa auto-fill."
+    "message": "Hilingin na i-update ang password ng login kapag may nakitang pagbabago sa isang website. Nalalapat sa lahat ng naka-log in na account.\nI-unlock ang iyong VWClient vault para makumpleto ang kahilingan sa auto-fill."
   },
   "enableUsePasskeys": {
     "message": "Magtanong upang i-save at gamitin ang mga passkey"
@@ -1471,13 +1471,13 @@
     "message": "Magtanong upang i-save ang mga bagong passkey o mag-log in gamit ang mga passkey na nakaimbak sa iyong vault. Naaangkop sa lahat ng naka-log in na account."
   },
   "notificationChangeDesc": {
-    "message": "Nais mo bang i-update ang password na ito sa Bitwarden?"
+    "message": "Nais mo bang i-update ang password na ito sa VWClient?"
   },
   "notificationChangeSave": {
     "message": "I-update"
   },
   "notificationUnlockDesc": {
-    "message": "I-unlock ang iyong Bitwarden vault para makumpleto ang kahilingan sa auto-fill."
+    "message": "I-unlock ang iyong VWClient vault para makumpleto ang kahilingan sa auto-fill."
   },
   "notificationUnlock": {
     "message": "I-unlock"
@@ -1786,10 +1786,10 @@
     "message": "Ang password na ito ay gagamitin upang i-export at i-import ang file na ito"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Gamitin ang encryption key ng iyong account, na nagmula sa username at Master Password ng iyong account, upang i-encrypt ang export at limitahan ang import sa kasalukuyang Bitwarden account lamang."
+    "message": "Gamitin ang encryption key ng iyong account, na nagmula sa username at Master Password ng iyong account, upang i-encrypt ang export at limitahan ang import sa kasalukuyang VWClient account lamang."
   },
   "passwordProtectedOptionDescription": {
-    "message": "Magtakda ng file password upang i-encrypt ang export at i-import ito sa anumang Bitwarden account gamit ang password para sa decryption."
+    "message": "Magtakda ng file password upang i-encrypt ang export at i-import ito sa anumang VWClient account gamit ang password para sa decryption."
   },
   "exportTypeHeading": {
     "message": "Uri ng export"
@@ -1818,7 +1818,7 @@
     "message": "Ang export na ito ay naka-encrypt ng iyong data gamit ang encryption key ng iyong account. Kung kailanman mo i-rotate ang encryption key ng iyong account, dapat mong i-export muli dahil hindi mo na mababawasan ang export file na ito."
   },
   "encExportAccountWarningDesc": {
-    "message": "Ang encryption keys ng account ay isa-isa lamang sa bawat user account ng Bitwarden, kaya hindi mo ma-import ang naka-encrypt na export sa ibang account."
+    "message": "Ang encryption keys ng account ay isa-isa lamang sa bawat user account ng VWClient, kaya hindi mo ma-import ang naka-encrypt na export sa ibang account."
   },
   "exportMasterPassword": {
     "message": "Ipasok ang iyong master password para i-export ang iyong data sa vault."
@@ -1842,7 +1842,7 @@
     "message": "Magdagdag ng shared folder"
   },
   "bitwardenForBusinessPageDesc": {
-    "message": "Ang Bitwarden for Business ay nagbibigay-daan sa iyo na ibahagi ang iyong mga vault item sa iba sa pamamagitan ng paggamit ng isang organisasyon. Matuto pa sa website ng bitwarden.com."
+    "message": "Ang VWClient for Business ay nagbibigay-daan sa iyo na ibahagi ang iyong mga vault item sa iba sa pamamagitan ng paggamit ng isang organisasyon. Matuto pa sa website ng bitwarden.com."
   },
   "moveToOrganization": {
     "message": "Lumipat sa organisasyon"
@@ -2044,7 +2044,7 @@
     "message": "Bilhin ang Premium"
   },
   "premiumPurchaseAlertV2": {
-    "message": "Maaari kang bumili ng Premium mula sa mga setting ng iyong account sa Bitwarden web app."
+    "message": "Maaari kang bumili ng Premium mula sa mga setting ng iyong account sa VWClient web app."
   },
   "premiumFeatures": {
     "message": "Mag-upgrade sa Premium at makatanggap ng:"
@@ -2150,7 +2150,7 @@
     "message": "App ng Authenticator"
   },
   "authenticatorAppDescV2": {
-    "message": "Ilagay ang code na nabuo ng isang authenticator app tulad ng Bitwarden Authenticator.",
+    "message": "Ilagay ang code na nabuo ng isang authenticator app tulad ng VWClient Authenticator.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -2183,7 +2183,7 @@
     "message": "Kapaligirang self-hosted"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Tukuyin ang base URL ng iyong on-premises hosted Bitwarden installation. Halimbawa: https://bitwarden.company.com"
+    "message": "Tukuyin ang base URL ng iyong on-premises hosted VWClient installation. Halimbawa: https://bitwarden.company.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Para sa advanced configuration, maaari mong tukuyin ang base URL ng bawat serbisyo nang hiwalay."
@@ -2236,7 +2236,7 @@
     "message": "Madaling mahanap ang mga autofill suggestion"
   },
   "autofillSpotlightDesc": {
-    "message": "I-off ang autofill settings ng iyong browser, upang hindi sila sumalungat sa Bitwarden."
+    "message": "I-off ang autofill settings ng iyong browser, upang hindi sila sumalungat sa VWClient."
   },
   "turnOffBrowserAutofill": {
     "message": "I-off ang $BROWSER$ autofill",
@@ -2293,7 +2293,7 @@
     "message": "Ipakita ang mga autofill suggestion sa mga form field"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Paano pinoprotektahan ng Bitwarden ang iyong data mula sa phishing?"
+    "message": "Paano pinoprotektahan ng VWClient ang iyong data mula sa phishing?"
   },
   "currentWebsite": {
     "message": "Kasalukuyang website"
@@ -3202,7 +3202,7 @@
     "message": "Mahinang master password"
   },
   "weakMasterPasswordDesc": {
-    "message": "Ang master password na pinili mo ay mahina. Dapat gamitin mo ang isang makapangyarihang master password (o passphrase) para maayos na protektahan ang iyong account sa Bitwarden. Sigurado ka bang nais mong gamitin ang master password na ito?"
+    "message": "Ang master password na pinili mo ay mahina. Dapat gamitin mo ang isang makapangyarihang master password (o passphrase) para maayos na protektahan ang iyong account sa VWClient. Sigurado ka bang nais mong gamitin ang master password na ito?"
   },
   "rotateAccountEncKey": {
     "message": "I-rotate din ang encryption key ng aking account"
@@ -3214,7 +3214,7 @@
     "message": "Sigurado ka bang gusto mong i-rotate ang encryption key ng iyong account?"
   },
   "updateEncryptionKeyWarning": {
-    "message": "Pagkatapos i-update ang iyong encryption key, kailangan mong mag-log out at mag-log in muli sa lahat ng Bitwarden application na kasalukuyang ginagamit mo (tulad ng mobile app o browser extension). Ang kabiguan na mag-log out at mag-log in muli (na nagda-download ng iyong bagong encryption key) ay maaaring magresulta sa data corruption. Susubukan naming awtomatikong i-log out ka, gayunpaman, maaari itong maantala."
+    "message": "Pagkatapos i-update ang iyong encryption key, kailangan mong mag-log out at mag-log in muli sa lahat ng VWClient application na kasalukuyang ginagamit mo (tulad ng mobile app o browser extension). Ang kabiguan na mag-log out at mag-log in muli (na nagda-download ng iyong bagong encryption key) ay maaaring magresulta sa data corruption. Susubukan naming awtomatikong i-log out ka, gayunpaman, maaari itong maantala."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "Ang anumang account restricted export na nai-save mo ay magiging invalid."
@@ -3242,10 +3242,10 @@
     "message": "Magtakda ng PIN"
   },
   "setYourPinCode": {
-    "message": "Itakda ang iyong PIN code para sa pag-unlock ng Bitwarden. Ang iyong mga setting ng PIN ay ma-reset kung kailanman ay lubusang lumabas ka mula sa application."
+    "message": "Itakda ang iyong PIN code para sa pag-unlock ng VWClient. Ang iyong mga setting ng PIN ay ma-reset kung kailanman ay lubusang lumabas ka mula sa application."
   },
   "setPinCode": {
-    "message": "Maaari mong gamitin ang PIN na ito upang i-unlock ang Bitwarden. Ang iyong PIN ay ire-reset kung kailanman ay ganap kang mag-log out sa application."
+    "message": "Maaari mong gamitin ang PIN na ito upang i-unlock ang VWClient. Ang iyong PIN ay ire-reset kung kailanman ay ganap kang mag-log out sa application."
   },
   "pinRequired": {
     "message": "Kinakailangan ang PIN code."
@@ -3266,7 +3266,7 @@
     "message": "Naghihintay ng kumpirmasyon mula sa desktop"
   },
   "awaitDesktopDesc": {
-    "message": "Mangyaring kumpirmahin gamit ang biometrics sa Bitwarden desktop application upang makapagtakda ng biometrics para sa browser."
+    "message": "Mangyaring kumpirmahin gamit ang biometrics sa VWClient desktop application upang makapagtakda ng biometrics para sa browser."
   },
   "lockWithMasterPassOnRestart": {
     "message": "I-lock sa master password sa restart ng browser"
@@ -3381,7 +3381,7 @@
     "message": "Ang form ay naka-host sa ibang domain kaysa sa URI ng iyong nai-save na login. Piliin ang OK upang i-autofill pa rin, o Cancel upang ihinto."
   },
   "autofillIframeWarningTip": {
-    "message": "Upang maiwasan ang babalang ito sa hinaharap, i-save ang URI na ito, $HOSTNAME$, sa iyong Bitwarden login item para sa site na ito.",
+    "message": "Upang maiwasan ang babalang ito sa hinaharap, i-save ang URI na ito, $HOSTNAME$, sa iyong VWClient login item para sa site na ito.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Ang page na ito ay nakikialam sa karanasan ng Bitwarden. Ang Bitwarden inline menu ay pansamantalang na-disable bilang isang hakbang sa kaligtasan."
+    "message": "Ang page na ito ay nakikialam sa karanasan ng VWClient. Ang VWClient inline menu ay pansamantalang na-disable bilang isang hakbang sa kaligtasan."
   },
   "setMasterPassword": {
     "message": "Itakda ang master password"
@@ -3447,7 +3447,7 @@
     "message": "Hindi matugunan ng iyong bagong pangunahing password ang mga kinakailangan ng patakaran."
   },
   "receiveMarketingEmails": {
-    "message": "Makatanggap ng mga update mula sa Bitwarden sa iyong inbox."
+    "message": "Makatanggap ng mga update mula sa VWClient sa iyong inbox."
   },
   "unsubscribe": {
     "message": "Mag-unsubscribe"
@@ -3492,13 +3492,13 @@
     "message": "Hindi naka set up ang pagsasama ng browser"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Ang browser integration ay hindi naka-set up sa Bitwarden desktop application. Paki-set up ito sa settings sa loob ng desktop application."
+    "message": "Ang browser integration ay hindi naka-set up sa VWClient desktop application. Paki-set up ito sa settings sa loob ng desktop application."
   },
   "startDesktopTitle": {
-    "message": "Simulan ang Bitwarden desktop application"
+    "message": "Simulan ang VWClient desktop application"
   },
   "startDesktopDesc": {
-    "message": "Kinakailangan na simulan ang Bitwarden desktop application bago magamit ang unlock with biometrics."
+    "message": "Kinakailangan na simulan ang VWClient desktop application bago magamit ang unlock with biometrics."
   },
   "errorEnableBiometricTitle": {
     "message": "Hindi makapag-set up ng biometrics"
@@ -3552,13 +3552,13 @@
     "message": "Nabigo ang biometrics"
   },
   "biometricsFailedDesc": {
-    "message": "Hindi makumpleto ang biometrics, isaalang-alang ang paggamit ng master password o pag-log out. Kung magpapatuloy ito, mangyaring makipag-ugnayan sa Bitwarden support."
+    "message": "Hindi makumpleto ang biometrics, isaalang-alang ang paggamit ng master password o pag-log out. Kung magpapatuloy ito, mangyaring makipag-ugnayan sa VWClient support."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Hindi ibinigay ang pahintulot"
   },
   "nativeMessagingPermissionErrorDesc": {
-    "message": "Kung walang pahintulot na makipag-ugnayan sa Bitwarden Desktop Application, hindi kami makakapagbigay ng biometrics sa browser extension. Pakisubukang muli."
+    "message": "Kung walang pahintulot na makipag-ugnayan sa VWClient Desktop Application, hindi kami makakapagbigay ng biometrics sa browser extension. Pakisubukang muli."
   },
   "nativeMessagingPermissionSidebarTitle": {
     "message": "Error sa kahilingan ng pahintulot"
@@ -3595,7 +3595,7 @@
     "message": "Inilayo na Domain"
   },
   "excludedDomainsDesc": {
-    "message": "Hindi tatanungin ng Bitwarden na i-save ang mga detalye ng pag-login para sa mga domain na ito. Kailangan mo nang i-refresh ang page para maipatupad ang mga pagbabago."
+    "message": "Hindi tatanungin ng VWClient na i-save ang mga detalye ng pag-login para sa mga domain na ito. Kailangan mo nang i-refresh ang page para maipatupad ang mga pagbabago."
   },
   "blockedDomainsDesc": {
     "message": "Ang autofill at iba pang kaugnay na mga feature ay hindi iaalok para sa mga website na ito. Kailangan mong i-refresh ang page upang magkabisa ang mga pagbabago."
@@ -3727,24 +3727,24 @@
     "message": "Ilustrasyon ng isang listahan ng mga login na nasa panganib."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Ilustrasyon ng layout ng Bitwarden vault page."
+    "message": "Ilustrasyon ng layout ng VWClient vault page."
   },
   "generatePasswordSlideDesc": {
-    "message": "Mabilis na bumuo ng matibay at natatanging password gamit ang Bitwarden autofill menu sa site na nasa panganib.",
+    "message": "Mabilis na bumuo ng matibay at natatanging password gamit ang VWClient autofill menu sa site na nasa panganib.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Ilustrasyon ng Bitwarden autofill menu na nagpapakita ng nabuong password."
+    "message": "Ilustrasyon ng VWClient autofill menu na nagpapakita ng nabuong password."
   },
   "updateInBitwarden": {
-    "message": "I-update sa Bitwarden"
+    "message": "I-update sa VWClient"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Pagkatapos, hihilingin ng Bitwarden na i-update mo ang password sa password manager.",
+    "message": "Pagkatapos, hihilingin ng VWClient na i-update mo ang password sa password manager.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Ilustrasyon ng notification ng Bitwarden na humihiling sa user na i-update ang login."
+    "message": "Ilustrasyon ng notification ng VWClient na humihiling sa user na i-update ang login."
   },
   "turnOnAutofill": {
     "message": "I-on ang autofill"
@@ -4259,10 +4259,10 @@
     "message": "Error sa pagkuha ng autofill data"
   },
   "couldNotDecryptVaultItem": {
-    "message": "Hindi ma-decrypt ng Bitwarden ang vault item na nakalista sa ibaba. Makipag-ugnayan sa Bitwarden Customer Support at ibigay ang item ID sa ibaba upang makita kung ito ay mababawi."
+    "message": "Hindi ma-decrypt ng VWClient ang vault item na nakalista sa ibaba. Makipag-ugnayan sa VWClient Customer Support at ibigay ang item ID sa ibaba upang makita kung ito ay mababawi."
   },
   "couldNotDecryptVaultItems": {
-    "message": "Hindi ma-decrypt ng Bitwarden ang mga vault item na nakalista sa ibaba. Makipag-ugnayan sa Bitwarden Customer Support at ibigay ang mga item ID sa ibaba upang makita kung mababawi ang mga ito."
+    "message": "Hindi ma-decrypt ng VWClient ang mga vault item na nakalista sa ibaba. Makipag-ugnayan sa VWClient Customer Support at ibigay ang mga item ID sa ibaba upang makita kung mababawi ang mga ito."
   },
   "itemId": {
     "message": "Item ID",
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Nabuo ng Bitwarden.",
+    "message": "Nabuo ng VWClient.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Website: $WEBSITE$. Nabuo ng Bitwarden.",
+    "message": "Website: $WEBSITE$. Nabuo ng VWClient.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Naipadala na ang notification sa iyong device."
   },
   "notificationSentDevicePart1": {
-    "message": "I-unlock ang Bitwarden sa iyong device o sa"
+    "message": "I-unlock ang VWClient sa iyong device o sa"
   },
   "notificationSentDeviceAnchor": {
     "message": "web app"
@@ -5098,15 +5098,15 @@
     "message": "Lumaktaw sa nilalaman"
   },
   "bitwardenOverlayButton": {
-    "message": "Button ng Bitwarden autofill menu",
+    "message": "Button ng VWClient autofill menu",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "I-toggle ang Bitwarden autofill menu",
+    "message": "I-toggle ang VWClient autofill menu",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Bitwarden autofill menu",
+    "message": "VWClient autofill menu",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Available ang Bitwarden autofill menu. Pindutin ang down arrow key upang pumili.",
+    "message": "Available ang VWClient autofill menu. Pindutin ang down arrow key upang pumili.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -5550,7 +5550,7 @@
     "message": "Secure by design"
   },
   "importDataSecureByDesignBody": {
-    "message": "End-to-end encrypted handoff. Bitwarden never sees your $VENDOR$ login details.",
+    "message": "End-to-end encrypted handoff. VWClient never sees your $VENDOR$ login details.",
     "placeholders": {
       "vendor": {
         "content": "$1",
@@ -5725,7 +5725,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "file dito sa Bitwarden.",
+    "message": "file dito sa VWClient.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -6392,7 +6392,7 @@
     "message": "Aktibong account"
   },
   "bitwardenAccount": {
-    "message": "Bitwarden account"
+    "message": "VWClient account"
   },
   "availableAccounts": {
     "message": "Mga available na account"
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Ang URI match detection ay kung paano tinutukoy ng Bitwarden ang mga autofill suggestion.",
+    "message": "Ang URI match detection ay kung paano tinutukoy ng VWClient ang mga autofill suggestion.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Gawing Bitwarden ang iyong default password manager?",
+    "message": "Gawing VWClient ang iyong default password manager?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Ang pagbalewala sa opsyon na ito ay maaaring maging sanhi ng mga salungatan sa pagitan ng Bitwarden autofill suggestion at ng iyong browser.",
+    "message": "Ang pagbalewala sa opsyon na ito ay maaaring maging sanhi ng mga salungatan sa pagitan ng VWClient autofill suggestion at ng iyong browser.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Gawing Bitwarden ang iyong default password manager",
+    "message": "Gawing VWClient ang iyong default password manager",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Hihilingin sa iyo na magbigay ng pahintulot sa $BROWSER$ browser upang gawing Bitwarden ang iyong default password manager.",
+    "message": "Hihilingin sa iyo na magbigay ng pahintulot sa $BROWSER$ browser upang gawing VWClient ang iyong default password manager.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Hindi maitakda ang Bitwarden bilang default password manager",
+    "message": "Hindi maitakda ang VWClient bilang default password manager",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Dapat mong bigyan ang Bitwarden ng browser privacy permissions upang itakda ito bilang default password manager.",
+    "message": "Dapat mong bigyan ang VWClient ng browser privacy permissions upang itakda ito bilang default password manager.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Gawing Bitwarden ang default password manager ng iyong browser"
+    "message": "Gawing VWClient ang default password manager ng iyong browser"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Gawing Bitwarden ang iyong default password manager",
+    "message": "Gawing VWClient ang iyong default password manager",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "mula sa browser prompt upang bigyan ang Bitwarden ng pahintulot na baguhin ang iyong mga setting."
+    "message": "mula sa browser prompt upang bigyan ang VWClient ng pahintulot na baguhin ang iyong mga setting."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "I-off namin ang built-in password manager ng iyong browser upang masiyahan ka sa isang secure na karanasan sa pag-log in."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Ginawang Bitwarden ang iyong default browser password manager"
+    "message": "Ginawang VWClient ang iyong default browser password manager"
   },
   "allow": {
     "message": "Payagan",
@@ -6952,16 +6952,16 @@
     "message": "I-download ang Attachment"
   },
   "downloadBitwarden": {
-    "message": "I-download ang Bitwarden"
+    "message": "I-download ang VWClient"
   },
   "downloadBitwardenOnAllDevices": {
-    "message": "I-download ang Bitwarden sa lahat ng device"
+    "message": "I-download ang VWClient sa lahat ng device"
   },
   "getTheMobileApp": {
     "message": "Kunin ang mobile app"
   },
   "getTheMobileAppDesc": {
-    "message": "I-access ang iyong mga password kahit saan gamit ang Bitwarden mobile app."
+    "message": "I-access ang iyong mga password kahit saan gamit ang VWClient mobile app."
   },
   "getTheDesktopApp": {
     "message": "Kunin ang desktop app"
@@ -7514,10 +7514,10 @@
     "message": "Hindi available ang biometric unlock dahil sa maling configuration ng mga system file."
   },
   "biometricsStatusHelptextDesktopDisconnected": {
-    "message": "Hindi available ang biometric unlock dahil sarado ang Bitwarden desktop app."
+    "message": "Hindi available ang biometric unlock dahil sarado ang VWClient desktop app."
   },
   "biometricsStatusHelptextNotEnabledInDesktop": {
-    "message": "Hindi available ang biometric unlock dahil hindi ito naka-enable para sa $EMAIL$ sa Bitwarden desktop app.",
+    "message": "Hindi available ang biometric unlock dahil hindi ito naka-enable para sa $EMAIL$ sa VWClient desktop app.",
     "placeholders": {
       "email": {
         "content": "$1",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "I-save sa Bitwarden",
+    "message": "I-save sa VWClient",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Use folders to organize vault items. They're just for you. No one else will see or use them."
   },
   "introCarouselLabel": {
-    "message": "Maligayang pagdating sa Bitwarden"
+    "message": "Maligayang pagdating sa VWClient"
   },
   "securityPrioritized": {
     "message": "Seguridad, prayoridad"
   },
   "securityPrioritizedBody": {
-    "message": "I-save ang mga login, card, at identity sa iyong secure na vault. Gumagamit ang Bitwarden ng zero-knowledge, end-to-end encryption upang protektahan ang mahalaga sa iyo."
+    "message": "I-save ang mga login, card, at identity sa iyong secure na vault. Gumagamit ang VWClient ng zero-knowledge, end-to-end encryption upang protektahan ang mahalaga sa iyo."
   },
   "quickLogin": {
     "message": "Mabilis at madaling pag-log in"
@@ -7817,7 +7817,7 @@
     "message": "Ang iyong data, kung kailan at saan mo ito kailangan"
   },
   "secureDevicesBody": {
-    "message": "Mag-save ng walang limitasyong password sa walang limitasyong device gamit ang Bitwarden mobile, browser, at desktop apps."
+    "message": "Mag-save ng walang limitasyong password sa walang limitasyong device gamit ang VWClient mobile, browser, at desktop apps."
   },
   "nudgeBadgeAria": {
     "message": "1 notification"
@@ -7826,7 +7826,7 @@
     "message": "Mag-import ng mga umiiral na password"
   },
   "emptyVaultNudgeBody": {
-    "message": "Gamitin ang importer upang mabilis na ilipat ang mga login sa Bitwarden nang hindi manu-manong idinadagdag ang mga ito."
+    "message": "Gamitin ang importer upang mabilis na ilipat ang mga login sa VWClient nang hindi manu-manong idinadagdag ang mga ito."
   },
   "emptyVaultNudgeButton": {
     "message": "Mag-import ngayon"
@@ -7945,7 +7945,7 @@
     "message": "Tungkol sa setting na ito"
   },
   "permitCipherDetailsDescription": {
-    "message": "Gagamitin ng Bitwarden ang mga nai-save na login URI upang matukoy kung aling icon o change password URL ang dapat gamitin upang mapabuti ang iyong karanasan. Walang impormasyong nakokolekta o nai-save kapag ginagamit mo ang serbisyong ito."
+    "message": "Gagamitin ng VWClient ang mga nai-save na login URI upang matukoy kung aling icon o change password URL ang dapat gamitin upang mapabuti ang iyong karanasan. Walang impormasyong nakokolekta o nai-save kapag ginagamit mo ang serbisyong ito."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Magdagdag ng 3 quick copy button sa tabi ng mga item upang kopyahin ang iyong username, password, o verification code sa clipboard."
@@ -7954,7 +7954,7 @@
     "message": "Wala kang pahintulot na tingnan ang page na ito. Subukang mag-log in gamit ang ibang account."
   },
   "wasmNotSupported": {
-    "message": "Hindi sinusuportahan ang WebAssembly sa iyong browser o hindi ito naka-enable. Kinakailangan ang WebAssembly upang magamit ang Bitwarden app.",
+    "message": "Hindi sinusuportahan ang WebAssembly sa iyong browser o hindi ito naka-enable. Kinakailangan ang WebAssembly upang magamit ang VWClient app.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8042,7 +8042,7 @@
     "message": "Error: Hindi ma-decrypt"
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "Hindi na gumagamit ang iyong organisasyon ng master password upang mag-log in sa Bitwarden. Upang magpatuloy, i-verify ang organisasyon at domain."
+    "message": "Hindi na gumagamit ang iyong organisasyon ng master password upang mag-log in sa VWClient. Upang magpatuloy, i-verify ang organisasyon at domain."
   },
   "continueWithLogIn": {
     "message": "Magpatuloy sa pag-log in"
@@ -8128,7 +8128,7 @@
     "message": "Magtakda ng paraan ng pag-unlock upang baguhin ang iyong timeout action"
   },
   "sessionTimeoutSuppressedByConnectedDevice": {
-    "message": "Pinamamahalaan ng Bitwarden desktop app. Buksan ang desktop app upang i-edit."
+    "message": "Pinamamahalaan ng VWClient desktop app. Buksan ang desktop app upang i-edit."
   },
   "percentageCompleted": {
     "message": "$PERCENT$% kumpleto",
@@ -8230,7 +8230,7 @@
     "message": "user@bitwarden.com, user@acme.com"
   },
   "downloadBitwardenApps": {
-    "message": "I-download ang mga Bitwarden app"
+    "message": "I-download ang mga VWClient app"
   },
   "emailProtected": {
     "message": "Protektado ang email"
@@ -8249,7 +8249,7 @@
     "message": "Synchronize unlock with desktop"
   },
   "syncUnlockWithDesktopDescription1": {
-    "message": "The Bitwarden browser extension and desktop app lock and unlock together. Biometrics will be used if available."
+    "message": "The VWClient browser extension and desktop app lock and unlock together. Biometrics will be used if available."
   },
   "sharedUnlockUnavailableUntrustedDevice": {
     "message": "Hindi available ang shared unlock dahil pinili mong huwag tandaan ang device na ito. Upang paganahin ang setting na ito, subukang mag-log in muli."
@@ -8258,13 +8258,13 @@
     "message": "Kailangan ng bagong pahintulot"
   },
   "sharedUnlockDesktopPermissionDesc": {
-    "message": "Upang magamit ang shared unlock, kailangan ng Bitwarden ng pahintulot na makipag-ugnayan sa desktop app. Kapag nagpatuloy ka, hihilingin ng iyong browser na aprubahan mo ito."
+    "message": "Upang magamit ang shared unlock, kailangan ng VWClient ng pahintulot na makipag-ugnayan sa desktop app. Kapag nagpatuloy ka, hihilingin ng iyong browser na aprubahan mo ito."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Magla-lock at magre-reload ang Bitwarden. Pagkatapos mong aprubahan, magre-reload ang extension at ila-lock ang iyong vault."
+    "message": "Magla-lock at magre-reload ang VWClient. Pagkatapos mong aprubahan, magre-reload ang extension at ila-lock ang iyong vault."
   },
   "biometricPermissionDesc": {
-    "message": "Upang magamit ang biometric unlock, kailangan ng Bitwarden ng pahintulot na makipag-ugnayan sa desktop app. Kapag nagpatuloy ka, hihilingin ng iyong browser na aprubahan mo ito."
+    "message": "Upang magamit ang biometric unlock, kailangan ng VWClient ng pahintulot na makipag-ugnayan sa desktop app. Kapag nagpatuloy ka, hihilingin ng iyong browser na aprubahan mo ito."
   },
   "enterMonth": {
     "message": "Ilagay ang buwan."
@@ -8767,15 +8767,15 @@
     "message": "Unable to determine item ID"
   },
   "newExperienceDialogTitle": {
-    "message": "Bitwarden has a new look",
+    "message": "VWClient has a new look",
     "description": "Title of the dialog that introduces the redesigned vault to existing users."
   },
   "newExperienceDialogDesc": {
-    "message": "Better experience, same trusted security. The Bitwarden vault has been redesigned based on your feedback, so things are easier to find and work like you'd expect.",
+    "message": "Better experience, same trusted security. The VWClient vault has been redesigned based on your feedback, so things are easier to find and work like you'd expect.",
     "description": "Body copy of the dialog that introduces the redesigned vault to existing users."
   },
   "newExperienceDialogImgAlt": {
-    "message": "A preview of the redesigned Bitwarden vault.",
+    "message": "A preview of the redesigned VWClient vault.",
     "description": "Alt text for the screenshot shown in the dialog that introduces the redesigned vault."
   },
   "exploreTheNewVault": {

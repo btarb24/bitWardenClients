@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "VWClient"
   },
   "appLogoLabel": {
-    "message": "Logo Bitwarden"
+    "message": "Logo VWClient"
   },
   "extName": {
-    "message": "Bitwarden - Správce hesel",
+    "message": "VWClient",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Správce hesel Bitwarden (Beta)",
+    "message": "VWClient Beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "Bitwarden zabezpečí všechna Vaše hesla, přístupové klíče a citlivé informace doma, v práci nebo na cestách",
+    "message": "VWClient",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -27,7 +27,7 @@
     "message": "Vytvořit účet"
   },
   "newToBitwarden": {
-    "message": "Jste noví na Bitwardenu?"
+    "message": "Jste noví na VWClientu?"
   },
   "logInWithPasskey": {
     "message": "Přihlásit se pomocí přístupového klíče"
@@ -324,22 +324,22 @@
     "message": "Pokračovat do webové aplikace?"
   },
   "continueToWebAppDesc": {
-    "message": "Prozkoumejte další funkce Vašeho účtu Bitwarden ve webové aplikaci."
+    "message": "Prozkoumejte další funkce Vašeho účtu VWClient ve webové aplikaci."
   },
   "continueToHelpCenter": {
     "message": "Pokračovat do Centra nápovědy?"
   },
   "continueToHelpCenterDesc": {
-    "message": "Přečtěte si více o tom, jak používat Bitwarden v Centru nápovědy."
+    "message": "Přečtěte si více o tom, jak používat VWClient v Centru nápovědy."
   },
   "continueToBrowserExtensionStore": {
     "message": "Pokračovat do obchodu s rozšířeními pro prohlížeč?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Pomozte ostatním zjistit, zda je Bitwarden pro ně správný. Navštivte obchod s rozšířeními pro prohlížeč a zanechte hodnocení."
+    "message": "Pomozte ostatním zjistit, zda je VWClient pro ně správný. Navštivte obchod s rozšířeními pro prohlížeč a zanechte hodnocení."
   },
   "changeMasterPasswordOnWebConfirmation": {
-    "message": "Hlavní heslo můžete změnit ve webové aplikaci Bitwardenu."
+    "message": "Hlavní heslo můžete změnit ve webové aplikaci VWClientu."
   },
   "fingerprintPhrase": {
     "message": "Fráze otisku prstu",
@@ -356,31 +356,31 @@
     "message": "Odhlásit se"
   },
   "aboutBitwarden": {
-    "message": "O Bitwardenu"
+    "message": "O VWClientu"
   },
   "about": {
     "message": "O rozšíření"
   },
   "moreFromBitwarden": {
-    "message": "Více od Bitwardenu"
+    "message": "Více od VWClientu"
   },
   "continueToBitwardenDotCom": {
     "message": "Pokračovat na bitwarden.com?"
   },
   "bitwardenForBusiness": {
-    "message": "Bitwarden pro podnikání"
+    "message": "VWClient pro podnikání"
   },
   "bitwardenAuthenticator": {
-    "message": "Bitwarden Authenticator"
+    "message": "VWClient Authenticator"
   },
   "continueToAuthenticatorPageDesc": {
-    "message": "Bitwarden Authenticator umožňuje ukládat ověřovací klíče a generovat TOTP kódy pro 2-fázové ověřování. Další informace naleznete na stránkách bitwarden.com"
+    "message": "VWClient Authenticator umožňuje ukládat ověřovací klíče a generovat TOTP kódy pro 2-fázové ověřování. Další informace naleznete na stránkách bitwarden.com"
   },
   "bitwardenSecretsManager": {
-    "message": "Správce tajných klíčů Bitwardenu"
+    "message": "Správce tajných klíčů VWClientu"
   },
   "continueToSecretsManagerPageDesc": {
-    "message": "Bezpečně ukládá, spravuje a sdílí tajné klíče vývojáře se správcem tajných klíčů Bitwardenu. Více informací naleznete na stránkách bitwarden.com."
+    "message": "Bezpečně ukládá, spravuje a sdílí tajné klíče vývojáře se správcem tajných klíčů VWClientu. Více informací naleznete na stránkách bitwarden.com."
   },
   "passwordlessDotDev": {
     "message": "Passwordless.dev"
@@ -389,10 +389,10 @@
     "message": "S heslem Passwordless.dev vytvořte hladký a bezpečný přístup bez tradičních hesel. Další informace naleznete na stránkách bitwarden.com."
   },
   "freeBitwardenFamilies": {
-    "message": "Bitwarden pro rodinu zdarma"
+    "message": "VWClient pro rodinu zdarma"
   },
   "freeBitwardenFamiliesPageDesc": {
-    "message": "Máte nárok na Bitwarden pro rodinu zdarma. Uplatněte tuto nabídku ještě dnes ve webové aplikaci."
+    "message": "Máte nárok na VWClient pro rodinu zdarma. Uplatněte tuto nabídku ještě dnes ve webové aplikaci."
   },
   "version": {
     "message": "Verze"
@@ -458,10 +458,10 @@
     "message": "Nápověda a zpětná vazba"
   },
   "helpCenter": {
-    "message": "Centrum nápovědy Bitwarden"
+    "message": "Centrum nápovědy VWClient"
   },
   "communityForums": {
-    "message": "Prozkoumejte komunitní fóra Bitwarden"
+    "message": "Prozkoumejte komunitní fóra VWClient"
   },
   "contactSupport": {
     "message": "Kontakt na podporu"
@@ -486,7 +486,7 @@
     "message": "Vygenerujte si silné a unikátní heslo pro přihlašovací údaje."
   },
   "bitWebVaultApp": {
-    "message": "Webová aplikace Bitwardenu"
+    "message": "Webová aplikace VWClientu"
   },
   "select": {
     "message": "Vybrat"
@@ -864,7 +864,7 @@
     "message": "Stáhněte si a pak sdílejte diagnostický report s"
   },
   "bitwardenSupport": {
-    "message": "podporou Bitwarden",
+    "message": "podporou VWClient",
     "description": "Link text following the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -1081,10 +1081,10 @@
     "message": "Bezproblémové dvoufázové ověřování"
   },
   "totpHelper": {
-    "message": "Bitwarden umí ukládat a vyplňovat dvoufázové ověřovací kódy. Zkopírujte a vložte klíč do tohoto pole."
+    "message": "VWClient umí ukládat a vyplňovat dvoufázové ověřovací kódy. Zkopírujte a vložte klíč do tohoto pole."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden umí ukládat a vyplňovat dvoufázové ověřovací kódy. Vyberte ikonu fotoaparátu a pořiďte snímek obrazovky ověřovacího QR kódu této webové stránky nebo klíč zkopírujte a vložte do tohoto pole."
+    "message": "VWClient umí ukládat a vyplňovat dvoufázové ověřovací kódy. Vyberte ikonu fotoaparátu a pořiďte snímek obrazovky ověřovacího QR kódu této webové stránky nebo klíč zkopírujte a vložte do tohoto pole."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Zjistěte více o autentizátorech"
@@ -1174,7 +1174,7 @@
     "message": "Dvoufázové přihlášení činí Váš účet mnohem bezpečnějším díky nutnosti po každém úspěšném přihlášení zadat ověřovací kód získaný z bezpečnostního klíče, aplikace, SMS, telefonního hovoru nebo e-mailu. Dvoufázové přihlášení lze aktivovat na webové stránce bitwarden.com. Chcete tuto stránku nyní otevřít?"
   },
   "twoStepLoginConfirmationContent": {
-    "message": "Vytvořte svůj účet bezpečnějším nastavením dvoufázového přihlášení ve webové aplikaci Bitwarden."
+    "message": "Vytvořte svůj účet bezpečnějším nastavením dvoufázového přihlášení ve webové aplikaci VWClient."
   },
   "twoStepLoginConfirmationTitle": {
     "message": "Pokračovat do webové aplikace?"
@@ -1333,7 +1333,7 @@
     "message": "Přejít na nastavení"
   },
   "notificationAddDesc": {
-    "message": "Má si Bitwarden toto heslo pamatovat?"
+    "message": "Má si VWClient toto heslo pamatovat?"
   },
   "notificationAddSave": {
     "message": "Uložit"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "uloženo do Bitwardenu.",
+    "message": "uloženo do VWClientu.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "aktualizováno v Bitwardenu.",
+    "message": "aktualizováno v VWClientu.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "Zeptá se na uložení nového hesla nebo se přihlásí pomocí přístupových hesel uložených ve Vašem trezoru. Platí pro všechny přihlášené účty."
   },
   "notificationChangeDesc": {
-    "message": "Chcete aktualizovat toto heslo v Bitwardenu?"
+    "message": "Chcete aktualizovat toto heslo v VWClientu?"
   },
   "notificationChangeSave": {
     "message": "Aktualizovat"
   },
   "notificationUnlockDesc": {
-    "message": "Pro dokončení požadavku na automatické vyplnění odemkněte Váš trezor na Bitwardenu."
+    "message": "Pro dokončení požadavku na automatické vyplnění odemkněte Váš trezor na VWClientu."
   },
   "notificationUnlock": {
     "message": "Odemknout"
@@ -1786,10 +1786,10 @@
     "message": "Toto heslo bude použito pro export a import tohoto souboru."
   },
   "accountRestrictedOptionDescription": {
-    "message": "Pro zašifrování exportu a omezení importu jen na aktuální účet Bitwardenu se použije šifrovací klíč Vašeho účtu odvozený z uživatelského jména a hlavního hesla."
+    "message": "Pro zašifrování exportu a omezení importu jen na aktuální účet VWClientu se použije šifrovací klíč Vašeho účtu odvozený z uživatelského jména a hlavního hesla."
   },
   "passwordProtectedOptionDescription": {
-    "message": "Nastavte heslo pro šifrování exportu a importujte ho do libovolného účtu Bitwardenu pomocí hesla pro dešifrování."
+    "message": "Nastavte heslo pro šifrování exportu a importujte ho do libovolného účtu VWClientu pomocí hesla pro dešifrování."
   },
   "exportTypeHeading": {
     "message": "Typ exportu"
@@ -1818,7 +1818,7 @@
     "message": "Tento export zašifruje Vaše data pomocí šifrovacího klíče Vašeho účtu. Pokud někdy změníte šifrovací klíč Vašeho účtu, měli byste vyexportovat data znovu, protože tento exportovaný soubor nebudete moci dešifrovat."
   },
   "encExportAccountWarningDesc": {
-    "message": "Šifrovací klíče účtu jsou pro každý uživatelský účet Bitwardenu jedinečné, takže nelze importovat šifrovaný export do jiného účtu."
+    "message": "Šifrovací klíče účtu jsou pro každý uživatelský účet VWClientu jedinečné, takže nelze importovat šifrovaný export do jiného účtu."
   },
   "exportMasterPassword": {
     "message": "Pro exportování dat zadejte své hlavní heslo."
@@ -1842,7 +1842,7 @@
     "message": "Přidat sdílenou složku"
   },
   "bitwardenForBusinessPageDesc": {
-    "message": "Bitwarden pro podnikání Vám umožňuje sdílet položky v trezoru s ostatními prostřednictvím organizace. Více informací naleznete na bitwarden.com."
+    "message": "VWClient pro podnikání Vám umožňuje sdílet položky v trezoru s ostatními prostřednictvím organizace. Více informací naleznete na bitwarden.com."
   },
   "moveToOrganization": {
     "message": "Přesunout do organizace"
@@ -2044,7 +2044,7 @@
     "message": "Zakoupit členství Premium"
   },
   "premiumPurchaseAlertV2": {
-    "message": "Premium si můžete zakoupit v nastavení účtu ve webové aplikaci Bitwarden."
+    "message": "Premium si můžete zakoupit v nastavení účtu ve webové aplikaci VWClient."
   },
   "premiumFeatures": {
     "message": "Přejděte na Premium a získáte:"
@@ -2150,7 +2150,7 @@
     "message": "Ověřovací aplikace"
   },
   "authenticatorAppDescV2": {
-    "message": "Zadejte kód vygenerovaný ověřovací aplikací, jako je Bitwarden Authenticator.",
+    "message": "Zadejte kód vygenerovaný ověřovací aplikací, jako je VWClient Authenticator.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -2183,7 +2183,7 @@
     "message": "Prostředí vlastního serveru"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Zadejte základní URL adresu Vaší vlastní hostované aplikace Bitwarden. Příklad: https://bitwarden.spolecnost.cz"
+    "message": "Zadejte základní URL adresu Vaší vlastní hostované aplikace VWClient. Příklad: https://bitwarden.spolecnost.cz"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Pro rozšířená nastavení můžete zadat základní URL adresu každé služby zvlášť."
@@ -2236,7 +2236,7 @@
     "message": "Snadné hledání návrhů automatického vyplňování"
   },
   "autofillSpotlightDesc": {
-    "message": "Vypněte nastavení automatického vyplňování prohlížeče, takže nebude v rozporu s Bitwardenem."
+    "message": "Vypněte nastavení automatického vyplňování prohlížeče, takže nebude v rozporu s VWClientem."
   },
   "turnOffBrowserAutofill": {
     "message": "Vypnout automatické vyplňování $BROWSER$",
@@ -2293,7 +2293,7 @@
     "message": "Zobrazit návrhy automatického vyplňování v polích formuláře"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Jak Bitwarden chrání Vaše data před phishingem?"
+    "message": "Jak VWClient chrání Vaše data před phishingem?"
   },
   "currentWebsite": {
     "message": "Aktuální webová stránka"
@@ -3202,7 +3202,7 @@
     "message": "Slabé hlavní heslo"
   },
   "weakMasterPasswordDesc": {
-    "message": "Zvolené hlavní heslo je slabé. Pro správnou ochranu účtu Bitwardenu byste měli použít silné hlavní heslo (nebo heslovou frázi). Opravdu chcete toto heslo použít?"
+    "message": "Zvolené hlavní heslo je slabé. Pro správnou ochranu účtu VWClientu byste měli použít silné hlavní heslo (nebo heslovou frázi). Opravdu chcete toto heslo použít?"
   },
   "rotateAccountEncKey": {
     "message": "Měnit také šifrovací klíč k mému účtu"
@@ -3214,7 +3214,7 @@
     "message": "Opravdu chcete měnit šifrovací klíč k Vašemu účtu?"
   },
   "updateEncryptionKeyWarning": {
-    "message": "Po aktualizace šifrovacího klíče dojde k odhlášení a budete se muset opětovně přihlásit do všech aplikací Bitwardenu, které aktuálně používáte (např. mobilní aplikace či rozšíření pro prohlížeč). Nezdaří-li se odhlášení a opětovné přihlášení (během něhož bude stažen nový šifrovací klíč), může dojít k poškození dat. Pokusíme se Vás automaticky odhlásit, nicméně, může to chvíli trvat."
+    "message": "Po aktualizace šifrovacího klíče dojde k odhlášení a budete se muset opětovně přihlásit do všech aplikací VWClientu, které aktuálně používáte (např. mobilní aplikace či rozšíření pro prohlížeč). Nezdaří-li se odhlášení a opětovné přihlášení (během něhož bude stažen nový šifrovací klíč), může dojít k poškození dat. Pokusíme se Vás automaticky odhlásit, nicméně, může to chvíli trvat."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "Všechny uložené exporty s omezením účtu se stanou neplatnými."
@@ -3245,7 +3245,7 @@
     "message": "Nastavte svůj PIN kód pro odemknutí trezoru. Pokud se zcela odhlásíte z aplikace bude Váš aktuální PIN resetován."
   },
   "setPinCode": {
-    "message": "Tento PIN můžete použít k odemknutí Bitwardenu. Váš PIN bude resetován, pokud se někdy úplně odhlásíte z aplikace."
+    "message": "Tento PIN můžete použít k odemknutí VWClientu. Váš PIN bude resetován, pokud se někdy úplně odhlásíte z aplikace."
   },
   "pinRequired": {
     "message": "Je vyžadován PIN kód."
@@ -3266,7 +3266,7 @@
     "message": "Čeká se na potvrzení z aplikace v počítači"
   },
   "awaitDesktopDesc": {
-    "message": "Pro povolení biometrie v prohlížeči potvrďte její použití v desktopové aplikaci Bitwarden."
+    "message": "Pro povolení biometrie v prohlížeči potvrďte její použití v desktopové aplikaci VWClient."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Zamknout trezor při restartu prohlížeče pomocí hlavního hesla"
@@ -3381,7 +3381,7 @@
     "message": "Formulář je hostován jinou doménou než URI uloženého přihlášení. Zvolte OK pro automatické vyplnění nebo Zrušit pro zrušení."
   },
   "autofillIframeWarningTip": {
-    "message": "Aby se zabránilo tomuto varování v budoucnu, uložte tuto URI: $HOSTNAME$ do vaší přihlašovací položky Bitwarden pro tuto stránku.",
+    "message": "Aby se zabránilo tomuto varování v budoucnu, uložte tuto URI: $HOSTNAME$ do vaší přihlašovací položky VWClient pro tuto stránku.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Tato stránka narušuje zážitek z Bitwardenu. Vložené menu Bitwarden bylo dočasně vypnuto jako bezpečnostní opatření."
+    "message": "Tato stránka narušuje zážitek z VWClientu. Vložené menu VWClient bylo dočasně vypnuto jako bezpečnostní opatření."
   },
   "setMasterPassword": {
     "message": "Nastavit hlavní heslo"
@@ -3447,7 +3447,7 @@
     "message": "Vaše nové hlavní heslo nesplňuje požadavky zásad organizace."
   },
   "receiveMarketingEmails": {
-    "message": "Přijímejte aktualizace od Bitwardenu do doručené pošty."
+    "message": "Přijímejte aktualizace od VWClientu do doručené pošty."
   },
   "unsubscribe": {
     "message": "Odhlásit odběr"
@@ -3492,13 +3492,13 @@
     "message": "Integrace prohlížeče není nastavena"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Integrace prohlížeče není v aplikaci Bitwarden nastavena. Nastavte ji v aplikaci pro počítač."
+    "message": "Integrace prohlížeče není v aplikaci VWClient nastavena. Nastavte ji v aplikaci pro počítač."
   },
   "startDesktopTitle": {
-    "message": "Spustit aplikaci Bitwarden pro počítač"
+    "message": "Spustit aplikaci VWClient pro počítač"
   },
   "startDesktopDesc": {
-    "message": "Před použitím této funkce musí být spuštěna aplikace Bitwarden pro počítač."
+    "message": "Před použitím této funkce musí být spuštěna aplikace VWClient pro počítač."
   },
   "errorEnableBiometricTitle": {
     "message": "Nelze nastavit biometrii"
@@ -3552,13 +3552,13 @@
     "message": "Biometrika selhala"
   },
   "biometricsFailedDesc": {
-    "message": "Biometriku nelze dokončit, zvažte použití hlavního hesla nebo odhlášení. Pokud to přetrvává, kontaktujte podporu Bitwardenu."
+    "message": "Biometriku nelze dokončit, zvažte použití hlavního hesla nebo odhlášení. Pokud to přetrvává, kontaktujte podporu VWClientu."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Oprávnění nebylo uděleno"
   },
   "nativeMessagingPermissionErrorDesc": {
-    "message": "Bez oprávnění ke komunikaci s aplikací Bitwarden pro počítač nelze v rozšíření prohlížeče používat biometrické údaje. Zkuste to znovu."
+    "message": "Bez oprávnění ke komunikaci s aplikací VWClient pro počítač nelze v rozšíření prohlížeče používat biometrické údaje. Zkuste to znovu."
   },
   "nativeMessagingPermissionSidebarTitle": {
     "message": "Žádost o oprávnění selhala"
@@ -3595,7 +3595,7 @@
     "message": "Vyloučené domény"
   },
   "excludedDomainsDesc": {
-    "message": "Bitwarden nebude žádat o uložení přihlašovacích údajů pro tyto domény. Aby se změny projevily, musíte stránku obnovit."
+    "message": "VWClient nebude žádat o uložení přihlašovacích údajů pro tyto domény. Aby se změny projevily, musíte stránku obnovit."
   },
   "blockedDomainsDesc": {
     "message": "Automatické vyplňování a další související funkce nebudou pro tyto webové stránky nabízeny. Aby se změny projevily, musíte stránku aktualizovat."
@@ -3727,24 +3727,24 @@
     "message": "Ilustrace seznamu přihlášení, která jsou zranitelná."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Ilustrace rozložení stránky trezoru Bitwarden."
+    "message": "Ilustrace rozložení stránky trezoru VWClient."
   },
   "generatePasswordSlideDesc": {
-    "message": "Rychle vygeneruje silné, unikátní heslo s nabídkou automatického vyplňování Bitwarden na zranitelných stránkách.",
+    "message": "Rychle vygeneruje silné, unikátní heslo s nabídkou automatického vyplňování VWClient na zranitelných stránkách.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Ilustrace nabídky automatického vyplňování Bitwarden zobrazující vygenerované heslo."
+    "message": "Ilustrace nabídky automatického vyplňování VWClient zobrazující vygenerované heslo."
   },
   "updateInBitwarden": {
-    "message": "Aktualizovat v Bitwardenu"
+    "message": "Aktualizovat v VWClientu"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Bitwarden Vás poté požádá o aktualizaci hesla ve správci hesel.",
+    "message": "VWClient Vás poté požádá o aktualizaci hesla ve správci hesel.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Ilustrace oznámení v Bitwardenu, která uživatele vyzývá k aktualizaci přihlášení."
+    "message": "Ilustrace oznámení v VWClientu, která uživatele vyzývá k aktualizaci přihlášení."
   },
   "turnOnAutofill": {
     "message": "Zapnout automatické vyplňování"
@@ -4259,10 +4259,10 @@
     "message": "Chyba při načítání dat automatického vyplňování"
   },
   "couldNotDecryptVaultItem": {
-    "message": "Bitwarden nemohl dešifrovat položku z trezoru zobrazenou níže. Kontaktujte zákaznickou podporu Bitwarden a zadejte ID položky níže a zjistěte, zda je možné ji obnovit."
+    "message": "VWClient nemohl dešifrovat položku z trezoru zobrazenou níže. Kontaktujte zákaznickou podporu VWClient a zadejte ID položky níže a zjistěte, zda je možné ji obnovit."
   },
   "couldNotDecryptVaultItems": {
-    "message": "Bitwarden nemohl dešifrovat položky z trezoru zobrazené níže. Kontaktujte zákaznickou podporu Bitwarden a zadejte ID položek níže a zjistěte, zda je možné je obnovit."
+    "message": "VWClient nemohl dešifrovat položky z trezoru zobrazené níže. Kontaktujte zákaznickou podporu VWClient a zadejte ID položek níže a zjistěte, zda je možné je obnovit."
   },
   "itemId": {
     "message": "ID položky",
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Vygenerováno Bitwardenem.",
+    "message": "Vygenerováno VWClientem.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Webová stránka: $WEBSITE$. Vygenerováno Bitwardenem.",
+    "message": "Webová stránka: $WEBSITE$. Vygenerováno VWClientem.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Na Vaše zařízení bylo odesláno oznámení."
   },
   "notificationSentDevicePart1": {
-    "message": "Odemknout Bitwarden na Vašem zařízení nebo na"
+    "message": "Odemknout VWClient na Vašem zařízení nebo na"
   },
   "notificationSentDeviceAnchor": {
     "message": "webová aplikace"
@@ -5098,15 +5098,15 @@
     "message": "Přeskočit na obsah"
   },
   "bitwardenOverlayButton": {
-    "message": "Tlačítko nabídky automatického vyplňování Bitwardenu",
+    "message": "Tlačítko nabídky automatického vyplňování VWClientu",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Přepnout nabídku automatického vyplňování Bitwardenu",
+    "message": "Přepnout nabídku automatického vyplňování VWClientu",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Nabídka automatického vyplňování Bitwardenu",
+    "message": "Nabídka automatického vyplňování VWClientu",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Nabídka automatického vyplňování Bitwardenu. Pro výběr stiskněte šipku dolů.",
+    "message": "Nabídka automatického vyplňování VWClientu. Pro výběr stiskněte šipku dolů.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -5550,7 +5550,7 @@
     "message": "Navrženo s ohledem na bezpečnost"
   },
   "importDataSecureByDesignBody": {
-    "message": "End-to-end šifrované předání. Bitwarden nikdy nevidí Vaše přihlašovací údaje z $VENDOR$.",
+    "message": "End-to-end šifrované předání. VWClient nikdy nevidí Vaše přihlašovací údaje z $VENDOR$.",
     "placeholders": {
       "vendor": {
         "content": "$1",
@@ -5725,7 +5725,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "soubor sem do Bitwardenu.",
+    "message": "soubor sem do VWClientu.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -6392,7 +6392,7 @@
     "message": "Aktivní účet"
   },
   "bitwardenAccount": {
-    "message": "Účet Bitwarden"
+    "message": "Účet VWClient"
   },
   "availableAccounts": {
     "message": "Dostupné účty"
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Detekce shody URI je způsob, jakým Bitwarden identifikuje návrhy automatického vyplňování.",
+    "message": "Detekce shody URI je způsob, jakým VWClient identifikuje návrhy automatického vyplňování.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Nastavit Bitwarden jako výchozí správce hesel?",
+    "message": "Nastavit VWClient jako výchozí správce hesel?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Ignorování této volby může způsobit konflikty mezi nabídkou automatického vyplňování Bitwardenu a Vaším prohlížečem.",
+    "message": "Ignorování této volby může způsobit konflikty mezi nabídkou automatického vyplňování VWClientu a Vaším prohlížečem.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Nastavit Bitwarden jako výchozí správce hesel",
+    "message": "Nastavit VWClient jako výchozí správce hesel",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Bitwarden nelze nastavit jako výchozí správce hesel",
+    "message": "VWClient nelze nastavit jako výchozí správce hesel",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Pro nastavení jako výchozí správce hesel musíte Bitwardenu udělit oprávnění zabezpečení v prohlížeči.",
+    "message": "Pro nastavení jako výchozí správce hesel musíte VWClientu udělit oprávnění zabezpečení v prohlížeči.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Nastavit Bitwarden jako výchozí správce hesel Vašeho prohlížeče"
+    "message": "Nastavit VWClient jako výchozí správce hesel Vašeho prohlížeče"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Nastavit Bitwarden jako výchozí správce hesel",
+    "message": "Nastavit VWClient jako výchozí správce hesel",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "z výzvy prohlížeče, abyste udělili aplikaci Bitwarden oprávnění ke změně Vašich nastavení."
+    "message": "z výzvy prohlížeče, abyste udělili aplikaci VWClient oprávnění ke změně Vašich nastavení."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Vypneme vestavěný správce hesel ve Vašem prohlížeči, abyste se mohli bezpečně přihlásit."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Bitwarden byl nastaven jako váš výchozí správce hesel prohlížeče"
+    "message": "VWClient byl nastaven jako váš výchozí správce hesel prohlížeče"
   },
   "allow": {
     "message": "Povolit",
@@ -6952,16 +6952,16 @@
     "message": "Stáhnout přílohu"
   },
   "downloadBitwarden": {
-    "message": "Stáhnout Bitwarden"
+    "message": "Stáhnout VWClient"
   },
   "downloadBitwardenOnAllDevices": {
-    "message": "Stáhnout Bitwarden na všech zařízeních"
+    "message": "Stáhnout VWClient na všech zařízeních"
   },
   "getTheMobileApp": {
     "message": "Získejte mobilní aplikaci"
   },
   "getTheMobileAppDesc": {
-    "message": "Přistupujte k Vašim heslům pomocí mobilní aplikace Bitwarden."
+    "message": "Přistupujte k Vašim heslům pomocí mobilní aplikace VWClient."
   },
   "getTheDesktopApp": {
     "message": "Získejte desktopovou aplikaci"
@@ -7514,10 +7514,10 @@
     "message": "Biometrické odemknutí není dostupné kvůli chybnému nastavení systémových souborů."
   },
   "biometricsStatusHelptextDesktopDisconnected": {
-    "message": "Biometrické odemknutí není dostupné, protože je aplikace Bitwarden zavřena."
+    "message": "Biometrické odemknutí není dostupné, protože je aplikace VWClient zavřena."
   },
   "biometricsStatusHelptextNotEnabledInDesktop": {
-    "message": "Biometrické odemknutí není dostupné, protože není povoleno pro $EMAIL$ v desktopové aplikaci Bitwarden.",
+    "message": "Biometrické odemknutí není dostupné, protože není povoleno pro $EMAIL$ v desktopové aplikaci VWClient.",
     "placeholders": {
       "email": {
         "content": "$1",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Uložit do Bitwardenu",
+    "message": "Uložit do VWClientu",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Používejte složky k organizaci položek v trezoru. Jsou jen pro Vás. Nikdo jiný je nebude vidět ani používat."
   },
   "introCarouselLabel": {
-    "message": "Vítejte v Bitwardenu"
+    "message": "Vítejte v VWClientu"
   },
   "securityPrioritized": {
     "message": "Bezpečnost, priorita"
   },
   "securityPrioritizedBody": {
-    "message": "Uložte si přihlašovací údaje, karty a identity do zabezpečeného trezoru. Bitwarden používá šifrování end-to-end s nulovou znalostí, aby ochránil to, co je pro Vás důležité."
+    "message": "Uložte si přihlašovací údaje, karty a identity do zabezpečeného trezoru. VWClient používá šifrování end-to-end s nulovou znalostí, aby ochránil to, co je pro Vás důležité."
   },
   "quickLogin": {
     "message": "Rychlé a snadné přihlášení"
@@ -7817,7 +7817,7 @@
     "message": "Vaše data, kdy a kde je potřebujete"
   },
   "secureDevicesBody": {
-    "message": "Uložte neomezená hesla na neomezených zařízeních s Bitwardenem na mobilu, prohlížeči a desktopové aplikaci."
+    "message": "Uložte neomezená hesla na neomezených zařízeních s VWClientem na mobilu, prohlížeči a desktopové aplikaci."
   },
   "nudgeBadgeAria": {
     "message": "1 oznámení"
@@ -7826,7 +7826,7 @@
     "message": "Importovat existující hesla"
   },
   "emptyVaultNudgeBody": {
-    "message": "Pomocí importu rychle přenesete přihlašovací údaje do Bitwardenu a to bez jejich ručního přidání."
+    "message": "Pomocí importu rychle přenesete přihlašovací údaje do VWClientu a to bez jejich ručního přidání."
   },
   "emptyVaultNudgeButton": {
     "message": "Importovat nyní"
@@ -7945,7 +7945,7 @@
     "message": "O tomto nastavení"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden bude používat uložené přihlašovací URI k identifikaci, která ikona nebo změna adresy URL by měla být použita pro zlepšení Vašeho zážitku. Při používání této služby nejsou shromažďovány ani ukládány žádné informace."
+    "message": "VWClient bude používat uložené přihlašovací URI k identifikaci, která ikona nebo změna adresy URL by měla být použita pro zlepšení Vašeho zážitku. Při používání této služby nejsou shromažďovány ani ukládány žádné informace."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Přidá vedle položek 3 tlačítka pro rychlé kopírování, pomocí kterých můžete zkopírovat své uživatelské jméno, heslo nebo ověřovací kód do schránky."
@@ -7954,7 +7954,7 @@
     "message": "Nemáte oprávnění k zobrazení této stránky. Zkuste se přihlásit jiným účtem."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly není ve Vašem prohlížeči podporováno nebo není povoleno. WebAssembly je vyžadováno pro použití aplikace Bitwarden.",
+    "message": "WebAssembly není ve Vašem prohlížeči podporováno nebo není povoleno. WebAssembly je vyžadováno pro použití aplikace VWClient.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8042,7 +8042,7 @@
     "message": "Chyba: Nelze dešifrovat"
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "Vaše organizace již k přihlášení do Bitwardenu nepoužívá hlavní hesla. Chcete-li pokračovat, ověřte organizaci a doménu."
+    "message": "Vaše organizace již k přihlášení do VWClientu nepoužívá hlavní hesla. Chcete-li pokračovat, ověřte organizaci a doménu."
   },
   "continueWithLogIn": {
     "message": "Pokračovat s přihlášením"
@@ -8128,7 +8128,7 @@
     "message": "Nastavte metodu odemknutí, abyste změnili akci při vypršení časového limitu"
   },
   "sessionTimeoutSuppressedByConnectedDevice": {
-    "message": "Spravováno desktopovou aplikací Bitwarden. Pro úpravu otevřete desktopovou aplikaci."
+    "message": "Spravováno desktopovou aplikací VWClient. Pro úpravu otevřete desktopovou aplikaci."
   },
   "percentageCompleted": {
     "message": "$PERCENT$ % dokončeno",
@@ -8230,7 +8230,7 @@
     "message": "user@bitwarden.com, user@acme.com"
   },
   "downloadBitwardenApps": {
-    "message": "Stáhnout aplikace Bitwarden"
+    "message": "Stáhnout aplikace VWClient"
   },
   "emailProtected": {
     "message": "E-mail je chráněný"
@@ -8249,7 +8249,7 @@
     "message": "Synchronizovat odemknutí v aplikaci pro počítač"
   },
   "syncUnlockWithDesktopDescription1": {
-    "message": "Rozšíření prohlížeče Bitwarden a zamykání a odemykání podle desktopové aplikace dohromady. Pokud je dostupná biometrika, použije se."
+    "message": "Rozšíření prohlížeče VWClient a zamykání a odemykání podle desktopové aplikace dohromady. Pokud je dostupná biometrika, použije se."
   },
   "sharedUnlockUnavailableUntrustedDevice": {
     "message": "Sdílené odemknutí není k dispozici, protože jste se rozhodli nepamatovat si toto zařízení. Chcete-li toto nastavení povolit, zkuste se znovu přihlásit."
@@ -8258,13 +8258,13 @@
     "message": "Je vyžadováno nové oprávnění"
   },
   "sharedUnlockDesktopPermissionDesc": {
-    "message": "Aby bylo možné používat funkci sdíleného odemykání, potřebuje Bitwarden oprávnění ke komunikaci s desktopovou aplikací. Pokud budete pokračovat, Váš prohlížeč Vás požádá o schválení tohoto oprávnění."
+    "message": "Aby bylo možné používat funkci sdíleného odemykání, potřebuje VWClient oprávnění ke komunikaci s desktopovou aplikací. Pokud budete pokračovat, Váš prohlížeč Vás požádá o schválení tohoto oprávnění."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Bitwarden se uzamkne a znovu se načte. Po Vašem schválení se rozšíření znovu načte a uzamkne Váš trezor."
+    "message": "VWClient se uzamkne a znovu se načte. Po Vašem schválení se rozšíření znovu načte a uzamkne Váš trezor."
   },
   "biometricPermissionDesc": {
-    "message": "Aby bylo možné používat funkci biometrického odemykání, potřebuje Bitwarden oprávnění ke komunikaci s desktopovou aplikací. Pokud budete pokračovat, Váš prohlížeč Vás požádá o schválení tohoto oprávnění."
+    "message": "Aby bylo možné používat funkci biometrického odemykání, potřebuje VWClient oprávnění ke komunikaci s desktopovou aplikací. Pokud budete pokračovat, Váš prohlížeč Vás požádá o schválení tohoto oprávnění."
   },
   "enterMonth": {
     "message": "Zadejte měsíc."
@@ -8767,15 +8767,15 @@
     "message": "Nelze určit ID položky"
   },
   "newExperienceDialogTitle": {
-    "message": "Bitwarden má nový vzhled",
+    "message": "VWClient má nový vzhled",
     "description": "Title of the dialog that introduces the redesigned vault to existing users."
   },
   "newExperienceDialogDesc": {
-    "message": "Lepší uživatelský zážitek, stejná osvědčená bezpečnost. Trezor Bitwarden byl přepracován na základě Vašich připomínek, takže vše najdete snáze a funguje přesně tak, jak byste očekávali.",
+    "message": "Lepší uživatelský zážitek, stejná osvědčená bezpečnost. Trezor VWClient byl přepracován na základě Vašich připomínek, takže vše najdete snáze a funguje přesně tak, jak byste očekávali.",
     "description": "Body copy of the dialog that introduces the redesigned vault to existing users."
   },
   "newExperienceDialogImgAlt": {
-    "message": "Náhled přepracovaného trezoru Bitwarden.",
+    "message": "Náhled přepracovaného trezoru VWClient.",
     "description": "Alt text for the screenshot shown in the dialog that introduces the redesigned vault."
   },
   "exploreTheNewVault": {

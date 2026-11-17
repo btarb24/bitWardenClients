@@ -87,7 +87,7 @@ describe("Messenger", () => {
         origin: "https://bitwarden.com",
         data: {
           ...createRequest(),
-          SENDER: "bitwarden-webauthn",
+          SENDER: "vwc-webauthn",
           senderId: "other",
           ...(dataOverrides ?? {}),
         },
@@ -143,7 +143,7 @@ describe("Messenger", () => {
       messengerB.handler = handlerB.handler;
 
       const event = new MessageEvent<MessageWithMetadata>("message", {
-        data: { ...createRequest(), SENDER: "bitwarden-webauthn", senderId: "other" },
+        data: { ...createRequest(), SENDER: "vwc-webauthn", senderId: "other" },
         origin: "https://bitwarden.com",
         ports: [],
       });

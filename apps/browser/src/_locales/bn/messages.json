@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "VWClient"
   },
   "appLogoLabel": {
     "message": "বিটওয়ার্ডেন লোগো"
   },
   "extName": {
-    "message": "বিটওয়ার্ডেন পাসওয়ার্ড ম্যানেজার",
+    "message": "VWClient",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "বিটওয়ার্ডেন পাসওয়ার্ড ম্যানেজার বিটা",
+    "message": "VWClient Beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "বাড়িতে, অফিসে বা চলার পথে, বিটওয়ার্ডেন আপনার সমস্ত পাসওয়ার্ড, পাসকী এবং সংবেদনশীল তথ্য সহজে সুরক্ষিত করে",
+    "message": "VWClient",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -1333,7 +1333,7 @@
     "message": "সেটিংয়ে যান"
   },
   "notificationAddDesc": {
-    "message": "Bitwarden আপনার জন্য এই পাসওয়ার্ডটি মনে রাখবে?"
+    "message": "VWClient আপনার জন্য এই পাসওয়ার্ডটি মনে রাখবে?"
   },
   "notificationAddSave": {
     "message": "হ্যাঁ, এখনই সংরক্ষণ করুন"
@@ -1471,7 +1471,7 @@
     "message": "নতুন পাসকী সংরক্ষণ করতে বা আপনার ভল্টে সংরক্ষিত পাসকী দিয়ে লগ ইন করতে বলুন। সমস্ত লগ ইন করা অ্যাকাউন্টে প্রযোজ্য।"
   },
   "notificationChangeDesc": {
-    "message": "আপনি কি এই পাসওয়ার্ডটি Bitwarden এ হালনাগাদ করতে চান?"
+    "message": "আপনি কি এই পাসওয়ার্ডটি VWClient এ হালনাগাদ করতে চান?"
   },
   "notificationChangeSave": {
     "message": "হ্যাঁ, এখনই হালনাগাদ করুন"
@@ -1842,7 +1842,7 @@
     "message": "শেয়ার করা ফোল্ডার যোগ করুন"
   },
   "bitwardenForBusinessPageDesc": {
-    "message": "Bitwarden for Business আপনাকে একটি সংস্থা ব্যবহার করে আপনার ভল্ট আইটেম অন্যদের সাথে শেয়ার করতে দেয়। bitwarden.com ওয়েবসাইটে আরও জানুন।"
+    "message": "VWClient for Business আপনাকে একটি সংস্থা ব্যবহার করে আপনার ভল্ট আইটেম অন্যদের সাথে শেয়ার করতে দেয়। bitwarden.com ওয়েবসাইটে আরও জানুন।"
   },
   "moveToOrganization": {
     "message": "সংস্থায় সরান"
@@ -3202,7 +3202,7 @@
     "message": "দুর্বল মূল পাসওয়ার্ড"
   },
   "weakMasterPasswordDesc": {
-    "message": "আপনার চয়নকৃত মূল পাসওয়ার্ডটি দুর্বল। আপনার Bitwarden অ্যাকাউন্টটি সঠিকভাবে সুরক্ষিত করার জন্য আপনার একটি শক্তিশালী মূল পাসওয়ার্ড (বা একটি পাসফ্রেজ) ব্যবহার করা উচিত। আপনি কি নিশ্চিত যে এই মূল পাসওয়ার্ডটি ব্যবহার করতে চান?"
+    "message": "আপনার চয়নকৃত মূল পাসওয়ার্ডটি দুর্বল। আপনার VWClient অ্যাকাউন্টটি সঠিকভাবে সুরক্ষিত করার জন্য আপনার একটি শক্তিশালী মূল পাসওয়ার্ড (বা একটি পাসফ্রেজ) ব্যবহার করা উচিত। আপনি কি নিশ্চিত যে এই মূল পাসওয়ার্ডটি ব্যবহার করতে চান?"
   },
   "rotateAccountEncKey": {
     "message": "আমার অ্যাকাউন্টের এনক্রিপশন কী ও রোটেট করুন"
@@ -3242,7 +3242,7 @@
     "message": "PIN সেট করুন"
   },
   "setYourPinCode": {
-    "message": "Bitwarden আনলক করার জন্য আপনার পিন কোডটি সেট করুন। আপনি যদি অ্যাপ্লিকেশনটি থেকে পুরোপুরি লগ আউট করেন তবে আপনার পিন সেটিংস রিসেট করা হবে।"
+    "message": "VWClient আনলক করার জন্য আপনার পিন কোডটি সেট করুন। আপনি যদি অ্যাপ্লিকেশনটি থেকে পুরোপুরি লগ আউট করেন তবে আপনার পিন সেটিংস রিসেট করা হবে।"
   },
   "setPinCode": {
     "message": "আপনি বিটওয়ার্ডেন আনলক করতে এই PIN ব্যবহার করতে পারেন। আপনি যদি কখনও অ্যাপ্লিকেশন থেকে সম্পূর্ণ লগ আউট করেন তবে আপনার PIN রিসেট হবে।"
@@ -3266,7 +3266,7 @@
     "message": "ডেস্কটপ থেকে নিশ্চিতকরণের অপেক্ষায়"
   },
   "awaitDesktopDesc": {
-    "message": "ব্রাউজারের জন্য বায়োমেট্রিক্স সক্ষম করতে দয়া করে Bitwarden ডেস্কটপ অ্যাপ্লিকেশনটিতে বায়োমেট্রিক্স ব্যবহার সক্ষম করুন।"
+    "message": "ব্রাউজারের জন্য বায়োমেট্রিক্স সক্ষম করতে দয়া করে VWClient ডেস্কটপ অ্যাপ্লিকেশনটিতে বায়োমেট্রিক্স ব্যবহার সক্ষম করুন।"
   },
   "lockWithMasterPassOnRestart": {
     "message": "ব্রাউজার পুনরারম্ভতে মূল পাসওয়ার্ড দিয়ে লক করুন"
@@ -3492,13 +3492,13 @@
     "message": "ব্রাউজার একীকরণ সক্ষম নেই"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Bitwarden ডেস্কটপ অ্যাপ্লিকেশনটিতে ব্রাউজার ইন্টিগ্রেশন সক্ষম নেই। ডেস্কটপ অ্যাপ্লিকেশন মধ্যে সেটিংস এ দয়া করে এটি সক্ষম করুন।"
+    "message": "VWClient ডেস্কটপ অ্যাপ্লিকেশনটিতে ব্রাউজার ইন্টিগ্রেশন সক্ষম নেই। ডেস্কটপ অ্যাপ্লিকেশন মধ্যে সেটিংস এ দয়া করে এটি সক্ষম করুন।"
   },
   "startDesktopTitle": {
-    "message": "Bitwarden ডেস্কটপ অ্যাপ্লিকেশন শুরু করুন"
+    "message": "VWClient ডেস্কটপ অ্যাপ্লিকেশন শুরু করুন"
   },
   "startDesktopDesc": {
-    "message": "এই ক্রিয়াকলাপ ব্যবহার করার পূর্বে Bitwarden ডেস্কটপ অ্যাপ্লিকেশনটি শুরু করা দরকার।"
+    "message": "এই ক্রিয়াকলাপ ব্যবহার করার পূর্বে VWClient ডেস্কটপ অ্যাপ্লিকেশনটি শুরু করা দরকার।"
   },
   "errorEnableBiometricTitle": {
     "message": "বায়োমেট্রিক্স সক্ষম করতে অক্ষম"
@@ -5550,7 +5550,7 @@
     "message": "Secure by design"
   },
   "importDataSecureByDesignBody": {
-    "message": "End-to-end encrypted handoff. Bitwarden never sees your $VENDOR$ login details.",
+    "message": "End-to-end encrypted handoff. VWClient never sees your $VENDOR$ login details.",
     "placeholders": {
       "vendor": {
         "content": "$1",
@@ -8249,7 +8249,7 @@
     "message": "Synchronize unlock with desktop"
   },
   "syncUnlockWithDesktopDescription1": {
-    "message": "The Bitwarden browser extension and desktop app lock and unlock together. Biometrics will be used if available."
+    "message": "The VWClient browser extension and desktop app lock and unlock together. Biometrics will be used if available."
   },
   "sharedUnlockUnavailableUntrustedDevice": {
     "message": "শেয়ার করা আনলক উপলব্ধ নয় কারণ আপনি এই ডিভাইসটি মনে রাখতে চাননি। এই সেটিং সক্ষম করতে, আবার লগ ইন করার চেষ্টা করুন।"
@@ -8767,15 +8767,15 @@
     "message": "Unable to determine item ID"
   },
   "newExperienceDialogTitle": {
-    "message": "Bitwarden has a new look",
+    "message": "VWClient has a new look",
     "description": "Title of the dialog that introduces the redesigned vault to existing users."
   },
   "newExperienceDialogDesc": {
-    "message": "Better experience, same trusted security. The Bitwarden vault has been redesigned based on your feedback, so things are easier to find and work like you'd expect.",
+    "message": "Better experience, same trusted security. The VWClient vault has been redesigned based on your feedback, so things are easier to find and work like you'd expect.",
     "description": "Body copy of the dialog that introduces the redesigned vault to existing users."
   },
   "newExperienceDialogImgAlt": {
-    "message": "A preview of the redesigned Bitwarden vault.",
+    "message": "A preview of the redesigned VWClient vault.",
     "description": "Alt text for the screenshot shown in the dialog that introduces the redesigned vault."
   },
   "exploreTheNewVault": {

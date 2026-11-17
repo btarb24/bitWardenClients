@@ -1,20 +1,20 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "VWClient"
   },
   "appLogoLabel": {
-    "message": "Bitwarden-Logo"
+    "message": "VWClient-Logo"
   },
   "extName": {
-    "message": "Bitwarden Passwortmanager",
+    "message": "VWClient",
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extNameBeta": {
-    "message": "Bitwarden Passwort-Manager Beta",
+    "message": "VWClient Beta",
     "description": "Extension name for the beta channel, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "Bitwarden schützt alle deine Passwörter, Passkeys und vertrauliche Informationen - egal, wo du bist.",
+    "message": "VWClient",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -27,7 +27,7 @@
     "message": "Konto erstellen"
   },
   "newToBitwarden": {
-    "message": "Neu bei Bitwarden?"
+    "message": "Neu bei VWClient?"
   },
   "logInWithPasskey": {
     "message": "Mit Passkey anmelden"
@@ -324,22 +324,22 @@
     "message": "Weiter zur Web-App?"
   },
   "continueToWebAppDesc": {
-    "message": "Entdecke weitere Funktionen deines Bitwarden-Kontos in der Web-App."
+    "message": "Entdecke weitere Funktionen deines VWClient-Kontos in der Web-App."
   },
   "continueToHelpCenter": {
     "message": "Weiter zum Hilfezentrum?"
   },
   "continueToHelpCenterDesc": {
-    "message": "Erfahre mehr über die Verwendung von Bitwarden im Hilfezentrum."
+    "message": "Erfahre mehr über die Verwendung von VWClient im Hilfezentrum."
   },
   "continueToBrowserExtensionStore": {
     "message": "Weiter zum Store für Browser-Erweiterungen?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Hilf anderen herauszufinden, ob Bitwarden für sie das Richtige ist. Besuch den Erweiterungs-Store deines Browsers und hinterlasse jetzt eine Bewertung."
+    "message": "Hilf anderen herauszufinden, ob VWClient für sie das Richtige ist. Besuch den Erweiterungs-Store deines Browsers und hinterlasse jetzt eine Bewertung."
   },
   "changeMasterPasswordOnWebConfirmation": {
-    "message": "Du kannst dein Master-Passwort in der Bitwarden Web-App ändern."
+    "message": "Du kannst dein Master-Passwort in der VWClient Web-App ändern."
   },
   "fingerprintPhrase": {
     "message": "Fingerabdruck-Phrase",
@@ -356,31 +356,31 @@
     "message": "Abmelden"
   },
   "aboutBitwarden": {
-    "message": "Über Bitwarden"
+    "message": "Über VWClient"
   },
   "about": {
     "message": "Über uns"
   },
   "moreFromBitwarden": {
-    "message": "Mehr von Bitwarden"
+    "message": "Mehr von VWClient"
   },
   "continueToBitwardenDotCom": {
     "message": "Weiter zu bitwarden.com?"
   },
   "bitwardenForBusiness": {
-    "message": "Bitwarden für Unternehmen"
+    "message": "VWClient für Unternehmen"
   },
   "bitwardenAuthenticator": {
-    "message": "Bitwarden Authenticator"
+    "message": "VWClient Authenticator"
   },
   "continueToAuthenticatorPageDesc": {
-    "message": "Mit dem Bitwarden Authenticator kannst du Authentifizierungsschlüssel speichern und TOTP-Codes für Zwei-Faktor-Verifizierungsprozesse generieren. Erfahre mehr auf der bitwarden.com Website"
+    "message": "Mit dem VWClient Authenticator kannst du Authentifizierungsschlüssel speichern und TOTP-Codes für Zwei-Faktor-Verifizierungsprozesse generieren. Erfahre mehr auf der bitwarden.com Website"
   },
   "bitwardenSecretsManager": {
-    "message": "Bitwarden Secrets Manager"
+    "message": "VWClient Secrets Manager"
   },
   "continueToSecretsManagerPageDesc": {
-    "message": "Speicher, verwalte und teile Entwicklergeheimnisse sicher mit dem Bitwarden Secrets Manager. Erfahre mehr auf der bitwarden.com Website."
+    "message": "Speicher, verwalte und teile Entwicklergeheimnisse sicher mit dem VWClient Secrets Manager. Erfahre mehr auf der bitwarden.com Website."
   },
   "passwordlessDotDev": {
     "message": "Passwordless.dev"
@@ -389,10 +389,10 @@
     "message": "Erstelle reibungslose und sichere Anmeldeerfahrungen ohne herkömmliche Passwörter mit Passwordless.dev. Erfahre mehr auf der bitwarden.com Website."
   },
   "freeBitwardenFamilies": {
-    "message": "Free Bitwarden Families"
+    "message": "Free VWClient Families"
   },
   "freeBitwardenFamiliesPageDesc": {
-    "message": "Du bist für Free Bitwarden Families berechtigt. Löse dieses Angebot heute in der Web-App ein."
+    "message": "Du bist für Free VWClient Families berechtigt. Löse dieses Angebot heute in der Web-App ein."
   },
   "version": {
     "message": "Version"
@@ -458,13 +458,13 @@
     "message": "Hilfe & Feedback"
   },
   "helpCenter": {
-    "message": "Bitwarden Hilfezentrum"
+    "message": "VWClient Hilfezentrum"
   },
   "communityForums": {
-    "message": "Bitwarden Community-Foren erkunden"
+    "message": "VWClient Community-Foren erkunden"
   },
   "contactSupport": {
-    "message": "Bitwarden Support kontaktieren"
+    "message": "VWClient Support kontaktieren"
   },
   "sync": {
     "message": "Synchronisierung"
@@ -486,7 +486,7 @@
     "message": "Generiert automatisch ein starkes und einzigartiges Passwort."
   },
   "bitWebVaultApp": {
-    "message": "Bitwarden Web-App"
+    "message": "VWClient Web-App"
   },
   "select": {
     "message": "Auswählen"
@@ -864,7 +864,7 @@
     "message": "Lade den Diagnosebericht herunter und sende ihn an den"
   },
   "bitwardenSupport": {
-    "message": "Bitwarden Support",
+    "message": "VWClient Support",
     "description": "Link text following the troubleshooting description sentence. 'Bitwarden' should not be translated."
   },
   "download": {
@@ -1081,10 +1081,10 @@
     "message": "Zwei-Faktor-Authentifizierung nahtlos gestalten"
   },
   "totpHelper": {
-    "message": "Bitwarden kann Zwei-Faktor-Authentifizierungsscodes speichern und ausfüllen. Kopiere und füge den Schlüssel in dieses Feld ein."
+    "message": "VWClient kann Zwei-Faktor-Authentifizierungsscodes speichern und ausfüllen. Kopiere und füge den Schlüssel in dieses Feld ein."
   },
   "totpHelperWithCapture": {
-    "message": "Bitwarden kann Zwei-Faktor-Authentifizierungsscodes speichern und ausfüllen. Wähle das Kamerasymbol aus, um einen Screenshot des Authenticator-QR-Codes dieser Website zu machen oder kopiere und füge den Schlüssel in dieses Feld ein."
+    "message": "VWClient kann Zwei-Faktor-Authentifizierungsscodes speichern und ausfüllen. Wähle das Kamerasymbol aus, um einen Screenshot des Authenticator-QR-Codes dieser Website zu machen oder kopiere und füge den Schlüssel in dieses Feld ein."
   },
   "learnMoreAboutAuthenticators": {
     "message": "Erfahre mehr über Authenticator-Apps"
@@ -1174,7 +1174,7 @@
     "message": "Mit der Zwei-Faktor-Authentifizierung wird dein Konto zusätzlich abgesichert, da jede Anmeldung mit einem anderen Gerät wie einem Sicherheitsschlüssel, einer Authentifizierungs-App, einer SMS, einem Anruf oder einer E-Mail verifiziert werden muss. Die Zwei-Faktor-Authentifizierung kann im bitwarden.com Web-Tresor aktiviert werden. Möchtest du die Website jetzt öffnen?"
   },
   "twoStepLoginConfirmationContent": {
-    "message": "Mache dein Konto sicherer, indem du eine Zwei-Faktor-Authentifizierung in der Bitwarden Web-App einrichtest."
+    "message": "Mache dein Konto sicherer, indem du eine Zwei-Faktor-Authentifizierung in der VWClient Web-App einrichtest."
   },
   "twoStepLoginConfirmationTitle": {
     "message": "Weiter zur Web-App?"
@@ -1333,7 +1333,7 @@
     "message": "Zur Einstellung wechseln"
   },
   "notificationAddDesc": {
-    "message": "Soll Bitwarden sich dieses Passwort merken?"
+    "message": "Soll VWClient sich dieses Passwort merken?"
   },
   "notificationAddSave": {
     "message": "Speichern"
@@ -1369,11 +1369,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "in Bitwarden gespeichert.",
+    "message": "in VWClient gespeichert.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "in Bitwarden aktualisiert.",
+    "message": "in VWClient aktualisiert.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1471,13 +1471,13 @@
     "message": "Danach fragen neue Passkeys zu speichern oder sich mit in deinem Tresor gespeicherten Passkeys anmelden. Gilt für alle angemeldeten Konten."
   },
   "notificationChangeDesc": {
-    "message": "Möchtest du dieses Passwort in Bitwarden aktualisieren?"
+    "message": "Möchtest du dieses Passwort in VWClient aktualisieren?"
   },
   "notificationChangeSave": {
     "message": "Aktualisieren"
   },
   "notificationUnlockDesc": {
-    "message": "Entsperre deinen Bitwarden Tresor, um die Auto-Ausfüllen-Anfrage abzuschließen."
+    "message": "Entsperre deinen VWClient Tresor, um die Auto-Ausfüllen-Anfrage abzuschließen."
   },
   "notificationUnlock": {
     "message": "Entsperren"
@@ -1786,10 +1786,10 @@
     "message": "Dieses Passwort wird zum Exportieren und Importieren dieser Datei verwendet"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Verwende den Verschlüsselungsschlüssel deines Kontos, abgeleitet vom Benutzernamen und Master-Passwort, um den Export zu verschlüsseln und den Import auf das aktuelle Bitwarden-Konto zu beschränken."
+    "message": "Verwende den Verschlüsselungsschlüssel deines Kontos, abgeleitet vom Benutzernamen und Master-Passwort, um den Export zu verschlüsseln und den Import auf das aktuelle VWClient-Konto zu beschränken."
   },
   "passwordProtectedOptionDescription": {
-    "message": "Lege ein Dateipasswort fest, um den Export zu verschlüsseln und importiere ihn in ein beliebiges Bitwarden-Konto, wobei das Passwort zum Entschlüsseln genutzt wird."
+    "message": "Lege ein Dateipasswort fest, um den Export zu verschlüsseln und importiere ihn in ein beliebiges VWClient-Konto, wobei das Passwort zum Entschlüsseln genutzt wird."
   },
   "exportTypeHeading": {
     "message": "Exporttyp"
@@ -1818,7 +1818,7 @@
     "message": "Dieser Export verschlüsselt deine Daten mit dem Verschlüsselungscode deines Kontos. Falls du deinen Verschlüsselungscode erneuerst, solltest du den Export erneut durchführen, da du die zuvor erstellte Datei ansonsten nicht mehr entschlüsseln kannst."
   },
   "encExportAccountWarningDesc": {
-    "message": "Die Verschlüsselungscodes eines Kontos sind für jedes Bitwarden Benutzerkonto einzigartig, deshalb kannst du keinen verschlüsselten Export in ein anderes Konto importieren."
+    "message": "Die Verschlüsselungscodes eines Kontos sind für jedes VWClient Benutzerkonto einzigartig, deshalb kannst du keinen verschlüsselten Export in ein anderes Konto importieren."
   },
   "exportMasterPassword": {
     "message": "Gib das Masterpasswort ein, um deine Tresordaten zu exportieren."
@@ -1842,7 +1842,7 @@
     "message": "Geteilten Ordner hinzufügen"
   },
   "bitwardenForBusinessPageDesc": {
-    "message": "Bitwarden für Unternehmen erlaubt es dir, deine Tresor-Einträge mit anderen zu teilen, indem du eine Organisation verwendest. Erfahre mehr auf der bitwarden.com Website."
+    "message": "VWClient für Unternehmen erlaubt es dir, deine Tresor-Einträge mit anderen zu teilen, indem du eine Organisation verwendest. Erfahre mehr auf der bitwarden.com Website."
   },
   "moveToOrganization": {
     "message": "In Organisation verschieben"
@@ -1996,7 +1996,7 @@
     "message": "Mitgliedschaft verwalten"
   },
   "premiumManageAlert": {
-    "message": "Du kannst deine Mitgliedschaft im Bitwarden.com Webtresor verwalten. Möchtest du die Seite jetzt aufrufen?"
+    "message": "Du kannst deine Mitgliedschaft im VWClient.com Webtresor verwalten. Möchtest du die Seite jetzt aufrufen?"
   },
   "premiumRefresh": {
     "message": "Mitgliedschaft erneuern"
@@ -2044,7 +2044,7 @@
     "message": "Premium-Mitgliedschaft kaufen"
   },
   "premiumPurchaseAlertV2": {
-    "message": "Du kannst Premium über deine Kontoeinstellungen in der Bitwarden Web-App kaufen."
+    "message": "Du kannst Premium über deine Kontoeinstellungen in der VWClient Web-App kaufen."
   },
   "premiumFeatures": {
     "message": "Upgrade auf Premium und erhalte:"
@@ -2150,7 +2150,7 @@
     "message": "Authenticator App"
   },
   "authenticatorAppDescV2": {
-    "message": "Gib einen Code ein, der von einer Authentifizierungs-App wie dem Bitwarden Authenticator generiert wurde.",
+    "message": "Gib einen Code ein, der von einer Authentifizierungs-App wie dem VWClient Authenticator generiert wurde.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -2183,7 +2183,7 @@
     "message": "Selbst gehostete Umgebung"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Gib die Basis-URL deiner vor Ort gehosteten Bitwarden-Installation an. Beispiel: https://bitwarden.company.com"
+    "message": "Gib die Basis-URL deiner vor Ort gehosteten VWClient-Installation an. Beispiel: https://bitwarden.company.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Für eine erweiterte Konfiguration kannst du die Basis-URL jedes Dienstes unabhängig voneinander angeben."
@@ -2236,7 +2236,7 @@
     "message": "Auto-Ausfüllen-Vorschläge einfach finden"
   },
   "autofillSpotlightDesc": {
-    "message": "Deaktiviere die Auto-Ausfüllen-Einstellungen deines Browsers, damit sie nicht mit Bitwarden in Konflikt geraten."
+    "message": "Deaktiviere die Auto-Ausfüllen-Einstellungen deines Browsers, damit sie nicht mit VWClient in Konflikt geraten."
   },
   "turnOffBrowserAutofill": {
     "message": "$BROWSER$ Auto-Ausfüllen deaktivieren",
@@ -2293,7 +2293,7 @@
     "message": "Vorschläge zum Auto-Ausfüllen in Formularfeldern anzeigen"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "Wie schützt Bitwarden deine Daten vor Phishing?"
+    "message": "Wie schützt VWClient deine Daten vor Phishing?"
   },
   "currentWebsite": {
     "message": "Aktuelle Website"
@@ -3202,7 +3202,7 @@
     "message": "Schwaches Master-Passwort"
   },
   "weakMasterPasswordDesc": {
-    "message": "Das Haupt-Passwort, das du gewählt hast ist schwach. Du solltest ein starkes Haupt-Passwort auswählen, um dein Bitwarden-Konto richtig zu schützen. Bist du sicher, dass du dieses Haupt-Passwort verwenden sollen?"
+    "message": "Das Haupt-Passwort, das du gewählt hast ist schwach. Du solltest ein starkes Haupt-Passwort auswählen, um dein VWClient-Konto richtig zu schützen. Bist du sicher, dass du dieses Haupt-Passwort verwenden sollen?"
   },
   "rotateAccountEncKey": {
     "message": "Auch den Verschlüsselungsschlüssel meines Kontos erneuern"
@@ -3214,7 +3214,7 @@
     "message": "Bist du sicher, dass du deinen Verschlüsselungsschlüssel erneuern möchtest?"
   },
   "updateEncryptionKeyWarning": {
-    "message": "Nach der Aktualisierung deines Verschlüsselungsschlüssels musst du dich bei allen Bitwarden-Anwendungen, die du momentan benutzt, erneut anmelden (wie z.B. die mobile App oder die Browser-Erweiterungen). Fehler bei Ab- und Anmeldung (die deinen neuen Verschlüsselungsschlüssel herunterlädt) könnte zu einer Beschädigung der Daten führen. Wir werden versuchen dich automatisch abzumelden, was jedoch verzögert geschehen kann."
+    "message": "Nach der Aktualisierung deines Verschlüsselungsschlüssels musst du dich bei allen VWClient-Anwendungen, die du momentan benutzt, erneut anmelden (wie z.B. die mobile App oder die Browser-Erweiterungen). Fehler bei Ab- und Anmeldung (die deinen neuen Verschlüsselungsschlüssel herunterlädt) könnte zu einer Beschädigung der Daten führen. Wir werden versuchen dich automatisch abzumelden, was jedoch verzögert geschehen kann."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "Alle von dir gespeicherten Exporte mit Konto-Beschränkungen werden ungültig."
@@ -3242,10 +3242,10 @@
     "message": "PIN festlegen"
   },
   "setYourPinCode": {
-    "message": "Gebe deinen PIN-Code für das Entsperren von Bitwarden ein. Deine PIN-Einstellungen werden zurückgesetzt, wenn du dich vollständig von der Anwendung abmeldest."
+    "message": "Gebe deinen PIN-Code für das Entsperren von VWClient ein. Deine PIN-Einstellungen werden zurückgesetzt, wenn du dich vollständig von der Anwendung abmeldest."
   },
   "setPinCode": {
-    "message": "Du kannst diese PIN verwenden, um Bitwarden zu entsperren. Deine PIN wird zurückgesetzt, wenn du dich einmal vollständig aus der Anwendung abmeldest."
+    "message": "Du kannst diese PIN verwenden, um VWClient zu entsperren. Deine PIN wird zurückgesetzt, wenn du dich einmal vollständig aus der Anwendung abmeldest."
   },
   "pinRequired": {
     "message": "PIN-Code ist erforderlich."
@@ -3266,7 +3266,7 @@
     "message": "Warte auf Bestätigung vom Desktop"
   },
   "awaitDesktopDesc": {
-    "message": "Bitte bestätige die Verwendung von Biometrie in der Bitwarden Desktop-Anwendung, um Biometrie für den Browser einzurichten."
+    "message": "Bitte bestätige die Verwendung von Biometrie in der VWClient Desktop-Anwendung, um Biometrie für den Browser einzurichten."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Bei Neustart des Browsers mit Master-Passwort sperren"
@@ -3381,7 +3381,7 @@
     "message": "Das Formular wird von einer anderen Domain als der URI deines gespeicherten Logins gehostet. Wähle OK, um trotzdem automatisch auszufüllen, oder Abbrechen, um aufzuhören."
   },
   "autofillIframeWarningTip": {
-    "message": "Um diese Warnung in Zukunft zu verhindern, speichere diese URI, $HOSTNAME$, in deinem Bitwarden Zugangsdaten-Eintrag für diese Seite.",
+    "message": "Um diese Warnung in Zukunft zu verhindern, speichere diese URI, $HOSTNAME$, in deinem VWClient Zugangsdaten-Eintrag für diese Seite.",
     "placeholders": {
       "hostname": {
         "content": "$1",
@@ -3390,7 +3390,7 @@
     }
   },
   "topLayerHijackWarning": {
-    "message": "Diese Seite beeinträchtigt die Nutzung von Bitwarden. Das Bitwarden Inline-Menü wurde aus Sicherheitsgründen vorübergehend deaktiviert."
+    "message": "Diese Seite beeinträchtigt die Nutzung von VWClient. Das VWClient Inline-Menü wurde aus Sicherheitsgründen vorübergehend deaktiviert."
   },
   "setMasterPassword": {
     "message": "Master-Passwort festlegen"
@@ -3447,7 +3447,7 @@
     "message": "Ihr neues Master-Passwort entspricht nicht den Anforderungen der Richtlinie."
   },
   "receiveMarketingEmails": {
-    "message": "Erhalte Neuigkeiten von Bitwarden in deinem Posteingang."
+    "message": "Erhalte Neuigkeiten von VWClient in deinem Posteingang."
   },
   "unsubscribe": {
     "message": "Deabonnieren"
@@ -3492,13 +3492,13 @@
     "message": "Browser-Integration ist nicht aktiviert"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Die Browser-Integration ist in der Bitwarden Desktop-Anwendung nicht eingerichtet. Bitte richte diese in den Einstellungen der Desktop-Anwendung ein."
+    "message": "Die Browser-Integration ist in der VWClient Desktop-Anwendung nicht eingerichtet. Bitte richte diese in den Einstellungen der Desktop-Anwendung ein."
   },
   "startDesktopTitle": {
-    "message": "Bitwarden Desktop-Anwendung starten"
+    "message": "VWClient Desktop-Anwendung starten"
   },
   "startDesktopDesc": {
-    "message": "Die Bitwarden Desktop-Anwendung muss gestartet werden, bevor Entsperren mit Biometrie verwendet werden kann."
+    "message": "Die VWClient Desktop-Anwendung muss gestartet werden, bevor Entsperren mit Biometrie verwendet werden kann."
   },
   "errorEnableBiometricTitle": {
     "message": "Biometrie konnte nicht eingerichtet werden"
@@ -3552,13 +3552,13 @@
     "message": "Biometrie fehlgeschlagen"
   },
   "biometricsFailedDesc": {
-    "message": "Die biometrische Verifizierung kann nicht abgeschlossen werden. Versuch es mit dem Master-Passwort oder melde dich ab. Sollte das Problem weiterhin bestehen, kontaktiere bitte den Bitwarden-Support."
+    "message": "Die biometrische Verifizierung kann nicht abgeschlossen werden. Versuch es mit dem Master-Passwort oder melde dich ab. Sollte das Problem weiterhin bestehen, kontaktiere bitte den VWClient-Support."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Berechtigung nicht erteilt"
   },
   "nativeMessagingPermissionErrorDesc": {
-    "message": "Ohne die Berechtigung zur Kommunikation mit der Bitwarden Desktop-Anwendung können wir keine Biometrie in der Browser-Erweiterung anbieten. Bitte versuche es erneut."
+    "message": "Ohne die Berechtigung zur Kommunikation mit der VWClient Desktop-Anwendung können wir keine Biometrie in der Browser-Erweiterung anbieten. Bitte versuche es erneut."
   },
   "nativeMessagingPermissionSidebarTitle": {
     "message": "Fehler bei der Berechtigungsanfrage"
@@ -3595,7 +3595,7 @@
     "message": "Ausgeschlossene Domains"
   },
   "excludedDomainsDesc": {
-    "message": "Bitwarden wird keine Login-Daten für diese Domäne speichern. Du musst die Seite aktualisieren, damit die Änderungen wirksam werden."
+    "message": "VWClient wird keine Login-Daten für diese Domäne speichern. Du musst die Seite aktualisieren, damit die Änderungen wirksam werden."
   },
   "blockedDomainsDesc": {
     "message": "Automatisches Ausfüllen und andere zugehörige Funktionen werden für diese Webseiten nicht angeboten. Du musst die Seite neu laden, damit die Änderungen wirksam werden."
@@ -3727,24 +3727,24 @@
     "message": "Illustration einer Liste gefährdeter Zugangsdaten."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Illustration der Bitwarden-Tresor-Seite."
+    "message": "Illustration der VWClient-Tresor-Seite."
   },
   "generatePasswordSlideDesc": {
-    "message": "Generiere schnell ein starkes, einzigartiges Passwort mit dem Bitwarden Auto-Ausfüllen-Menü auf der gefährdeten Website.",
+    "message": "Generiere schnell ein starkes, einzigartiges Passwort mit dem VWClient Auto-Ausfüllen-Menü auf der gefährdeten Website.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Illustration des Bitwarden Auto-Ausfüllen-Menüs, das ein generiertes Passwort anzeigt."
+    "message": "Illustration des VWClient Auto-Ausfüllen-Menüs, das ein generiertes Passwort anzeigt."
   },
   "updateInBitwarden": {
-    "message": "In Bitwarden aktualisieren"
+    "message": "In VWClient aktualisieren"
   },
   "updateInBitwardenSlideDesc": {
-    "message": "Bitwarden wird dich dann auffordern, das Passwort im Passwort-Manager zu aktualisieren.",
+    "message": "VWClient wird dich dann auffordern, das Passwort im Passwort-Manager zu aktualisieren.",
     "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Illustration einer Bitwarden-Benachrichtigung, die den Benutzer dazu auffordert, die Zugangsdaten zu aktualisieren."
+    "message": "Illustration einer VWClient-Benachrichtigung, die den Benutzer dazu auffordert, die Zugangsdaten zu aktualisieren."
   },
   "turnOnAutofill": {
     "message": "Auto-Ausfüllen aktivieren"
@@ -4259,10 +4259,10 @@
     "message": "Fehler beim Abrufen der Auto-Ausfüllen-Daten"
   },
   "couldNotDecryptVaultItem": {
-    "message": "Bitwarden konnte den unten aufgeführten Tresor-Eintrag nicht entschlüsseln. Wende dich an den Bitwarden-Kundensupport und gib die unten aufgeführte Eintrag-ID an, um zu prüfen, ob diese wiederhergestellt werden kann."
+    "message": "VWClient konnte den unten aufgeführten Tresor-Eintrag nicht entschlüsseln. Wende dich an den VWClient-Kundensupport und gib die unten aufgeführte Eintrag-ID an, um zu prüfen, ob diese wiederhergestellt werden kann."
   },
   "couldNotDecryptVaultItems": {
-    "message": "Bitwarden konnte die unten aufgeführten Tresor-Einträge nicht entschlüsseln. Wende dich an den Bitwarden-Kundensupport und gib die unten aufgeführten Eintrags-IDs an, um zu prüfen, ob diese wiederhergestellt werden können."
+    "message": "VWClient konnte die unten aufgeführten Tresor-Einträge nicht entschlüsseln. Wende dich an den VWClient-Kundensupport und gib die unten aufgeführten Eintrags-IDs an, um zu prüfen, ob diese wiederhergestellt werden können."
   },
   "itemId": {
     "message": "Eintrag-ID",
@@ -4372,11 +4372,11 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Von Bitwarden generiert.",
+    "message": "Von VWClient generiert.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Website: $WEBSITE$. Von Bitwarden generiert.",
+    "message": "Website: $WEBSITE$. Von VWClient generiert.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
@@ -4598,7 +4598,7 @@
     "message": "Eine Benachrichtigung wurde an dein Gerät gesendet."
   },
   "notificationSentDevicePart1": {
-    "message": "Entsperre Bitwarden auf deinem Gerät oder mit der"
+    "message": "Entsperre VWClient auf deinem Gerät oder mit der"
   },
   "notificationSentDeviceAnchor": {
     "message": "Web-App"
@@ -5098,15 +5098,15 @@
     "message": "Zum Inhalt wechseln"
   },
   "bitwardenOverlayButton": {
-    "message": "Bitwarden Auto-Ausfüllen Menütaste",
+    "message": "VWClient Auto-Ausfüllen Menütaste",
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Bitwarden Auto-Ausfüllen Menü umschalten",
+    "message": "VWClient Auto-Ausfüllen Menü umschalten",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
-    "message": "Bitwarden Auto-Ausfüllen Menü",
+    "message": "VWClient Auto-Ausfüllen Menü",
     "description": "Page title in overlay"
   },
   "unlockYourAccountToViewMatchingLogins": {
@@ -5178,7 +5178,7 @@
     "description": "Screen reader text (aria-label) for new identity button within inline menu"
   },
   "bitwardenOverlayMenuAvailable": {
-    "message": "Bitwarden Auto-Ausfüllen Menü verfügbar. Drücke die Pfeiltaste nach unten zum Auswählen.",
+    "message": "VWClient Auto-Ausfüllen Menü verfügbar. Drücke die Pfeiltaste nach unten zum Auswählen.",
     "description": "Screen reader text for announcing when the overlay opens on the page"
   },
   "turnOn": {
@@ -5550,7 +5550,7 @@
     "message": "Von Grund auf sicher"
   },
   "importDataSecureByDesignBody": {
-    "message": "Ende-zu-Ende verschlüsselte Übergabe. Bitwarden sieht zu keinem Zeitpunkt deine $VENDOR$-Zugangsdaten.",
+    "message": "Ende-zu-Ende verschlüsselte Übergabe. VWClient sieht zu keinem Zeitpunkt deine $VENDOR$-Zugangsdaten.",
     "placeholders": {
       "vendor": {
         "content": "$1",
@@ -5725,7 +5725,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "-Datei hier bei Bitwarden hoch.",
+    "message": "-Datei hier bei VWClient hoch.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -6392,7 +6392,7 @@
     "message": "Aktives Konto"
   },
   "bitwardenAccount": {
-    "message": "Bitwarden-Konto"
+    "message": "VWClient-Konto"
   },
   "availableAccounts": {
     "message": "Verfügbare Konten"
@@ -6438,7 +6438,7 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "Die URI-Übereinstimmungserkennung ist die Methode, mit der Bitwarden Vorschläge zum automatischen Ausfüllen identifiziert.",
+    "message": "Die URI-Übereinstimmungserkennung ist die Methode, mit der VWClient Vorschläge zum automatischen Ausfüllen identifiziert.",
     "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
@@ -6482,15 +6482,15 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Bitwarden zum Standard-Passwort-Manager machen?",
+    "message": "VWClient zum Standard-Passwort-Manager machen?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Das Ignorieren dieser Option kann zu Konflikten zwischen den Bitwarden Vorschlägen zum Auto-Ausfüllen und denen deines Browsers führen.",
+    "message": "Das Ignorieren dieser Option kann zu Konflikten zwischen den VWClient Vorschlägen zum Auto-Ausfüllen und denen deines Browsers führen.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Bitwarden zum Standard-Passwort-Manager machen",
+    "message": "VWClient zum Standard-Passwort-Manager machen",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
@@ -6498,7 +6498,7 @@
     "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "Du wirst aufgefordert, dem $BROWSER$-Browser die Berechtigung zu erteilen, Bitwarden als deinen Standard-Passwort-Manager festzulegen.",
+    "message": "Du wirst aufgefordert, dem $BROWSER$-Browser die Berechtigung zu erteilen, VWClient als deinen Standard-Passwort-Manager festzulegen.",
     "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
     "placeholders": {
       "browser": {
@@ -6508,11 +6508,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Bitwarden konnte nicht als Standard-Passwort-Manager festgelegt werden",
+    "message": "VWClient konnte nicht als Standard-Passwort-Manager festgelegt werden",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "Du musst Bitwarden Zugriff für die Browser-Datenschutzberechtigungen erteilen, um Bitwarden als Standard-Passwort-Manager festzulegen.",
+    "message": "Du musst VWClient Zugriff für die Browser-Datenschutzberechtigungen erteilen, um VWClient als Standard-Passwort-Manager festzulegen.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -6520,10 +6520,10 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Mache Bitwarden zum Standard-Passwort-Manager deines Browsers"
+    "message": "Mache VWClient zum Standard-Passwort-Manager deines Browsers"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Bitwarden zu deinen Standard-Passwort-Manager machen",
+    "message": "VWClient zu deinen Standard-Passwort-Manager machen",
     "description": "Label for the setting to make Bitwarden the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
@@ -6535,13 +6535,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "in der Browser-Abfrage, um Bitwarden die Berechtigung zu erteilen, deine Einstellungen zu ändern."
+    "message": "in der Browser-Abfrage, um VWClient die Berechtigung zu erteilen, deine Einstellungen zu ändern."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "Wir werden den eingebauten Passwort-Manager deines Browsers deaktivieren, damit du dich sicher anmelden kannst."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Bitwarden wurde zu deinem Standard-Passwort-Manager gemacht"
+    "message": "VWClient wurde zu deinem Standard-Passwort-Manager gemacht"
   },
   "allow": {
     "message": "Erlauben",
@@ -6952,16 +6952,16 @@
     "message": "Anhang herunterladen"
   },
   "downloadBitwarden": {
-    "message": "Bitwarden herunterladen"
+    "message": "VWClient herunterladen"
   },
   "downloadBitwardenOnAllDevices": {
-    "message": "Bitwarden auf allen Geräten herunterladen"
+    "message": "VWClient auf allen Geräten herunterladen"
   },
   "getTheMobileApp": {
     "message": "Smartphone-App herunterladen"
   },
   "getTheMobileAppDesc": {
-    "message": "Greife von unterwegs mit der Bitwarden Smartphone-App auf deine Passwörter zu."
+    "message": "Greife von unterwegs mit der VWClient Smartphone-App auf deine Passwörter zu."
   },
   "getTheDesktopApp": {
     "message": "Desktop-App herunterladen"
@@ -7514,10 +7514,10 @@
     "message": "Biometrisches Entsperren ist aufgrund falsch konfigurierter Systemdateien nicht verfügbar."
   },
   "biometricsStatusHelptextDesktopDisconnected": {
-    "message": "Biometrisches Entsperren ist nicht verfügbar, da die Bitwarden Desktop-App geschlossen ist."
+    "message": "Biometrisches Entsperren ist nicht verfügbar, da die VWClient Desktop-App geschlossen ist."
   },
   "biometricsStatusHelptextNotEnabledInDesktop": {
-    "message": "Biometrisches Entsperren ist nicht verfügbar, da es für $EMAIL$ in der Bitwarden Desktop-App nicht aktiviert ist.",
+    "message": "Biometrisches Entsperren ist nicht verfügbar, da es für $EMAIL$ in der VWClient Desktop-App nicht aktiviert ist.",
     "placeholders": {
       "email": {
         "content": "$1",
@@ -7549,7 +7549,7 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "In Bitwarden speichern",
+    "message": "In VWClient speichern",
     "description": "Confirmation message for saving a login to Bitwarden"
   },
   "spaceCharacterDescriptor": {
@@ -7793,13 +7793,13 @@
     "message": "Verwende Ordner, um Tresor-Einträge zu organisieren. Diese sind nur für dich bestimmt. Niemand sonst kann sie sehen oder nutzen."
   },
   "introCarouselLabel": {
-    "message": "Willkommen bei Bitwarden"
+    "message": "Willkommen bei VWClient"
   },
   "securityPrioritized": {
     "message": "Sicherheit, priorisiert"
   },
   "securityPrioritizedBody": {
-    "message": "Speichere Zugangsdaten, Karten und Identitäten in deinem sicheren Tresor. Bitwarden verwendet Zero-Knowledge und Ende-zu-Ende-Verschlüsselung, um das zu schützen, was für dich wichtig ist."
+    "message": "Speichere Zugangsdaten, Karten und Identitäten in deinem sicheren Tresor. VWClient verwendet Zero-Knowledge und Ende-zu-Ende-Verschlüsselung, um das zu schützen, was für dich wichtig ist."
   },
   "quickLogin": {
     "message": "Schnelle und einfache Anmeldung"
@@ -7817,7 +7817,7 @@
     "message": "Deine Daten, wann und wo du sie brauchst"
   },
   "secureDevicesBody": {
-    "message": "Speicher eine unbegrenzte Anzahl von Passwörtern auf unbegrenzt vielen Geräten mit Bitwarden-Apps für Smartphones, Browser und Desktop."
+    "message": "Speicher eine unbegrenzte Anzahl von Passwörtern auf unbegrenzt vielen Geräten mit VWClient-Apps für Smartphones, Browser und Desktop."
   },
   "nudgeBadgeAria": {
     "message": "1 Benachrichtigung"
@@ -7826,7 +7826,7 @@
     "message": "Vorhandene Passwörter importieren"
   },
   "emptyVaultNudgeBody": {
-    "message": "Verwende den Importer, um Zugangsdaten schnell zu Bitwarden zu übertragen, ohne sie manuell hinzuzufügen."
+    "message": "Verwende den Importer, um Zugangsdaten schnell zu VWClient zu übertragen, ohne sie manuell hinzuzufügen."
   },
   "emptyVaultNudgeButton": {
     "message": "Jetzt importieren"
@@ -7945,7 +7945,7 @@
     "message": "Über diese Einstellung"
   },
   "permitCipherDetailsDescription": {
-    "message": "Bitwarden verwendet gespeicherte Zugangsdaten-URIs, um zu erkennen, welches Symbol oder welche Passwort-Ändern-URL verwendet werden soll, um dein Erlebnis zu verbessern. Es werden keine Informationen erfasst oder gespeichert, wenn du diesen Dienst nutzt."
+    "message": "VWClient verwendet gespeicherte Zugangsdaten-URIs, um zu erkennen, welches Symbol oder welche Passwort-Ändern-URL verwendet werden soll, um dein Erlebnis zu verbessern. Es werden keine Informationen erfasst oder gespeichert, wenn du diesen Dienst nutzt."
   },
   "showQuickCopyActionsDetailsDescription": {
     "message": "Neben Einträgen 3 Schnellkopier-Buttons hinzufügen, um deinen Benutzernamen, Passwort oder Verifizierungscode in die Zwischenablage zu kopieren."
@@ -7954,7 +7954,7 @@
     "message": "Du hast keine Berechtigung, diese Seite anzuzeigen. Versuche, dich mit einem anderen Konto anzumelden."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly wird von deinem Browser nicht unterstützt oder ist nicht aktiviert. WebAssembly wird benötigt, um die Bitwarden-App nutzen zu können.",
+    "message": "WebAssembly wird von deinem Browser nicht unterstützt oder ist nicht aktiviert. WebAssembly wird benötigt, um die VWClient-App nutzen zu können.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -8042,7 +8042,7 @@
     "message": "Fehler: Entschlüsselung nicht möglich"
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "Deine Organisation verwendet keine Master-Passwörter mehr, um sich bei Bitwarden anzumelden. Verifiziere die Organisation und Domain, um fortzufahren."
+    "message": "Deine Organisation verwendet keine Master-Passwörter mehr, um sich bei VWClient anzumelden. Verifiziere die Organisation und Domain, um fortzufahren."
   },
   "continueWithLogIn": {
     "message": "Mit der Anmeldung fortfahren"
@@ -8128,7 +8128,7 @@
     "message": "Stell eine Entsperrmethode ein, um deine Timeout-Aktion zu ändern"
   },
   "sessionTimeoutSuppressedByConnectedDevice": {
-    "message": "Verwaltet von der Bitwarden Desktop-App. Öffne die Desktop-App zum Bearbeiten."
+    "message": "Verwaltet von der VWClient Desktop-App. Öffne die Desktop-App zum Bearbeiten."
   },
   "percentageCompleted": {
     "message": "Zu $PERCENT$% abgeschlossen",
@@ -8230,7 +8230,7 @@
     "message": "benutzer@bitwarden.com, benutzer@acme.com"
   },
   "downloadBitwardenApps": {
-    "message": "Bitwarden-Apps herunterladen"
+    "message": "VWClient-Apps herunterladen"
   },
   "emailProtected": {
     "message": "E-Mail-Adresse geschützt"
@@ -8249,7 +8249,7 @@
     "message": "Entsperren mit der Desktop-App synchronisieren"
   },
   "syncUnlockWithDesktopDescription1": {
-    "message": "Die Bitwarden Browser-Erweiterung und die Desktop-App werden gemeinsam gesperrt und entsperrt. Biometrie wird verwendet, wenn verfügbar."
+    "message": "Die VWClient Browser-Erweiterung und die Desktop-App werden gemeinsam gesperrt und entsperrt. Biometrie wird verwendet, wenn verfügbar."
   },
   "sharedUnlockUnavailableUntrustedDevice": {
     "message": "Das Teilen des Ensperrzustands ist nicht verfügbar, da du dich entschieden hast, dir dieses Gerät nicht zu merken. Um diese Einstellung zu aktivieren, melde dich bitte erneut an."
@@ -8258,13 +8258,13 @@
     "message": "Neue Berechtigung benötigt"
   },
   "sharedUnlockDesktopPermissionDesc": {
-    "message": "Um den Entsperrzustand zu teilen, benötigt Bitwarden die Berechtigung, mit der Desktop-App zu kommunizieren. Wenn du fortfährst, wirst du von deinem Browser aufgefordert, dies zu genehmigen."
+    "message": "Um den Entsperrzustand zu teilen, benötigt VWClient die Berechtigung, mit der Desktop-App zu kommunizieren. Wenn du fortfährst, wirst du von deinem Browser aufgefordert, dies zu genehmigen."
   },
   "sharedUnlockDesktopPermissionWarning": {
-    "message": "Bitwarden wird gesperrt und neu geladen. Nach deiner Bestätigung, wird die Erweiterung neu geladen und dein Tresor gesperrt."
+    "message": "VWClient wird gesperrt und neu geladen. Nach deiner Bestätigung, wird die Erweiterung neu geladen und dein Tresor gesperrt."
   },
   "biometricPermissionDesc": {
-    "message": "Um Biometrie zum Entsperren zu verwenden, benötigt Bitwarden die Berechtigung, mit der Desktop-App zu kommunizieren. Wenn du fortfährst, wirst du von deinem Browser aufgefordert, dies zu genehmigen."
+    "message": "Um Biometrie zum Entsperren zu verwenden, benötigt VWClient die Berechtigung, mit der Desktop-App zu kommunizieren. Wenn du fortfährst, wirst du von deinem Browser aufgefordert, dies zu genehmigen."
   },
   "enterMonth": {
     "message": "Monat eingeben."
@@ -8767,15 +8767,15 @@
     "message": "Eintrags-ID konnte nicht ermittelt werden"
   },
   "newExperienceDialogTitle": {
-    "message": "Bitwarden hat ein neues Design",
+    "message": "VWClient hat ein neues Design",
     "description": "Title of the dialog that introduces the redesigned vault to existing users."
   },
   "newExperienceDialogDesc": {
-    "message": "Bessere Benutzererfahrung, dieselbe bewährte Sicherheit. Der Bitwarden-Tresor wurde auf Grundlage deines Feedbacks neu gestaltet, sodass du Dinge leichter findest und alles so funktioniert, wie du es erwartest.",
+    "message": "Bessere Benutzererfahrung, dieselbe bewährte Sicherheit. Der VWClient-Tresor wurde auf Grundlage deines Feedbacks neu gestaltet, sodass du Dinge leichter findest und alles so funktioniert, wie du es erwartest.",
     "description": "Body copy of the dialog that introduces the redesigned vault to existing users."
   },
   "newExperienceDialogImgAlt": {
-    "message": "Eine Vorschau auf den neu gestalteten Bitwarden-Tresor.",
+    "message": "Eine Vorschau auf den neu gestalteten VWClient-Tresor.",
     "description": "Alt text for the screenshot shown in the dialog that introduces the redesigned vault."
   },
   "exploreTheNewVault": {

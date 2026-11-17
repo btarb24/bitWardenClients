@@ -1,18 +1,18 @@
 {
   "name": "__MSG_extNameBeta__",
-  "short_name": "Bitwarden Beta",
+  "short_name": "VWClient Beta",
   "action": {
-    "default_title": "Bitwarden Beta"
+    "default_title": "VWClient Beta"
   },
   "browser_action": {
-    "default_title": "Bitwarden Beta"
+    "default_title": "VWClient Beta"
   },
   "sidebar_action": {
-    "default_title": "Bitwarden Beta"
+    "default_title": "VWClient Beta"
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "{54c7abf2-9fd5-45ad-af64-c1c0b2e2ecc8}"
+      "id": "{7d0c2e7a-5b1f-4f3e-9a52-0c6d1e8b4a21}"
     }
   }
 }
